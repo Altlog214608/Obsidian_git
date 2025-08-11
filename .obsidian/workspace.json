@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily/2025/08/2025-08-11.md",
+                "file": "Notes/Daily/2025/08/2025-08-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-11"
+              "title": "2025-08-08"
             }
           }
         ]
@@ -203,14 +203,16 @@
   },
   "active": "67153ad77467c76f",
   "lastOpenFiles": [
+    "Notes/Daily/2025/08/2025-08-07.md",
     "Notes/Daily/2025/08/2025-08-08.md",
+    "Notes/Daily/2025/08/2025-08-11.md",
+    "무제.md",
+    "Vault.md",
     "FrSmart/FsSmart_ControlPumpMFC/00.ControlPumpMFC_파일분석.md",
     "FrSmart/FsSmart_ControlPumpMFC/FsSmart_ControlPumpMFC.md",
     "FrSmart/FsSmart_ControlPumpMFC",
     "ScentSmart/ScentSmart_매니폴드_제어_구동_프로그램SW/ScentSmart_매니폴드_제어_구동_프로그램SW.md",
     "FrSmart/무제.md",
-    "Notes/Daily/2025/08/2025-08-11.md",
-    "Notes/Daily/2025/08/2025-08-07.md",
     "KnowledgeBase/Concepts/Concepts.md",
     "KnowledgeBase/Snippets/Snippets.md",
     "KnowledgeBase/AI/01_메모리 뱅크.md",
@@ -233,8 +235,6 @@
     "ScentSmart/ScentSmart_SW_분석/09_Signal 객체와 QThread.md",
     "ScentSmart/ScentSmart_SW_분석/08_QObject.md",
     "ScentSmart/ScentSmart_SW_분석/07_검사_훈련_시나리오.md",
-    "ScentSmart/ScentSmart_SW_분석/06_함수_분류_및_전체_흐름.md",
-    "ScentSmart/ScentSmart_SW_분석/05_프로토콜_분석.md",
     "assets/img/tree1_expert.svg",
     "assets/img/Pasted image 20250806105724.png",
     "assets/img/ChatGPT Image 2025년 8월 4일 오전 09_24_44.png",

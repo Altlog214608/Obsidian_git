@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-08-08",
+      "path": "Notes/Daily/2025/08/2025-08-08.md"
+    },
+    {
+      "basename": "2025-08-07",
+      "path": "Notes/Daily/2025/08/2025-08-07.md"
+    },
+    {
       "basename": "2025-08-11",
       "path": "Notes/Daily/2025/08/2025-08-11.md"
     },
     {
-      "basename": "2025-08-08",
-      "path": "Notes/Daily/2025/08/2025-08-08.md"
+      "basename": "무제",
+      "path": "무제.md"
+    },
+    {
+      "basename": "Vault",
+      "path": "Vault.md"
     },
     {
       "basename": "00.ControlPumpMFC_파일분석",
@@ -19,10 +31,6 @@
     {
       "basename": "ScentSmart_매니폴드_제어_구동_프로그램SW",
       "path": "ScentSmart/ScentSmart_매니폴드_제어_구동_프로그램SW/ScentSmart_매니폴드_제어_구동_프로그램SW.md"
-    },
-    {
-      "basename": "2025-08-07",
-      "path": "Notes/Daily/2025/08/2025-08-07.md"
     },
     {
       "basename": "Concepts",
@@ -191,14 +199,6 @@
     {
       "basename": "00_분석방향",
       "path": "ScentSmart/ScentSmart_매니폴드_제어_구동_프로그램SW/00_분석방향.md"
-    },
-    {
-      "basename": "20_구조요약",
-      "path": "ScentSmart/ScentSmart_매니폴드_제어_구동_프로그램SW/20_구조요약.md"
-    },
-    {
-      "basename": "30_ReadFromCom함수",
-      "path": "ScentSmart/ScentSmart_매니폴드_제어_구동_프로그램SW/30_ReadFromCom함수.md"
     }
   ],
   "omittedPaths": [],
