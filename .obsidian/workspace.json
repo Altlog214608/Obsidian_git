@@ -11,14 +11,12 @@
             "id": "67153ad77467c76f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Notes/Daily/2025/08/2025-08-08.md",
-                "mode": "source",
-                "source": false
+                "path": "ScentSmart/ScentSmart_매니폴드_제어_구동_프로그램SW"
               },
               "icon": "lucide-file",
-              "title": "2025-08-08"
+              "title": "ScentSmart_매니폴드_제어_구동_프로그램SW"
             }
           }
         ]
@@ -201,10 +199,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "67153ad77467c76f",
+  "active": "ad99aa57c1d2cec2",
   "lastOpenFiles": [
-    "Notes/Daily/2025/08/2025-08-11.md",
     "Notes/Daily/2025/08/2025-08-08.md",
+    "Notes/Daily/2025/08/2025-08-11.md",
     "Notes/Daily/2025/08/2025-08-07.md",
     "KnowledgeBase/Concepts/Concepts.md",
     "KnowledgeBase/Snippets/Snippets.md",
