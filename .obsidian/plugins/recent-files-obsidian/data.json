@@ -9,6 +9,10 @@
       "path": "Notes/Daily/2025/08/2025-08-11.md"
     },
     {
+      "basename": "2025-08-13",
+      "path": "Notes/Daily/2025/08/2025-08-13.md"
+    },
+    {
       "basename": "무제",
       "path": "무제.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "37_알아야 할 패킷프로토콜, 실전 유의점",
       "path": "ScentSmart/ScentSmart_SW_분석/37_알아야 할 패킷프로토콜, 실전 유의점.md"
-    },
-    {
-      "basename": "2025-08-04",
-      "path": "Notes/Daily/2025/08/2025-08-04.md"
     }
   ],
   "omittedPaths": [],
