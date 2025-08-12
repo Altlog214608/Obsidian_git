@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrSmart/FsSmart_ControlPumpMFC/01_전체 분석.md",
+                "file": "FrSmart/FsSmart_ControlPumpMFC/02.ControlPumpMFC_head.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_전체 분석"
+              "title": "02.ControlPumpMFC_head"
             }
           }
         ]
@@ -203,8 +203,10 @@
   },
   "active": "67153ad77467c76f",
   "lastOpenFiles": [
-    "Notes/Daily/2025/08/2025-08-12.md",
+    "FrSmart/FsSmart_ControlPumpMFC/00.ControlPumpMFC_파일분석.md",
+    "FrSmart/FsSmart_ControlPumpMFC/02.ControlPumpMFC_head.md",
     "FrSmart/FsSmart_ControlPumpMFC/01_전체 분석.md",
+    "Notes/Daily/2025/08/2025-08-12.md",
     "FrSmart/FsSmart_제어_구동_프로그램 분석/FsSmart_제어_구동_프로그램 분석.md",
     "FrSmart/FsSmart_제어_구동_프로그램 분석",
     "FrSmart/무제.md",
@@ -215,7 +217,6 @@
     "Notes/Daily/2025/08/2025-08-15.md",
     "Notes/Daily/2025/08/2025-08-07.md",
     "Vault.md",
-    "FrSmart/FsSmart_ControlPumpMFC/00.ControlPumpMFC_파일분석.md",
     "FrSmart/FsSmart_ControlPumpMFC/FsSmart_ControlPumpMFC.md",
     "FrSmart/FsSmart_ControlPumpMFC",
     "ScentSmart/ScentSmart_매니폴드_제어_구동_프로그램SW/ScentSmart_매니폴드_제어_구동_프로그램SW.md",
@@ -235,7 +236,6 @@
     "ScentSmart/ScentSmart_SW_분석/40_예상질문리스트_답변.md",
     "KnowledgeBase",
     "ScentSmart/ScentSmart_SW_분석/42_built-in signal.md",
-    "ScentSmart/ScentSmart_SW_분석/39_예상질문리스트.md",
     "assets/img/tree1_expert.svg",
     "assets/img/Pasted image 20250806105724.png",
     "assets/img/ChatGPT Image 2025년 8월 4일 오전 09_24_44.png",
