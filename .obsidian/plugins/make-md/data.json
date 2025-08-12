@@ -56,7 +56,8 @@
     "//FrSmart",
     "//assets/assets/img",
     "//KnowledgeBase",
-    "//KnowledgeBase/KnowledgeBase/AI"
+    "//KnowledgeBase/KnowledgeBase/AI",
+    "//FrSmart/FrSmart/FsSmart_ControlPumpMFC"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
