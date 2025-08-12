@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/무제.md"
+    },
+    {
       "basename": "02.ControlPumpMFC_head",
       "path": "FrSmart/FsSmart_ControlPumpMFC/02.ControlPumpMFC_head.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "01_모델설명",
       "path": "FrSmart/FrSmart_SW_분석/01_모델설명.md"
-    },
-    {
-      "basename": "02_sklearn_앙상블",
-      "path": "FrSmart/FrSmart_SW_분석/02_sklearn_앙상블.md"
     }
   ],
   "omittedPaths": [],
