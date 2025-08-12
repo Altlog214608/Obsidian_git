@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/무제.md"
+    },
+    {
       "basename": "2025-08-12",
       "path": "Notes/Daily/2025/08/2025-08-12.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-08-05",
       "path": "Notes/Daily/2025/08/2025-08-05.md"
-    },
-    {
-      "basename": "37_알아야 할 패킷프로토콜, 실전 유의점",
-      "path": "ScentSmart/ScentSmart_SW_분석/37_알아야 할 패킷프로토콜, 실전 유의점.md"
     }
   ],
   "omittedPaths": [],
