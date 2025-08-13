@@ -119,7 +119,7 @@ UART는 최소 **2개의 신호선**으로 동작합니다.
 
 ![UART Connection Diagram](https://upload.wikimedia.org/wikipedia/commons/9/9b/Serial_port_signals.svg)
 ```
-
+![[ChatGPT Image 2025년 8월 13일 오후 01_44_44.png]]
 ---
 
 이렇게 쓰면 장치관리자의 **COM 포트**가 UART 통신을 통해서 동작하는 경우를 이해하기 훨씬 쉽게 보실 수 있을 거예요.  
