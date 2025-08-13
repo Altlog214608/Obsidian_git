@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrSmart/FsSmart_ControlPumpMFC/14_NF 파일 내부 동작.md",
+                "file": "FrSmart/FsSmart_ControlPumpMFC/15_중요_펌웨어 통신 과정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14_NF 파일 내부 동작"
+              "title": "15_중요_펌웨어 통신 과정"
             }
           }
         ]
@@ -203,8 +203,8 @@
   },
   "active": "67153ad77467c76f",
   "lastOpenFiles": [
-    "FrSmart/FsSmart_ControlPumpMFC/15_중요_펌웨어 통신 과정.md",
     "FrSmart/FsSmart_ControlPumpMFC/14_NF 파일 내부 동작.md",
+    "FrSmart/FsSmart_ControlPumpMFC/15_중요_펌웨어 통신 과정.md",
     "FrSmart/FsSmart_ControlPumpMFC/13_하드웨어 포트 구성.md",
     "FrSmart/FsSmart_ControlPumpMFC/12_주요 흐름.md",
     "assets/img/generated-image 1.png",

@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "14_NF 파일 내부 동작",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/14_NF 파일 내부 동작.md"
-    },
-    {
       "basename": "15_중요_펌웨어 통신 과정",
       "path": "FrSmart/FsSmart_ControlPumpMFC/15_중요_펌웨어 통신 과정.md"
+    },
+    {
+      "basename": "14_NF 파일 내부 동작",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/14_NF 파일 내부 동작.md"
     },
     {
       "basename": "13_하드웨어 포트 구성",
