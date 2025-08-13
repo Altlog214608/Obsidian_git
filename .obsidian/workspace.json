@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrSmart/FsSmart_ControlPumpMFC/17_중요_전체 통합 흐름.md",
+                "file": "FrSmart/FsSmart_ControlPumpMFC/07_NF, MFC 비교.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17_중요_전체 통합 흐름"
+              "title": "07_NF, MFC 비교"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "67153ad77467c76f",
   "lastOpenFiles": [
-    "FrSmart/FsSmart_ControlPumpMFC/16_추가로 알면 좋은 것들.md",
+    "FrSmart/FsSmart_ControlPumpMFC/07_동시 발향 테스트.md",
     "FrSmart/FsSmart_ControlPumpMFC/17_중요_전체 통합 흐름.md",
+    "FrSmart/FsSmart_ControlPumpMFC/16_추가로 알면 좋은 것들.md",
     "FrSmart/FsSmart_ControlPumpMFC/15_중요_펌웨어 통신 과정.md",
     "FrSmart/FsSmart_ControlPumpMFC/14_NF 파일 내부 동작.md",
     "FrSmart/FsSmart_ControlPumpMFC/13_하드웨어 포트 구성.md",
@@ -216,9 +217,8 @@
     "FrSmart/FsSmart_ControlPumpMFC/08_데이터 송수신.md",
     "FrSmart/FsSmart_ControlPumpMFC/09_UART.md",
     "assets/img/ChatGPT Image 2025년 8월 13일 오후 01_44_44.png",
-    "FrSmart/FsSmart_ControlPumpMFC/07_동시 발향 테스트.md",
     "FrSmart/FsSmart_ControlPumpMFC/06_동시 발향 테스트 방법.md",
-    "FrSmart/FsSmart_ControlPumpMFC/07_NF, MFC 차이.md",
+    "FrSmart/FsSmart_ControlPumpMFC/07_NF, MFC 비교.md",
     "Notes/Notes.md",
     "assets/assets.md",
     "FrSmart/FsSmart_ControlPumpMFC/FsSmart_ControlPumpMFC.md",
