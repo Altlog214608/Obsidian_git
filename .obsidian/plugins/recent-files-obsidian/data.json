@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "16_추가로 알면 좋은 것들",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/16_추가로 알면 좋은 것들.md"
+    },
+    {
       "basename": "15_중요_펌웨어 통신 과정",
       "path": "FrSmart/FsSmart_ControlPumpMFC/15_중요_펌웨어 통신 과정.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "38_DB(암호화_복호화)",
       "path": "ScentSmart/ScentSmart_SW_분석/38_DB(암호화_복호화).md"
-    },
-    {
-      "basename": "2025-08-06",
-      "path": "Notes/Daily/2025/08/2025-08-06.md"
     }
   ],
   "omittedPaths": [],
