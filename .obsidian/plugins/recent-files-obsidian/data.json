@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "05",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/05.md"
+    },
+    {
       "basename": "04",
       "path": "FrSmart/FsSmart_ControlPumpMFC/04.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "08_set_ui_find_age_func",
       "path": "FrSmart/FrSmart_SW_분석/08_set_ui_find_age_func.md"
-    },
-    {
-      "basename": "07_AI_모델_사용시점",
-      "path": "FrSmart/FrSmart_SW_분석/07_AI_모델_사용시점.md"
     }
   ],
   "omittedPaths": [],

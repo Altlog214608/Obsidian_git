@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrSmart/FsSmart_ControlPumpMFC/04.md",
+                "file": "FrSmart/FsSmart_ControlPumpMFC/05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04"
+              "title": "05"
             }
           }
         ]
@@ -203,10 +203,11 @@
   },
   "active": "67153ad77467c76f",
   "lastOpenFiles": [
+    "FrSmart/FsSmart_ControlPumpMFC/04.md",
+    "FrSmart/FsSmart_ControlPumpMFC/05.md",
     "Notes/Daily/2025/08/2025-08-13.md",
     "Notes/Daily/2025/08/2025-08-12.md",
     "Notes/Daily/2025/08/2025-08-11.md",
-    "FrSmart/FsSmart_ControlPumpMFC/04.md",
     "FrSmart/FsSmart_ControlPumpMFC/03.ControlPumpMFC_c.md",
     "FrSmart/FsSmart_ControlPumpMFC/FsSmart_ControlPumpMFC.md",
     "FrSmart/FsSmart_ControlPumpMFC/02.ControlPumpMFC_head.md",
@@ -234,7 +235,6 @@
     "KnowledgeBase/Snippets",
     "ScentSmart/ScentSmart_SW_분석/41_Farnet.md",
     "KnowledgeBase/Concepts",
-    "KnowledgeBase/KnowledgeBase.md",
     "KnowledgeBase",
     "assets/img/tree1_expert.svg",
     "assets/img/Pasted image 20250806105724.png",
