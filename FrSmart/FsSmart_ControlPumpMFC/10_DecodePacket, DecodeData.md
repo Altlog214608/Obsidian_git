@@ -60,19 +60,31 @@
         
 4. **UI 업데이트 (단, 압력 값(MFC_CGP)는 그래프에만 표시)**
 	```c
-    
+    if (add != MFC_CGP)     SetCtrlVal(control_handle, CPL_RES, datastr);
     ```
-    c
-    
-    `if (add != MFC_CGP)     SetCtrlVal(control_handle, CPL_RES, datastr);`
     
     - MFC_CGP(Carrier Gas Pressure) 데이터일 때는 UI 텍스트에 대신 그래프를 그림
         
 5. **주소별 데이터 처리 분기**
-    
+    ```c
+    switch (add) {     
+	    case MFC_NSB: // 솔레노이드 보드 개수        
+	    s_mfc.tnsbd  = rdata[0];          // 보드 개수        
+	    s_mfc.tnmfl  = s_mfc.tnsbd * 6;   // 전체 라인(포트) 수        
+	    // 동적 메모리 할당: duty[], status[], lhindex[], dutyzero[]        
+	    break;     
+	    case MFC_SPS: // 각 포트 상태        
+	    for(i=0; i < s_mfc.tnsbd * 6; i++)            
+	    s_mfc.status[i] = rdata[i];        
+	    break;     
+	    case MFC_SPA: // 각 포트 duty 값        
+	    for(i=0; i < s_mfc.tnsbd * 8; i++)           
+	     s_mfc.duty[i] = rdata[i];        
+	     break;     case MFC_CGP: // Carrier Gas Pressure        ddata[0] = (double)rdata[0] * 0.1; // 소수로 변환(kPa 단위)        SetCtrlVal(acq_handle, DPNL_PRES, ddata[0]); // UI 표시        PlotStripChart(acq_handle, DPNL_SCHART, ddata, 1, 0, 0, VAL_DOUBLE); // 차트에 플롯        break; }
+    ```
     c
     
-    `switch (add) {     case MFC_NSB: // 솔레노이드 보드 개수        s_mfc.tnsbd  = rdata[0];          // 보드 개수        s_mfc.tnmfl  = s_mfc.tnsbd * 6;   // 전체 라인(포트) 수        // 동적 메모리 할당: duty[], status[], lhindex[], dutyzero[]        break;     case MFC_SPS: // 각 포트 상태        for(i=0; i < s_mfc.tnsbd * 6; i++)            s_mfc.status[i] = rdata[i];        break;     case MFC_SPA: // 각 포트 duty 값        for(i=0; i < s_mfc.tnsbd * 8; i++)            s_mfc.duty[i] = rdata[i];        break;     case MFC_CGP: // Carrier Gas Pressure        ddata[0] = (double)rdata[0] * 0.1; // 소수로 변환(kPa 단위)        SetCtrlVal(acq_handle, DPNL_PRES, ddata[0]); // UI 표시        PlotStripChart(acq_handle, DPNL_SCHART, ddata, 1, 0, 0, VAL_DOUBLE); // 차트에 플롯        break; }`
+    ``
     
 6. **할당 메모리 해제**
     
