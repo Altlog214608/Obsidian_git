@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/무제.md"
+    },
+    {
       "basename": "08_데이터 송수신",
       "path": "FrSmart/FsSmart_ControlPumpMFC/08_데이터 송수신.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "FrSmart_SW_분석_계획",
       "path": "FrSmart/FrSmart_SW_분석_계획/FrSmart_SW_분석_계획.md"
-    },
-    {
-      "basename": "10_함수_네이밍",
-      "path": "FrSmart/FrSmart_SW_분석/10_함수_네이밍.md"
     }
   ],
   "omittedPaths": [],

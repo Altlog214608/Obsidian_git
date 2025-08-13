@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrSmart/FsSmart_ControlPumpMFC/08_데이터 송수신.md",
+                "file": "FrSmart/FsSmart_ControlPumpMFC/무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08_데이터 송수신"
+              "title": "무제"
             }
           }
         ]
@@ -203,9 +203,10 @@
   },
   "active": "67153ad77467c76f",
   "lastOpenFiles": [
+    "FrSmart/FsSmart_ControlPumpMFC/08_데이터 송수신.md",
+    "FrSmart/FsSmart_ControlPumpMFC/무제.md",
     "FrSmart/FsSmart_ControlPumpMFC/09_UART.md",
     "assets/img/ChatGPT Image 2025년 8월 13일 오후 01_44_44.png",
-    "FrSmart/FsSmart_ControlPumpMFC/08_데이터 송수신.md",
     "FrSmart/FsSmart_ControlPumpMFC/07_동시 발향 테스트.md",
     "FrSmart/FsSmart_ControlPumpMFC/06_동시 발향 테스트 방법.md",
     "FrSmart/FsSmart_ControlPumpMFC/07_NF, MFC 차이.md",
