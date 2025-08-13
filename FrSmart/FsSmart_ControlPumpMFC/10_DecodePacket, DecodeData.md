@@ -19,13 +19,13 @@
 
 1. **변수 준비**
     
-    c
-    
+	
     ```c
     cunsigned short *rdata; 
     rdata = malloc(rdreg * sizeof(short)); 
     index = 3; 
-    rindex = 0; nodata = s_serial.read[2] / 2; // 수신 바이트 개수 → 레지스터 개수
+    rindex = 0; 
+    nodata = s_serial.read[2] / 2; // 수신 바이트 개수 → 레지스터 개수
     ```
     
     - 응답 패킷 첫 3바이트: `[슬레이브ID, 함수코드, 데이터바이트수]`
@@ -33,13 +33,17 @@
     - `nodata`: 읽은 바이트 개수를 2로 나눈 값 = 레지스터 개수
         
 2. **디버그 문자열에 주소 출력 준비**
+	```c
+	sprintf(datastr,"value[0x%04X] = ", add);   
+	```
     
-    c
     
-    `sprintf(datastr,"value[0x%04X] = ", add);`
     
+	    
 3. **응답 데이터 바이트 → 16비트 레지스터 배열 변환**
+    ```c
     
+    ```
     c
     
     `for(i=0; i < nodata; i++) {     rdata[rindex] = (short)s_serial.read[index]; index++;    rdata[rindex] <<= 8;    rdata[rindex] |= (short)s_serial.read[index]; index++;    sprintf(datastr,"%s %d", datastr, rdata[rindex]);    rindex++; }`
