@@ -42,11 +42,15 @@
 	    
 3. **응답 데이터 바이트 → 16비트 레지스터 배열 변환**
     ```c
-    
+    for(i=0; i < nodata; i++) {     
+    rdata[rindex] = (short)s_serial.read[index]; index++;   
+	rdata[rindex] <<= 8;    
+	rdata[rindex] |= (short)s_serial.read[index]; index++;    
+	sprintf(datastr,"%s %d", datastr, rdata[rindex]);    rindex++; 
+	}
     ```
-    c
     
-    `for(i=0; i < nodata; i++) {     rdata[rindex] = (short)s_serial.read[index]; index++;    rdata[rindex] <<= 8;    rdata[rindex] |= (short)s_serial.read[index]; index++;    sprintf(datastr,"%s %d", datastr, rdata[rindex]);    rindex++; }`
+    
     
     - MODBUS는 **빅엔디안**이므로 high byte 먼저, low byte 나중
         
@@ -55,7 +59,9 @@
     - `datastr`에 값들을 이어 붙여서 디버그 문자열 완성
         
 4. **UI 업데이트 (단, 압력 값(MFC_CGP)는 그래프에만 표시)**
+	```c
     
+    ```
     c
     
     `if (add != MFC_CGP)     SetCtrlVal(control_handle, CPL_RES, datastr);`
