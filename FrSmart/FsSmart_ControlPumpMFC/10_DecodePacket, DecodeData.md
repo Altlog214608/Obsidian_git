@@ -80,17 +80,23 @@
 	    case MFC_SPA: // 각 포트 duty 값        
 	    for(i=0; i < s_mfc.tnsbd * 8; i++)           
 	     s_mfc.duty[i] = rdata[i];        
-	     break;     case MFC_CGP: // Carrier Gas Pressure        ddata[0] = (double)rdata[0] * 0.1; // 소수로 변환(kPa 단위)        SetCtrlVal(acq_handle, DPNL_PRES, ddata[0]); // UI 표시        PlotStripChart(acq_handle, DPNL_SCHART, ddata, 1, 0, 0, VAL_DOUBLE); // 차트에 플롯        break; }
+	     break;     
+	    case MFC_CGP: // Carrier Gas Pressure        
+	    ddata[0] = (double)rdata[0] * 0.1; // 소수로 변환(kPa 단위)   
+	    SetCtrlVal(acq_handle, DPNL_PRES, ddata[0]); // UI 표시        
+	    PlotStripChart(acq_handle, DPNL_SCHART, ddata, 1, 0, 0, VAL_DOUBLE); // 차트에 플롯        
+	    break; 
+	    }
     ```
-    c
     
-    ``
+    
+    
     
 6. **할당 메모리 해제**
+    ```c
+    free(rdata);
+    ```
     
-    c
-    
-    `free(rdata);`
     
 
 ---
