@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "04",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/04.md"
+      "basename": "06_동시 발향 테스트 방법",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/06_동시 발향 테스트 방법.md"
+    },
+    {
+      "basename": "FsSmart_ControlPumpMFC",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/FsSmart_ControlPumpMFC.md"
+    },
+    {
+      "basename": "04_구조 흐름도 헤더+구현",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/04_구조 흐름도 헤더+구현.md"
     },
     {
       "basename": "05_이전 펌웨어 코드 분석",
@@ -23,10 +31,6 @@
     {
       "basename": "03.ControlPumpMFC_c",
       "path": "FrSmart/FsSmart_ControlPumpMFC/03.ControlPumpMFC_c.md"
-    },
-    {
-      "basename": "FsSmart_ControlPumpMFC",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/FsSmart_ControlPumpMFC.md"
     },
     {
       "basename": "02.ControlPumpMFC_head",
@@ -195,10 +199,6 @@
     {
       "basename": "06_전체 코드 설명",
       "path": "FrSmart/FrSmart_SW_분석/06_전체 코드 설명.md"
-    },
-    {
-      "basename": "08_set_ui_find_age_func",
-      "path": "FrSmart/FrSmart_SW_분석/08_set_ui_find_age_func.md"
     }
   ],
   "omittedPaths": [],
