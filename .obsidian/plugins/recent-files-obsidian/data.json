@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "13_하드웨어 포트 구성",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/13_하드웨어 포트 구성.md"
+    },
+    {
       "basename": "12_주요 흐름",
       "path": "FrSmart/FsSmart_ControlPumpMFC/12_주요 흐름.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "32_RS232, MODBUS RTU, CVI, CRC, SLIP 인코딩",
       "path": "ScentSmart/ScentSmart_매니폴드_제어_구동_프로그램SW/32_RS232, MODBUS RTU, CVI, CRC, SLIP 인코딩.md"
-    },
-    {
-      "basename": "31_전체분석",
-      "path": "ScentSmart/ScentSmart_매니폴드_제어_구동_프로그램SW/31_전체분석.md"
     }
   ],
   "omittedPaths": [],
