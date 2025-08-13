@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "14_NF 파일 내부 동작",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/14_NF 파일 내부 동작.md"
+    },
+    {
       "basename": "13_하드웨어 포트 구성",
       "path": "FrSmart/FsSmart_ControlPumpMFC/13_하드웨어 포트 구성.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "33_MODBUS 규격",
       "path": "ScentSmart/ScentSmart_매니폴드_제어_구동_프로그램SW/33_MODBUS 규격.md"
-    },
-    {
-      "basename": "32_RS232, MODBUS RTU, CVI, CRC, SLIP 인코딩",
-      "path": "ScentSmart/ScentSmart_매니폴드_제어_구동_프로그램SW/32_RS232, MODBUS RTU, CVI, CRC, SLIP 인코딩.md"
     }
   ],
   "omittedPaths": [],
