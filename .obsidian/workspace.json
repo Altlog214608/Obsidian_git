@@ -201,8 +201,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "67153ad77467c76f",
+  "active": "9a3945a8c542ead8",
   "lastOpenFiles": [
+    "assets/assets.md",
     "FrSmart/FsSmart_ControlPumpMFC/06_동시 발향 테스트 방법.md",
     "FrSmart/FsSmart_ControlPumpMFC/07_NF, MFC 차이.md",
     "FrSmart/FsSmart_ControlPumpMFC/FsSmart_ControlPumpMFC.md",
@@ -231,7 +232,6 @@
     "KnowledgeBase/Concepts/01_Farnet.md",
     "KnowledgeBase/AI/AI.md",
     "KnowledgeBase/AI",
-    "KnowledgeBase/Protocol/Protocol.md",
     "KnowledgeBase/Protocol",
     "KnowledgeBase/Snippets",
     "KnowledgeBase/Concepts",
