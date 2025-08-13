@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "09_UART",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/09_UART.md"
+    },
+    {
       "basename": "08_데이터 송수신",
       "path": "FrSmart/FsSmart_ControlPumpMFC/08_데이터 송수신.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10_함수_네이밍",
       "path": "FrSmart/FrSmart_SW_분석/10_함수_네이밍.md"
-    },
-    {
-      "basename": "09_결과_QR코드_생성_함수",
-      "path": "FrSmart/FrSmart_SW_분석/09_결과_QR코드_생성_함수.md"
     }
   ],
   "omittedPaths": [],
