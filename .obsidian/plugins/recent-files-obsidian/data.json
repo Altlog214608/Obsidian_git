@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "11_주요 명령 함수",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/11_주요 명령 함수.md"
+    },
+    {
       "basename": "10_DecodePacket, DecodeData",
       "path": "FrSmart/FsSmart_ControlPumpMFC/10_DecodePacket, DecodeData.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "FrSmart_SW_분석",
       "path": "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md"
-    },
-    {
-      "basename": "FrSmart_SW_분석_계획",
-      "path": "FrSmart/FrSmart_SW_분석_계획/FrSmart_SW_분석_계획.md"
     }
   ],
   "omittedPaths": [],
