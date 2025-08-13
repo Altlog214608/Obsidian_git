@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12_주요 흐름",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/12_주요 흐름.md"
+    },
+    {
       "basename": "11_주요 명령 함수",
       "path": "FrSmart/FsSmart_ControlPumpMFC/11_주요 명령 함수.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "31_전체분석",
       "path": "ScentSmart/ScentSmart_매니폴드_제어_구동_프로그램SW/31_전체분석.md"
-    },
-    {
-      "basename": "FrSmart_SW_분석",
-      "path": "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md"
     }
   ],
   "omittedPaths": [],
