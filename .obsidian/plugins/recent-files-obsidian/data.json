@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/무제.md"
+    },
+    {
       "basename": "07_NF, MFC 차이",
       "path": "FrSmart/FsSmart_ControlPumpMFC/07_NF, MFC 차이.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "04_sklearn Pipeline, OneHotEncoder, ColumnTransformer",
       "path": "FrSmart/FrSmart_SW_분석/04_sklearn Pipeline, OneHotEncoder, ColumnTransformer.md"
-    },
-    {
-      "basename": "05_XGBoost Regression, MLP, VAE, GAN, 베이지안 최적화",
-      "path": "FrSmart/FrSmart_SW_분석/05_XGBoost Regression, MLP, VAE, GAN, 베이지안 최적화.md"
     }
   ],
   "omittedPaths": [],
