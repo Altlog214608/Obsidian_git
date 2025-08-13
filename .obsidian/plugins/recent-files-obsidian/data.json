@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/무제.md"
+    },
+    {
       "basename": "16_추가로 알면 좋은 것들",
       "path": "FrSmart/FsSmart_ControlPumpMFC/16_추가로 알면 좋은 것들.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "00_개요",
       "path": "ScentSmart/ScentSmart_SW_분석/00_개요.md"
-    },
-    {
-      "basename": "38_DB(암호화_복호화)",
-      "path": "ScentSmart/ScentSmart_SW_분석/38_DB(암호화_복호화).md"
     }
   ],
   "omittedPaths": [],
