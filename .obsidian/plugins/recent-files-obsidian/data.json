@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "09_UART",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/09_UART.md"
-    },
-    {
       "basename": "08_데이터 송수신",
       "path": "FrSmart/FsSmart_ControlPumpMFC/08_데이터 송수신.md"
+    },
+    {
+      "basename": "09_UART",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/09_UART.md"
     },
     {
       "basename": "07_동시 발향 테스트",
