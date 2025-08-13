@@ -201,8 +201,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9a3945a8c542ead8",
+  "active": "67153ad77467c76f",
   "lastOpenFiles": [
+    "Notes/Notes.md",
     "assets/assets.md",
     "FrSmart/FsSmart_ControlPumpMFC/06_동시 발향 테스트 방법.md",
     "FrSmart/FsSmart_ControlPumpMFC/07_NF, MFC 차이.md",
@@ -230,7 +231,6 @@
     "KnowledgeBase/Snippets/Snippets.md",
     "KnowledgeBase/AI/01_메모리 뱅크.md",
     "KnowledgeBase/Concepts/01_Farnet.md",
-    "KnowledgeBase/AI/AI.md",
     "KnowledgeBase/AI",
     "KnowledgeBase/Protocol",
     "KnowledgeBase/Snippets",
