@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "30_Decode",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/30_Decode.md"
+    },
+    {
       "basename": "29_SW-HW 통신",
       "path": "FrSmart/FsSmart_ControlPumpMFC/29_SW-HW 통신.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "42_built-in signal",
       "path": "ScentSmart/ScentSmart_SW_분석/42_built-in signal.md"
-    },
-    {
-      "basename": "39_예상질문리스트",
-      "path": "ScentSmart/ScentSmart_SW_분석/39_예상질문리스트.md"
     }
   ],
   "omittedPaths": [],
