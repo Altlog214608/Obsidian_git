@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "무제",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/무제.md"
+      "basename": "22_",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/22_.md"
+    },
+    {
+      "basename": "21_serialport_로그 확인",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/21_serialport_로그 확인.md"
     },
     {
       "basename": "20_Multi Flow Control exe 파일 분석",
@@ -195,10 +199,6 @@
     {
       "basename": "05_프로토콜_분석",
       "path": "ScentSmart/ScentSmart_SW_분석/05_프로토콜_분석.md"
-    },
-    {
-      "basename": "04_dsComm_메시지_구조",
-      "path": "ScentSmart/ScentSmart_SW_분석/04_dsComm_메시지_구조.md"
     }
   ],
   "omittedPaths": [],
