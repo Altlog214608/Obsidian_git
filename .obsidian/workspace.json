@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrSmart/FsSmart_ControlPumpMFC/07_NF, MFC 비교.md",
+                "file": "FrSmart/FsSmart_ControlPumpMFC/17_중요_전체 통합 흐름.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07_NF, MFC 비교"
+              "title": "17_중요_전체 통합 흐름"
             }
           }
         ]
@@ -203,6 +203,7 @@
   },
   "active": "67153ad77467c76f",
   "lastOpenFiles": [
+    "FrSmart/FsSmart_ControlPumpMFC/07_NF, MFC 비교.md",
     "FrSmart/FsSmart_ControlPumpMFC/07_동시 발향 테스트.md",
     "FrSmart/FsSmart_ControlPumpMFC/17_중요_전체 통합 흐름.md",
     "FrSmart/FsSmart_ControlPumpMFC/16_추가로 알면 좋은 것들.md",
@@ -218,7 +219,6 @@
     "FrSmart/FsSmart_ControlPumpMFC/09_UART.md",
     "assets/img/ChatGPT Image 2025년 8월 13일 오후 01_44_44.png",
     "FrSmart/FsSmart_ControlPumpMFC/06_동시 발향 테스트 방법.md",
-    "FrSmart/FsSmart_ControlPumpMFC/07_NF, MFC 비교.md",
     "Notes/Notes.md",
     "assets/assets.md",
     "FrSmart/FsSmart_ControlPumpMFC/FsSmart_ControlPumpMFC.md",
