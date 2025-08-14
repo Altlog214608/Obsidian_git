@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "18_NF, MFC 차이",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/18_NF, MFC 차이.md"
+    },
+    {
       "basename": "17_중요_전체 통합 흐름",
       "path": "FrSmart/FsSmart_ControlPumpMFC/17_중요_전체 통합 흐름.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "01_PySide6_기초",
       "path": "ScentSmart/ScentSmart_SW_분석/01_PySide6_기초.md"
-    },
-    {
-      "basename": "00_개요",
-      "path": "ScentSmart/ScentSmart_SW_분석/00_개요.md"
     }
   ],
   "omittedPaths": [],
