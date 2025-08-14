@@ -121,13 +121,50 @@
 
 필요하면 **이 UI 입력값 ↔ 실제 MODBUS 레지스터 ↔ MFC 소스코드 흐름**을 표나 시퀀스 다이어그램으로 정리해서 보여드릴 수 있습니다.
 
-추가적으로, 실제 사용중 WARN/ERROR, 자동합산/배분 로직, 펌웨어 응답 예시 등도 설명해드릴 수 있습니다!  
-궁금한 부분 더 짚어주시면 바로 이어서 설명드릴게요.
 
-1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/66634ce8-c1f4-4431-91bb-5a76cb668532/ControlPumpNF.c](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/66634ce8-c1f4-4431-91bb-5a76cb668532/ControlPumpNF.c)
-2. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/d58a4d75-b0b2-41d9-b35e-10d496144510/ControlPumpNF.h](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/d58a4d75-b0b2-41d9-b35e-10d496144510/ControlPumpNF.h)
-3. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/45ee907a-cb21-4f70-b16f-7b7680a3cf9d/ControlPumpMFC.c](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/45ee907a-cb21-4f70-b16f-7b7680a3cf9d/ControlPumpMFC.c)
-4. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/d548b631-55d6-491e-ab57-4419dc78cd9d/ControlPumpMFC.h](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/d548b631-55d6-491e-ab57-4419dc78cd9d/ControlPumpMFC.h)
-5. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/72041696/452060c7-714d-4d18-9200-0f0f07eb7fda/seukeurinsyas-2025-08-13-093055.jpg](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/72041696/452060c7-714d-4d18-9200-0f0f07eb7fda/seukeurinsyas-2025-08-13-093055.jpg)
-6. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/e9851302-f6cc-4813-9436-999ace8ca1c5/ConfigCom.cfg](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/e9851302-f6cc-4813-9436-999ace8ca1c5/ConfigCom.cfg)
-7. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/2c2cd960-faac-4b77-9608-a9da61c6678e/ConfigProVal.cfg](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/2c2cd960-faac-4b77-9608-a9da61c6678e/ConfigProVal.cfg)
+지금 받은 exe 파일을 실행해서 UI에서 duty(각 밸브/포트의 개방 비율)를 설정하고 ‘Run’을 누르면,  
+PC 프로그램이 다음과 같은 순서로 실제 하드웨어로 제어 명령을 보내게 됩니다:
+
+---
+
+## 전체 명령 전송 흐름
+
+1. **PC에서 사용자 입력:**
+    
+    - exe UI에서 각 라인의 duty 값(예: 1번=40, 3번=30, 11번=30 등)을 입력하고 ‘Run’ 버튼을 클릭합니다.
+        
+2. **소프트웨어 명령 생성:**
+    
+    - 소프트웨어가 입력된 duty 값들을 배열(메모리, 예: s_mfc.duty)에 저장하고,
+        
+    - 해당 duty 값으로 MODBUS Write Multiple Registers 패킷을 만듭니다.
+        
+    - 펌프 power, run time 등도 별도 MODBUS 명령으로 패킷에 담김.
+        
+3. **PC OS를 통한 송신:**
+    
+    - 소프트웨어가 시리얼 통신 함수(SendToCom 등)를 호출하면,
+        
+    - Windows OS의 시리얼 드라이버(COM포트 드라이버)가 데이터를 실제 하드웨어 포트(UART, USB-시리얼 등)로 전송합니다.
+        
+4. **보드(펌웨어/MCU)로 명령 전달:**
+    
+    - 시리얼 케이블을 통해 솔레노이드 밸브/펌프가 달린 MCU(보드)로 명령이 도달.
+        
+    - 보드의 펌웨어는 MODBUS 패킷을 해석하여 각 밸브와 펌프를 입력 duty 값대로 제어합니다.
+        
+
+---
+
+## 요약
+
+**UI에서 duty→ Run → 소프트웨어(MFC 코드) → PC OS 시리얼 드라이버 → UART 물리 송신 → 보드의 펌웨어가 명령 해석 후 동작**
+
+즉,  
+“사용자가 PC(프로그램/exe)에서 명령을 내리면  
+→ PC의 OS가 시리얼 데이터로 변환해  
+→ 하드웨어로 보내고  
+→ MCU가 실질적으로 밸브/펌프를 동작시키는 구조”  
+입니다.
+
+이 흐름은 지금 제공받은 exe 파일, 헤더/소스코드(MFC 파일들), 그리고 실제 보드와 일치합니다.
