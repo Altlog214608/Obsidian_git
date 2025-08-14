@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "27_s_mfc 구조체",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/27_s_mfc 구조체.md"
+    },
+    {
       "basename": "26_16진수 값 계산, 보정",
       "path": "FrSmart/FsSmart_ControlPumpMFC/26_16진수 값 계산, 보정.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10_시리얼 통신 관련 핵심 함수 정리",
       "path": "ScentSmart/ScentSmart_SW_분석/10_시리얼 통신 관련 핵심 함수 정리.md"
-    },
-    {
-      "basename": "09_Signal 객체와 QThread",
-      "path": "ScentSmart/ScentSmart_SW_분석/09_Signal 객체와 QThread.md"
     }
   ],
   "omittedPaths": [],
