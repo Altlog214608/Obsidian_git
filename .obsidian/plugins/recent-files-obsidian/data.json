@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "25_매우중요_동시발향 테스트 로그 결과",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/25_매우중요_동시발향 테스트 로그 결과.md"
+    },
+    {
       "basename": "24_실제 기기 연결 포트 확인",
       "path": "FrSmart/FsSmart_ControlPumpMFC/24_실제 기기 연결 포트 확인.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "08_QObject",
       "path": "ScentSmart/ScentSmart_SW_분석/08_QObject.md"
-    },
-    {
-      "basename": "07_검사_훈련_시나리오",
-      "path": "ScentSmart/ScentSmart_SW_분석/07_검사_훈련_시나리오.md"
     }
   ],
   "omittedPaths": [],
