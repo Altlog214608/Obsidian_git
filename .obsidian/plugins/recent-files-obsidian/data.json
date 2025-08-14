@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/무제.md"
+    },
+    {
       "basename": "25_매우중요_동시발향 테스트 로그 결과",
       "path": "FrSmart/FsSmart_ControlPumpMFC/25_매우중요_동시발향 테스트 로그 결과.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "09_Signal 객체와 QThread",
       "path": "ScentSmart/ScentSmart_SW_분석/09_Signal 객체와 QThread.md"
-    },
-    {
-      "basename": "08_QObject",
-      "path": "ScentSmart/ScentSmart_SW_분석/08_QObject.md"
     }
   ],
   "omittedPaths": [],
