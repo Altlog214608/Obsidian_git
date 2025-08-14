@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "29_SW-HW 통신",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/29_SW-HW 통신.md"
+    },
+    {
       "basename": "28_흐름 순서",
       "path": "FrSmart/FsSmart_ControlPumpMFC/28_흐름 순서.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "39_예상질문리스트",
       "path": "ScentSmart/ScentSmart_SW_분석/39_예상질문리스트.md"
-    },
-    {
-      "basename": "11_바이트패킷, Struct, CRC",
-      "path": "ScentSmart/ScentSmart_SW_분석/11_바이트패킷, Struct, CRC.md"
     }
   ],
   "omittedPaths": [],
