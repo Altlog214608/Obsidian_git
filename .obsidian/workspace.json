@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrSmart/FsSmart_ControlPumpMFC/20_Mult.md",
+                "file": "FrSmart/FsSmart_ControlPumpMFC/19_SetDutyBoard_MFC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20_Mult"
+              "title": "19_SetDutyBoard_MFC"
             }
           }
         ]
@@ -203,8 +203,8 @@
   },
   "active": "67153ad77467c76f",
   "lastOpenFiles": [
+    "FrSmart/FsSmart_ControlPumpMFC/20_Multi Flow Control exe 파일 분석.md",
     "FrSmart/FsSmart_ControlPumpMFC/19_SetDutyBoard_MFC.md",
-    "FrSmart/FsSmart_ControlPumpMFC/20_Mult.md",
     "FrSmart/FsSmart_ControlPumpMFC/18_NF, MFC 차이.md",
     "FrSmart/FsSmart_ControlPumpMFC/17_중요_전체 통합 흐름.md",
     "FrSmart/FsSmart_ControlPumpMFC/07_NF, MFC 비교.md",
