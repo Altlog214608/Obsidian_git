@@ -117,10 +117,14 @@ MFC 파일에서 향(밸브) 제어 명령이 NF 파일처럼 `s_serial.send` �
 - 이 함수는 **특정 솔레노이드 보드(sbdindex, 0부터 시작)의 6개 포트 duty 값을 계산해서 MODBUS `Write Multiple Registers` 명령 패킷을 구성**하여 `s_serial.send[]`에 채움
     
 - 기본 패킷 구성 방식
-    
-    text
-    
-    `s_serial.send[0] = MFC_MID;       // 장치 ID (0x01) s_serial.send[1] = MBC_WMR;       // MODBUS 함수코드 (0x10, multi write) s_serial.send[2,3] = 시작 주소 (MFC_SPA + sbdindex*8) s_serial.send[4,5] = 레지스터 개수 (6) s_serial.send[6] = 바이트 수 (6*2=12) s_serial.send[7~] = 6개의 duty 값 (2바이트씩)`
+
+
+    s_serial.send[0] = MFC_MID;       // 장치 ID (0x01)
+	s_serial.send[1] = MBC_WMR;       // MODBUS 함수코드 (0x10, multi write)
+	s_serial.send[2,3] = 시작 주소 (MFC_SPA + sbdindex*8)
+	s_serial.send[4,5] = 레지스터 개수 (6)
+	s_serial.send[6] = 바이트 수 (6*2=12)
+	s_serial.send[7~] = 6개의 duty 값 (2바이트씩)
     
 - 여기서 duty 값은 내부 보정 공식에 따라 각 밸브별 duty `%`를 계산해 넣음
     
