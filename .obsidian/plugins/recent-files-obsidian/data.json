@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/무제.md"
+    },
+    {
       "basename": "22_Multi Flow Control debug모드 로그",
       "path": "FrSmart/FsSmart_ControlPumpMFC/22_Multi Flow Control debug모드 로그.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "06_함수_분류_및_전체_흐름",
       "path": "ScentSmart/ScentSmart_SW_분석/06_함수_분류_및_전체_흐름.md"
-    },
-    {
-      "basename": "05_프로토콜_분석",
-      "path": "ScentSmart/ScentSmart_SW_분석/05_프로토콜_분석.md"
     }
   ],
   "omittedPaths": [],
