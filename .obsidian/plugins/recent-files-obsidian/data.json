@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "20_Mult",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/20_Mult.md"
+    },
+    {
       "basename": "19_SetDutyBoard_MFC",
       "path": "FrSmart/FsSmart_ControlPumpMFC/19_SetDutyBoard_MFC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "03_시리얼_통신_및_하드웨어",
       "path": "ScentSmart/ScentSmart_SW_분석/03_시리얼_통신_및_하드웨어.md"
-    },
-    {
-      "basename": "02_UI_구조_및_다이얼로그",
-      "path": "ScentSmart/ScentSmart_SW_분석/02_UI_구조_및_다이얼로그.md"
     }
   ],
   "omittedPaths": [],
