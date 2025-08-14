@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/무제.md"
+    },
+    {
       "basename": "27_s_mfc 구조체",
       "path": "FrSmart/FsSmart_ControlPumpMFC/27_s_mfc 구조체.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "11_바이트패킷, Struct, CRC",
       "path": "ScentSmart/ScentSmart_SW_분석/11_바이트패킷, Struct, CRC.md"
-    },
-    {
-      "basename": "10_시리얼 통신 관련 핵심 함수 정리",
-      "path": "ScentSmart/ScentSmart_SW_분석/10_시리얼 통신 관련 핵심 함수 정리.md"
     }
   ],
   "omittedPaths": [],
