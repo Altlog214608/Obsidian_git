@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "24_실제 기기 연결 포트 확인",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/24_실제 기기 연결 포트 확인.md"
+    },
+    {
       "basename": "23_ConfigProVal.cfg",
       "path": "FrSmart/FsSmart_ControlPumpMFC/23_ConfigProVal.cfg.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "07_검사_훈련_시나리오",
       "path": "ScentSmart/ScentSmart_SW_분석/07_검사_훈련_시나리오.md"
-    },
-    {
-      "basename": "06_함수_분류_및_전체_흐름",
-      "path": "ScentSmart/ScentSmart_SW_분석/06_함수_분류_및_전체_흐름.md"
     }
   ],
   "omittedPaths": [],

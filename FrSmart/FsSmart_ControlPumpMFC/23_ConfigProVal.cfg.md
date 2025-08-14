@@ -90,13 +90,3 @@
     
 
 ---
-
-## 궁금한 보정공식이나 실제 소프트웨어/코드 적용 예시, 추가 설명 필요하시면 언제든 말씀하세요!
-
-1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/66634ce8-c1f4-4431-91bb-5a76cb668532/ControlPumpNF.c](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/66634ce8-c1f4-4431-91bb-5a76cb668532/ControlPumpNF.c)
-2. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/d58a4d75-b0b2-41d9-b35e-10d496144510/ControlPumpNF.h](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/d58a4d75-b0b2-41d9-b35e-10d496144510/ControlPumpNF.h)
-3. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/45ee907a-cb21-4f70-b16f-7b7680a3cf9d/ControlPumpMFC.c](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/45ee907a-cb21-4f70-b16f-7b7680a3cf9d/ControlPumpMFC.c)
-4. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/d548b631-55d6-491e-ab57-4419dc78cd9d/ControlPumpMFC.h](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/d548b631-55d6-491e-ab57-4419dc78cd9d/ControlPumpMFC.h)
-5. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/72041696/452060c7-714d-4d18-9200-0f0f07eb7fda/seukeurinsyas-2025-08-13-093055.jpg](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/72041696/452060c7-714d-4d18-9200-0f0f07eb7fda/seukeurinsyas-2025-08-13-093055.jpg)
-6. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/e9851302-f6cc-4813-9436-999ace8ca1c5/ConfigCom.cfg](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/e9851302-f6cc-4813-9436-999ace8ca1c5/ConfigCom.cfg)
-7. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/2c2cd960-faac-4b77-9608-a9da61c6678e/ConfigProVal.cfg](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/2c2cd960-faac-4b77-9608-a9da61c6678e/ConfigProVal.cfg)
