@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "19_SetDutyBoard_MFC",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/19_SetDutyBoard_MFC.md"
+    },
+    {
       "basename": "18_NF, MFC 차이",
       "path": "FrSmart/FsSmart_ControlPumpMFC/18_NF, MFC 차이.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "02_UI_구조_및_다이얼로그",
       "path": "ScentSmart/ScentSmart_SW_분석/02_UI_구조_및_다이얼로그.md"
-    },
-    {
-      "basename": "01_PySide6_기초",
-      "path": "ScentSmart/ScentSmart_SW_분석/01_PySide6_기초.md"
     }
   ],
   "omittedPaths": [],
