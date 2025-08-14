@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/무제.md"
+    },
+    {
       "basename": "20_Multi Flow Control exe 파일 분석",
       "path": "FrSmart/FsSmart_ControlPumpMFC/20_Multi Flow Control exe 파일 분석.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "04_dsComm_메시지_구조",
       "path": "ScentSmart/ScentSmart_SW_분석/04_dsComm_메시지_구조.md"
-    },
-    {
-      "basename": "03_시리얼_통신_및_하드웨어",
-      "path": "ScentSmart/ScentSmart_SW_분석/03_시리얼_통신_및_하드웨어.md"
     }
   ],
   "omittedPaths": [],
