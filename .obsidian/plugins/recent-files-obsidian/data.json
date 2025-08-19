@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "11_QRCode",
+      "path": "FrSmart/FrSmart_SW_분석/11_QRCode.md"
+    },
+    {
+      "basename": "FrSmart_SW_분석",
+      "path": "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md"
+    },
+    {
+      "basename": "FsSmart_ControlPumpMFC",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/FsSmart_ControlPumpMFC.md"
+    },
+    {
       "basename": "2025-08-19",
       "path": "Notes/Daily/2025/08/2025-08-19.md"
     },
@@ -137,10 +149,6 @@
       "path": "FrSmart/FsSmart_ControlPumpMFC/06_동시 발향 테스트 방법.md"
     },
     {
-      "basename": "FsSmart_ControlPumpMFC",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/FsSmart_ControlPumpMFC.md"
-    },
-    {
       "basename": "04_구조 흐름도 헤더+구현",
       "path": "FrSmart/FsSmart_ControlPumpMFC/04_구조 흐름도 헤더+구현.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Concepts",
       "path": "KnowledgeBase/Concepts/Concepts.md"
-    },
-    {
-      "basename": "Snippets",
-      "path": "KnowledgeBase/Snippets/Snippets.md"
-    },
-    {
-      "basename": "01_메모리 뱅크",
-      "path": "KnowledgeBase/AI/01_메모리 뱅크.md"
     }
   ],
   "omittedPaths": [],
