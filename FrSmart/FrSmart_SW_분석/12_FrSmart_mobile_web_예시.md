@@ -155,3 +155,106 @@ export default ResultDisplay;
 - React는 서버가 꼭 필요하지 않으나, 실시간 데이터 교환에 API 서버가 필수
 
 필요시 API 서버 구축 예시 및 React 배포 방법도 안내 가능합니다.
+
+외부 웹서버를 활용해 추천 결과 웹페이지를 제공하려면, 목적에 맞게 여러 선택지가 있고 시작 방법도 다양합니다. 아래에 주요 옵션과 시작 가이드를 정리했습니다.
+
+***
+
+## 1. 외부 웹서버 종류 및 특징
+
+### (1) 클라우드 플랫폼 기반 호스팅 서비스
+
+- **Amazon Web Services (AWS)**  
+  - 다양한 서비스(Amazon S3, EC2, Lambda 등) 제공  
+  - 확장성 높고 서버리스(Serverless) 기능 지원  
+  - 처음엔 복잡하지만 경험 쌓으면 강력함  
+
+- **Microsoft Azure**  
+  - 웹앱, 서버리스 함수 등 제공  
+  - MS 생태계에 익숙하면 유리  
+
+- **Google Cloud Platform (GCP)**  
+  - 앱 엔진, 클라우드 스토리지 제공  
+  - AI/ML 연동에 장점  
+
+- **Vercel / Netlify**  
+  - JAMstack(정적+서버리스) 웹 호스팅 특화  
+  - 쉽게 정적 사이트 및 서버리스 함수 배포 가능  
+  - Github 연동 자동 배포 지원  
+
+### (2) 전용 웹호스팅 서비스
+
+- **Shared Hosting (카페24, 호스트웨이 등)**  
+  - 저렴하게 도메인 + 호스팅 가능  
+  - 전통적인 PHP, MySQL 기반부터 Python 지원까지 다양  
+
+### (3) 정적 웹 호스팅 (정적 페이지 또는 SPA)
+
+- **GitHub Pages / GitLab Pages**  
+  - 무료 정적 웹사이트 호스팅  
+  - 프론트엔드만 빠르게 배포  
+  - 서버리스 API 호출 연동 가능  
+
+- **Cloudflare Pages**  
+  - 무료 정적 호스팅 + CDN 서비스  
+  - 빠른 배포 및 높은 안정성  
+
+***
+
+## 2. 추천 시작 방식
+
+### (1) 웹페이지 제작 및 배포
+
+- **HTML/CSS/JS 기본 웹페이지 또는 React, Vue, Next.js 같은 프레임워크**로 UI 만들기
+- 향수추천 결과를 보여줄 페이지 URL을 준비
+- QR코드에는 이 외부 URL을 넣음
+
+### (2) 서버 또는 서버리스 API 구성
+
+- 추천 결과 동적 생성이 필요하면,  
+  - AWS Lambda + API Gateway  
+  - Vercel/Netlify serverless function  
+  - 간단한 Flask/FastAPI 백엔드 서버 (e.g. Heroku, Render)  
+  등에서 API 서비스 구현 가능
+
+### (3) 배포 및 연동
+
+- 도메인 구매 (필요시) 혹은 무료 도메인 활용
+- HTTPS 인증서 적용 (Let’s Encrypt 등, 대부분 자동 지원)
+- 프론트엔드 - 백엔드 API 연동 구성
+- FrSmart에서 추천 결과 생성 시 외부 API로 데이터 전송
+- QR코드는 외부 웹페이지 URL 포함해서 생성
+
+***
+
+## 3. 단계별 실용 가이드 예시
+
+### 1단계: 간단한 정적 페이지부터 시작하기
+
+- GitHub Pages 또는 Vercel에 HTML/JS/CSS로 간단히 ‘추천 결과 보기’ 페이지 만들기
+- URL 예: https://your-username.github.io/perfume-result?id=123
+- FrSmart에서 QR코드 생성 시 base_url을 이 주소로 설정
+
+### 2단계: 필요하면 서버리스 API 만들기
+
+- Vercel, Netlify serverless 함수 사용해 API 만듦  
+- 프론트엔드에서 API 호출해 추천 결과 동적으로 표시
+
+### 3단계: 복잡하면 클라우드 서버 구축
+
+- AWS EC2에 Flask/FastAPI 서버 올리기  
+- S3, CloudFront로 정적 웹 호스팅 및 CDN 제공  
+- Route53 도메인 연결, SSL 인증서 적용  
+
+***
+
+## 4. 참고 링크
+
+- [GitHub Pages 시작하기](https://docs.github.com/en/pages/getting-started-with-github-pages)  
+- [Vercel Docs](https://vercel.com/docs)  
+- [Netlify Docs](https://docs.netlify.com/)  
+- [AWS Lambda 시작 가이드](https://aws.amazon.com/lambda/getting-started/)  
+- [Heroku 무료 서버 배포](https://devcenter.heroku.com/categories/free-apps)  
+
+***
+
