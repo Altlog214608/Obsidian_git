@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "32_818",
+      "path": "FrSmart/FsSmart_ControlPumpMFC/32_818.md"
+    },
+    {
       "basename": "31_python에서 테스트",
       "path": "FrSmart/FsSmart_ControlPumpMFC/31_python에서 테스트.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "KnowledgeBase",
       "path": "KnowledgeBase/KnowledgeBase.md"
-    },
-    {
-      "basename": "40_예상질문리스트_답변",
-      "path": "ScentSmart/ScentSmart_SW_분석/40_예상질문리스트_답변.md"
     }
   ],
   "omittedPaths": [],
