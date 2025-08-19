@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12_FrSmart_mobile_web",
+      "path": "FrSmart/FrSmart_SW_분석/12_FrSmart_mobile_web.md"
+    },
+    {
       "basename": "11_QRCode",
       "path": "FrSmart/FrSmart_SW_분석/11_QRCode.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ScentSmart_매니폴드_제어_구동_프로그램SW",
       "path": "ScentSmart/ScentSmart_매니폴드_제어_구동_프로그램SW/ScentSmart_매니폴드_제어_구동_프로그램SW.md"
-    },
-    {
-      "basename": "Concepts",
-      "path": "KnowledgeBase/Concepts/Concepts.md"
     }
   ],
   "omittedPaths": [],
