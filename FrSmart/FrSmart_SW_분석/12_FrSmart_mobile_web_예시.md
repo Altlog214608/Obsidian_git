@@ -258,3 +258,47 @@ export default ResultDisplay;
 
 ***
 
+React로 웹페이지를 만드는 경우, 보통 두 가지 주요 배포 및 호스팅 방식이 있습니다.
+
+***
+
+## 1. React는 정적 사이트로 빌드하여 정적 호스팅에 올리는 방식 (추천 시작 방법)
+
+- React 앱을 개발 후 `npm run build`로 빌드하면 정적 HTML, JS, CSS 파일들이 생성됩니다.
+- 이 빌드 결과물을 **AWS S3 + CloudFront, GCP Storage, Vercel, Netlify, GitHub Pages** 같은 정적 웹 호스팅 서비스에 올려 배포할 수 있습니다.
+- 이 경우 별도의 React 서버(Express 같은 서버) 없이 호스팅이 가능해 운영이 매우 간단합니다.
+- React 앱 내에서 동적인 데이터 처리, 애니메이션, API 호출 등도 모두 클라이언트에서 실행됩니다.
+- 즉, React 개발 환경과 실제 서비스 호스팅 환경은 분리되어, 호스팅은 정적 파일만 제공하는 서버가 담당합니다.
+
+***
+
+## 2. React + Node.js (또는 기타 서버) 같이 서버 구동형 앱
+
+- React 앱과 Node.js 서버를 같이 운영하는 경우, AWS EC2, GCP VM, Heroku, Render 같은 서버 환경에 배포
+- 서버 구동, API 처리, SSR(서버 사이드 렌더링) 등 복잡한 기능 있을 때 선택
+- 관리할 서버가 생기고 운영 복잡도가 큼
+- 그러나 배포 및 확장 기능 강력
+
+***
+
+## 정리 및 추천
+
+| 방식                          | 설명                           | 장점                             | 단점                          |
+|-------------------------------|--------------------------------|---------------------------------|-------------------------------|
+| React 정적 빌드 + 정적 호스팅  | React 앱 빌드→정적파일 배포    | 비용 저렴, 관리 편리, 빠름        | 심플한 API 서버는 별도 필요     |
+| React + 서버 구동형 응용       | Node.js 등 서버와 함께 배포     | 복잡한 기능 구현 가능             | 서버 운영 및 관리 필요           |
+
+***
+
+### 간단 시작을 위해선 첫 번째 방식이 일반적입니다.
+
+- React 앱을 만들고 `npm run build` 후  
+- AWS S3 + CloudFront 또는 Vercel, Netlify에 배포하면 쉽게 운영 가능  
+- FrSmart에서 QR코드에 그 정적 호스팅 URL만 넣으면 됨
+
+***
+
+필요시 AWS S3 + CloudFront 배포 방법, 또는 Vercel 배포 방법, React 앱 기본 예제 등 구체 가이드도 제공해드릴 수 있습니다.
+
+[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/54df16b2-ce6f-40c6-b95e-97507798d2c0/dsQRcode.py
+[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72041696/18926878-fdea-4a7f-b080-21ea80535c2a/FrSmart.py
