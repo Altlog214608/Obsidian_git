@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-08-19",
+      "path": "Notes/Daily/2025/08/2025-08-19.md"
+    },
+    {
+      "basename": "2025-08-15",
+      "path": "Notes/Daily/2025/08/2025-08-15.md"
+    },
+    {
+      "basename": "2025-08-18",
+      "path": "Notes/Daily/2025/08/2025-08-18.md"
+    },
+    {
+      "basename": "2025-08-14",
+      "path": "Notes/Daily/2025/08/2025-08-14.md"
+    },
+    {
+      "basename": "2025-08-13",
+      "path": "Notes/Daily/2025/08/2025-08-13.md"
+    },
+    {
+      "basename": "2025-08-12",
+      "path": "Notes/Daily/2025/08/2025-08-12.md"
+    },
+    {
       "basename": "32_818",
       "path": "FrSmart/FsSmart_ControlPumpMFC/32_818.md"
     },
@@ -125,14 +149,6 @@
       "path": "FrSmart/FsSmart_ControlPumpMFC/05_이전 펌웨어 코드 분석.md"
     },
     {
-      "basename": "2025-08-13",
-      "path": "Notes/Daily/2025/08/2025-08-13.md"
-    },
-    {
-      "basename": "2025-08-12",
-      "path": "Notes/Daily/2025/08/2025-08-12.md"
-    },
-    {
       "basename": "2025-08-11",
       "path": "Notes/Daily/2025/08/2025-08-11.md"
     },
@@ -161,10 +177,6 @@
       "path": "Notes/Daily/2025/08/2025-08-08.md"
     },
     {
-      "basename": "2025-08-15",
-      "path": "Notes/Daily/2025/08/2025-08-15.md"
-    },
-    {
       "basename": "2025-08-07",
       "path": "Notes/Daily/2025/08/2025-08-07.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "01_메모리 뱅크",
       "path": "KnowledgeBase/AI/01_메모리 뱅크.md"
-    },
-    {
-      "basename": "01_Farnet",
-      "path": "KnowledgeBase/Concepts/01_Farnet.md"
-    },
-    {
-      "basename": "41_Farnet",
-      "path": "ScentSmart/ScentSmart_SW_분석/41_Farnet.md"
-    },
-    {
-      "basename": "KnowledgeBase",
-      "path": "KnowledgeBase/KnowledgeBase.md"
     }
   ],
   "omittedPaths": [],

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrSmart/FsSmart_ControlPumpMFC/32_818.md",
+                "file": "Notes/Daily/2025/08/2025-08-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "32_818"
+              "title": "2025-08-19"
             }
           }
         ]
@@ -203,8 +203,13 @@
   },
   "active": "67153ad77467c76f",
   "lastOpenFiles": [
-    "FrSmart/FsSmart_ControlPumpMFC/31_python에서 테스트.md",
+    "Notes/Daily/2025/08/2025-08-15.md",
+    "Notes/Daily/2025/08/2025-08-18.md",
+    "Notes/Daily/2025/08/2025-08-14.md",
+    "Notes/Daily/2025/08/2025-08-13.md",
+    "Notes/Daily/2025/08/2025-08-12.md",
     "FrSmart/FsSmart_ControlPumpMFC/32_818.md",
+    "FrSmart/FsSmart_ControlPumpMFC/31_python에서 테스트.md",
     "FrSmart/FsSmart_ControlPumpMFC/25_매우중요_동시발향 테스트 로그 결과.md",
     "FrSmart/FsSmart_ControlPumpMFC/29_SW-HW 통신.md",
     "FrSmart/FsSmart_ControlPumpMFC/30_Decode.md",
@@ -224,13 +229,8 @@
     "FrSmart/FsSmart_ControlPumpMFC/16_추가로 알면 좋은 것들.md",
     "FrSmart/FsSmart_ControlPumpMFC/15_중요_펌웨어 통신 과정.md",
     "FrSmart/FsSmart_ControlPumpMFC/14_NF 파일 내부 동작.md",
-    "FrSmart/FsSmart_ControlPumpMFC/13_하드웨어 포트 구성.md",
-    "FrSmart/FsSmart_ControlPumpMFC/12_주요 흐름.md",
     "assets/img/generated-image 1.png",
     "assets/img/generated-image.png",
-    "FrSmart/FsSmart_ControlPumpMFC/11_주요 명령 함수.md",
-    "FrSmart/FsSmart_ControlPumpMFC/10_DecodePacket, DecodeData.md",
-    "FrSmart/FsSmart_ControlPumpMFC/08_데이터 송수신.md",
     "assets/img/ChatGPT Image 2025년 8월 13일 오후 01_44_44.png",
     "FrSmart/FsSmart_제어_구동_프로그램 분석",
     "FrSmart/FsSmart_ControlPumpMFC",
