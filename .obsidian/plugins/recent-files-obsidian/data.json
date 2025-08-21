@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-08-20",
+      "path": "Notes/Daily/2025/08/2025-08-20.md"
+    },
+    {
+      "basename": "2025-08-19",
+      "path": "Notes/Daily/2025/08/2025-08-19.md"
+    },
+    {
       "basename": "12_FrSmart_mobile_web_예시",
       "path": "FrSmart/FrSmart_SW_분석/12_FrSmart_mobile_web_예시.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "FsSmart_ControlPumpMFC",
       "path": "FrSmart/FsSmart_ControlPumpMFC/FsSmart_ControlPumpMFC.md"
-    },
-    {
-      "basename": "2025-08-19",
-      "path": "Notes/Daily/2025/08/2025-08-19.md"
     },
     {
       "basename": "2025-08-15",
@@ -195,10 +199,6 @@
     {
       "basename": "Vault",
       "path": "Vault.md"
-    },
-    {
-      "basename": "ScentSmart_매니폴드_제어_구동_프로그램SW",
-      "path": "ScentSmart/ScentSmart_매니폴드_제어_구동_프로그램SW/ScentSmart_매니폴드_제어_구동_프로그램SW.md"
     }
   ],
   "omittedPaths": [],

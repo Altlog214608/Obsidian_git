@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrSmart/FrSmart_SW_분석/12_FrSmart_mobile_web_예시.md",
+                "file": "Notes/Daily/2025/08/2025-08-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12_FrSmart_mobile_web_예시"
-            }
-          },
-          {
-            "id": "4edecea3545cbf49",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.9.10"
+              "title": "2025-08-20"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,13 +202,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4edecea3545cbf49",
+  "active": "67153ad77467c76f",
   "lastOpenFiles": [
-    "FrSmart/FrSmart_SW_분석/11_QRCode.md",
+    "Notes/Daily/2025/08/2025-08-19.md",
+    "Notes/Daily/2025/08/2025-08-20.md",
     "FrSmart/FrSmart_SW_분석/12_FrSmart_mobile_web_예시.md",
+    "FrSmart/FrSmart_SW_분석/11_QRCode.md",
     "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md",
     "FrSmart/FsSmart_ControlPumpMFC/FsSmart_ControlPumpMFC.md",
-    "Notes/Daily/2025/08/2025-08-19.md",
     "Notes/Daily/2025/08/2025-08-15.md",
     "Notes/Daily/2025/08/2025-08-18.md",
     "Notes/Daily/2025/08/2025-08-14.md",
@@ -242,7 +230,6 @@
     "FrSmart/FsSmart_ControlPumpMFC/20_Multi Flow Control exe 파일 분석.md",
     "FrSmart/FsSmart_ControlPumpMFC/19_SetDutyBoard_MFC.md",
     "FrSmart/FsSmart_ControlPumpMFC/18_NF, MFC 차이.md",
-    "FrSmart/FsSmart_ControlPumpMFC/17_중요_전체 통합 흐름.md",
     "assets/img/generated-image 1.png",
     "assets/img/generated-image.png",
     "assets/img/ChatGPT Image 2025년 8월 13일 오후 01_44_44.png",
