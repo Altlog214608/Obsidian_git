@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "12_FrSmart_mobile_web_예시"
             }
+          },
+          {
+            "id": "4edecea3545cbf49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             }
           },
           {
-            "id": "0f9d8f7d5ea01e09",
+            "id": "f01efa9901b2d49f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -190,6 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -201,7 +215,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "67153ad77467c76f",
+  "active": "4edecea3545cbf49",
   "lastOpenFiles": [
     "FrSmart/FrSmart_SW_분석/11_QRCode.md",
     "FrSmart/FrSmart_SW_분석/12_FrSmart_mobile_web_예시.md",
