@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "02_향수 모음",
+      "path": "FrSmart/FrSmart_QR_Mobile/02_향수 모음.md"
+    },
+    {
       "basename": "01_파라미터 추가, 변경, 삭제",
       "path": "FrSmart/FrSmart_QR_Mobile/01_파라미터 추가, 변경, 삭제.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "03.ControlPumpMFC_c",
       "path": "FrSmart/FsSmart_ControlPumpMFC/03.ControlPumpMFC_c.md"
-    },
-    {
-      "basename": "02.ControlPumpMFC_head",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/02.ControlPumpMFC_head.md"
     }
   ],
   "omittedPaths": [],
