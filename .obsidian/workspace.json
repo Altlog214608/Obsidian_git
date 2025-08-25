@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrSmart/FrSmart_QR_Mobile/01.md",
+                "file": "FrSmart/FrSmart_QR_Mobile/01_파라미터 추가, 변경, 삭제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01"
+              "title": "01_파라미터 추가, 변경, 삭제"
             }
           }
         ]
@@ -202,9 +202,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9e1e8970950fcc7e",
+  "active": "67153ad77467c76f",
   "lastOpenFiles": [
-    "FrSmart/FrSmart_QR_Mobile/01.md",
+    "FrSmart/FrSmart_QR_Mobile/01_파라미터 추가, 변경, 삭제.md",
     "FrSmart/FrSmart_QR_Mobile/FrSmart_QR_Mobile.md",
     "FrSmart/FrSmart_QR_Mobile",
     "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md",
