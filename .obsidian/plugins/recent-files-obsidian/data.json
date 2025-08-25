@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-08-25",
+      "path": "Notes/Daily/2025/08/2025-08-25.md"
+    },
+    {
+      "basename": "2025-08-20",
+      "path": "Notes/Daily/2025/08/2025-08-20.md"
+    },
+    {
+      "basename": "2025-08-21",
+      "path": "Notes/Daily/2025/08/2025-08-21.md"
+    },
+    {
       "basename": "2025-08-22",
       "path": "Notes/Daily/2025/08/2025-08-22.md"
     },
     {
       "basename": "32_UI_관련_프로퍼티_위젯",
       "path": "ScentSmart/ScentSmart_SW_분석/32_UI_관련_프로퍼티_위젯.md"
-    },
-    {
-      "basename": "2025-08-20",
-      "path": "Notes/Daily/2025/08/2025-08-20.md"
     },
     {
       "basename": "2025-08-19",
@@ -191,14 +199,6 @@
     {
       "basename": "01_전체 분석",
       "path": "FrSmart/FsSmart_ControlPumpMFC/01_전체 분석.md"
-    },
-    {
-      "basename": "무제",
-      "path": "무제.md"
-    },
-    {
-      "basename": "2025-08-08",
-      "path": "Notes/Daily/2025/08/2025-08-08.md"
     }
   ],
   "omittedPaths": [],

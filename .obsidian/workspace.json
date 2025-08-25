@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ScentSmart/ScentSmart_SW_분석/32_UI_관련_프로퍼티_위젯.md",
+                "file": "Notes/Daily/2025/08/2025-08-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "32_UI_관련_프로퍼티_위젯"
+              "title": "2025-08-25"
             }
           }
         ]
@@ -202,9 +202,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "1fd5cc48ff872ea6",
+  "active": "67153ad77467c76f",
   "lastOpenFiles": [
     "Notes/Daily/2025/08/2025-08-20.md",
+    "Notes/Daily/2025/08/2025-08-21.md",
+    "Notes/Daily/2025/08/2025-08-22.md",
     "ScentSmart/ScentSmart_SW_분석/32_UI_관련_프로퍼티_위젯.md",
     "Notes/Daily/2025/08/2025-08-19.md",
     "FrSmart/FrSmart_SW_분석/12_FrSmart_mobile_web_예시.md",
@@ -228,8 +230,6 @@
     "FrSmart/FsSmart_ControlPumpMFC/23_ConfigProVal.cfg.md",
     "FrSmart/FsSmart_ControlPumpMFC/22_Multi Flow Control debug모드 로그.md",
     "FrSmart/FsSmart_ControlPumpMFC/21_serialport_로그 확인.md",
-    "FrSmart/FsSmart_ControlPumpMFC/20_Multi Flow Control exe 파일 분석.md",
-    "FrSmart/FsSmart_ControlPumpMFC/19_SetDutyBoard_MFC.md",
     "assets/img/generated-image 1.png",
     "assets/img/generated-image.png",
     "assets/img/ChatGPT Image 2025년 8월 13일 오후 01_44_44.png",
