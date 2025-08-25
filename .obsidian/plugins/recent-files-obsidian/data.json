@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "01",
+      "path": "FrSmart/FrSmart_QR_Mobile/01.md"
+    },
+    {
+      "basename": "FrSmart_QR_Mobile",
+      "path": "FrSmart/FrSmart_QR_Mobile/FrSmart_QR_Mobile.md"
+    },
+    {
+      "basename": "FrSmart_SW_분석",
+      "path": "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md"
+    },
+    {
       "basename": "2025-08-25",
       "path": "Notes/Daily/2025/08/2025-08-25.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "11_QRCode",
       "path": "FrSmart/FrSmart_SW_분석/11_QRCode.md"
-    },
-    {
-      "basename": "FrSmart_SW_분석",
-      "path": "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md"
     },
     {
       "basename": "FsSmart_ControlPumpMFC",
@@ -191,14 +199,6 @@
     {
       "basename": "02.ControlPumpMFC_head",
       "path": "FrSmart/FsSmart_ControlPumpMFC/02.ControlPumpMFC_head.md"
-    },
-    {
-      "basename": "00.ControlPumpMFC_파일분석",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/00.ControlPumpMFC_파일분석.md"
-    },
-    {
-      "basename": "01_전체 분석",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/01_전체 분석.md"
     }
   ],
   "omittedPaths": [],
