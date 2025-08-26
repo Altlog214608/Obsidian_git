@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "02_dsTestID 수정",
+      "path": "ScentSmart/ScentSmart_KR_중기청_개선/02_dsTestID 수정.md"
+    },
+    {
+      "basename": "ScentSmart_KR_중기청_개선",
+      "path": "ScentSmart/ScentSmart_KR_중기청_개선/ScentSmart_KR_중기청_개선.md"
+    },
+    {
       "basename": "2025-08-26",
       "path": "Notes/Daily/2025/08/2025-08-26.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "10_DecodePacket, DecodeData",
       "path": "FrSmart/FsSmart_ControlPumpMFC/10_DecodePacket, DecodeData.md"
-    },
-    {
-      "basename": "08_데이터 송수신",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/08_데이터 송수신.md"
-    },
-    {
-      "basename": "09_UART",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/09_UART.md"
     }
   ],
   "omittedPaths": [],
