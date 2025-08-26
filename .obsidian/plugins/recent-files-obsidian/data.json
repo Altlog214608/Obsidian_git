@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "01_전체 코드 리뷰",
+      "path": "ScentSmart/ScentSmart_KR_중기청_개선/01_전체 코드 리뷰.md"
+    },
+    {
       "basename": "2025-08-26",
       "path": "Notes/Daily/2025/08/2025-08-26.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "09_UART",
       "path": "FrSmart/FsSmart_ControlPumpMFC/09_UART.md"
-    },
-    {
-      "basename": "06_동시 발향 테스트 방법",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/06_동시 발향 테스트 방법.md"
     }
   ],
   "omittedPaths": [],
