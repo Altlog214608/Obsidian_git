@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "13_배포 코드",
+      "path": "FrSmart/FrSmart_SW_분석/13_배포 코드.md"
+    },
+    {
+      "basename": "FrSmart_SW_분석",
+      "path": "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md"
+    },
+    {
       "basename": "04_변경 함수 정리",
       "path": "FrSmart/FrSmart_QR_Mobile/04_변경 함수 정리.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "FrSmart_QR_Mobile",
       "path": "FrSmart/FrSmart_QR_Mobile/FrSmart_QR_Mobile.md"
-    },
-    {
-      "basename": "FrSmart_SW_분석",
-      "path": "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md"
     },
     {
       "basename": "2025-08-20",
@@ -195,10 +199,6 @@
     {
       "basename": "04_구조 흐름도 헤더+구현",
       "path": "FrSmart/FsSmart_ControlPumpMFC/04_구조 흐름도 헤더+구현.md"
-    },
-    {
-      "basename": "05_이전 펌웨어 코드 분석",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/05_이전 펌웨어 코드 분석.md"
     }
   ],
   "omittedPaths": [],

@@ -57,7 +57,8 @@
     "//assets/assets/img",
     "//KnowledgeBase",
     "//KnowledgeBase/KnowledgeBase/AI",
-    "//FrSmart/FrSmart/FrSmart_QR_Mobile"
+    "//FrSmart/FrSmart/FrSmart_QR_Mobile",
+    "//FrSmart/FrSmart/FrSmart_SW_분석"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
