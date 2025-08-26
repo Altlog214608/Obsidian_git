@@ -202,8 +202,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "67153ad77467c76f",
+  "active": "b3d2ecf2921e4f8b",
   "lastOpenFiles": [
+    "ScentSmart/ScentSmart_KR_중기청_개선/ScentSmart_KR_중기청_개선.md",
+    "ScentSmart/ScentSmart_KR_중기청_개선",
     "Notes/Daily/2025/08/2025-08-25.md",
     "Notes/Daily/2025/08/2025-08-26.md",
     "FrSmart/FrSmart_SW_분석/13_배포 코드.md",
@@ -230,7 +232,6 @@
     "FrSmart/FsSmart_ControlPumpMFC/32_818.md",
     "FrSmart/FsSmart_ControlPumpMFC/31_python에서 테스트.md",
     "FrSmart/FsSmart_ControlPumpMFC/25_매우중요_동시발향 테스트 로그 결과.md",
-    "FrSmart/FsSmart_ControlPumpMFC/29_SW-HW 통신.md",
     "assets/img/generated-image 1.png",
     "assets/img/generated-image.png",
     "assets/img/ChatGPT Image 2025년 8월 13일 오후 01_44_44.png",
@@ -249,7 +250,6 @@
     "assets/img/UML_Legacy_Flow.png",
     "assets/img/Pasted image 20250801090238.jpg",
     "assets/img",
-    "assets",
     "무제.canvas"
   ]
 }
