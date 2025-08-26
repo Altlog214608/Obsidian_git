@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-08-26",
+      "path": "Notes/Daily/2025/08/2025-08-26.md"
+    },
+    {
+      "basename": "2025-08-25",
+      "path": "Notes/Daily/2025/08/2025-08-25.md"
+    },
+    {
       "basename": "13_배포 코드",
       "path": "FrSmart/FrSmart_SW_분석/13_배포 코드.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "03_내가 고친 코드들",
       "path": "FrSmart/FrSmart_QR_Mobile/03_내가 고친 코드들.md"
-    },
-    {
-      "basename": "2025-08-25",
-      "path": "Notes/Daily/2025/08/2025-08-25.md"
     },
     {
       "basename": "02_향수 모음",
@@ -195,10 +199,6 @@
     {
       "basename": "06_동시 발향 테스트 방법",
       "path": "FrSmart/FsSmart_ControlPumpMFC/06_동시 발향 테스트 방법.md"
-    },
-    {
-      "basename": "04_구조 흐름도 헤더+구현",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/04_구조 흐름도 헤더+구현.md"
     }
   ],
   "omittedPaths": [],
