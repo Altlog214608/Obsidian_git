@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "04_변경 함수 정리",
+      "path": "FrSmart/FrSmart_QR_Mobile/04_변경 함수 정리.md"
+    },
+    {
       "basename": "03_내가 고친 코드들",
       "path": "FrSmart/FrSmart_QR_Mobile/03_내가 고친 코드들.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "05_이전 펌웨어 코드 분석",
       "path": "FrSmart/FsSmart_ControlPumpMFC/05_이전 펌웨어 코드 분석.md"
-    },
-    {
-      "basename": "2025-08-11",
-      "path": "Notes/Daily/2025/08/2025-08-11.md"
     }
   ],
   "omittedPaths": [],
