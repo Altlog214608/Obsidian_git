@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-08-27",
+      "path": "Notes/Daily/2025/08/2025-08-27.md"
+    },
+    {
       "basename": "2025-08-26",
       "path": "Notes/Daily/2025/08/2025-08-26.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "11_주요 명령 함수",
       "path": "FrSmart/FsSmart_ControlPumpMFC/11_주요 명령 함수.md"
-    },
-    {
-      "basename": "10_DecodePacket, DecodeData",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/10_DecodePacket, DecodeData.md"
     }
   ],
   "omittedPaths": [],
