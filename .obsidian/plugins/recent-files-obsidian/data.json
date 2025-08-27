@@ -5,6 +5,26 @@
       "path": "Notes/Daily/2025/08/2025-08-27.md"
     },
     {
+      "basename": "무제 4",
+      "path": "무제 4.base"
+    },
+    {
+      "basename": "무제 3",
+      "path": "무제 3.base"
+    },
+    {
+      "basename": "무제 2",
+      "path": "무제 2.base"
+    },
+    {
+      "basename": "무제 1",
+      "path": "무제 1.base"
+    },
+    {
+      "basename": "무제",
+      "path": "무제.base"
+    },
+    {
       "basename": "2025-08-26",
       "path": "Notes/Daily/2025/08/2025-08-26.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "16_추가로 알면 좋은 것들",
       "path": "FrSmart/FsSmart_ControlPumpMFC/16_추가로 알면 좋은 것들.md"
-    },
-    {
-      "basename": "15_중요_펌웨어 통신 과정",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/15_중요_펌웨어 통신 과정.md"
-    },
-    {
-      "basename": "14_NF 파일 내부 동작",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/14_NF 파일 내부 동작.md"
-    },
-    {
-      "basename": "13_하드웨어 포트 구성",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/13_하드웨어 포트 구성.md"
-    },
-    {
-      "basename": "12_주요 흐름",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/12_주요 흐름.md"
-    },
-    {
-      "basename": "11_주요 명령 함수",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/11_주요 명령 함수.md"
     }
   ],
   "omittedPaths": [],

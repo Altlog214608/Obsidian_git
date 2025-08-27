@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "faaa97ae405e2c7a",
+        "id": "7dbe3b7051717629",
         "type": "tabs",
         "children": [
           {
-            "id": "67153ad77467c76f",
+            "id": "05fc544875ea624a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,8 +94,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,8 +201,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "67153ad77467c76f",
+  "active": "05fc544875ea624a",
   "lastOpenFiles": [
+    "무제 4.base",
+    "무제 3.base",
+    "무제 2.base",
+    "무제 1.base",
+    "무제.base",
+    "Notes/Daily/2025/08/2025-08-27.md",
     "Notes/Daily/2025/08/2025-08-26.md",
     "ScentSmart/ScentSmart_KR_중기청_개선/02_dsTestID 수정.md",
     "ScentSmart/ScentSmart_KR_중기청_개선/ScentSmart_KR_중기청_개선.md",
@@ -230,8 +235,6 @@
     "Notes/Daily/2025/08/2025-08-18.md",
     "Notes/Daily/2025/08/2025-08-14.md",
     "Notes/Daily/2025/08/2025-08-13.md",
-    "Notes/Daily/2025/08/2025-08-12.md",
-    "FrSmart/FsSmart_ControlPumpMFC/32_818.md",
     "assets/img/generated-image 1.png",
     "assets/img/generated-image.png",
     "assets/img/ChatGPT Image 2025년 8월 13일 오후 01_44_44.png",
@@ -239,9 +242,6 @@
     "FrSmart/FsSmart_ControlPumpMFC",
     "KnowledgeBase/AI",
     "KnowledgeBase/Protocol",
-    "KnowledgeBase/Snippets",
-    "KnowledgeBase/Concepts",
-    "KnowledgeBase",
     "assets/img/tree1_expert.svg",
     "assets/img/Pasted image 20250806105724.png",
     "assets/img/ChatGPT Image 2025년 8월 4일 오전 09_24_44.png",
@@ -249,7 +249,6 @@
     "assets/img/UML_MODBUS_Flow.png",
     "assets/img/UML_Legacy_Flow.png",
     "assets/img/Pasted image 20250801090238.jpg",
-    "assets/img",
     "무제.canvas"
   ]
 }
