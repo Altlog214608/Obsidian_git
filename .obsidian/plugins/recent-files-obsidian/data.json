@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-08-28",
+      "path": "Notes/Daily/2025/08/2025-08-28.md"
+    },
+    {
       "basename": "2025-08-27",
       "path": "Notes/Daily/2025/08/2025-08-27.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "07_동시 발향 테스트",
       "path": "FrSmart/FsSmart_ControlPumpMFC/07_동시 발향 테스트.md"
-    },
-    {
-      "basename": "16_추가로 알면 좋은 것들",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/16_추가로 알면 좋은 것들.md"
     }
   ],
   "omittedPaths": [],
