@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "04_0829 GPT 답변 내용 반영예정",
+      "path": "ScentSmart/ScentSmart_KR_중기청_개선/04_0829 GPT 답변 내용 반영예정.md"
+    },
+    {
       "basename": "03_향료 선별, 문구 수정",
       "path": "ScentSmart/ScentSmart_KR_중기청_개선/03_향료 선별, 문구 수정.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "23_ConfigProVal.cfg",
       "path": "FrSmart/FsSmart_ControlPumpMFC/23_ConfigProVal.cfg.md"
-    },
-    {
-      "basename": "22_Multi Flow Control debug모드 로그",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/22_Multi Flow Control debug모드 로그.md"
     }
   ],
   "omittedPaths": [],
