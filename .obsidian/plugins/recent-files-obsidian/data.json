@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "04_시나리오 예시",
+      "path": "ScentSmart/ScentSmart_KR_중기청_개선/04_시나리오 예시.md"
+    },
+    {
+      "basename": "ScentSmart_KR_중기청_개선",
+      "path": "ScentSmart/ScentSmart_KR_중기청_개선/ScentSmart_KR_중기청_개선.md"
+    },
+    {
+      "basename": "FrSmart_QR_Mobile",
+      "path": "FrSmart/FrSmart_QR_Mobile/FrSmart_QR_Mobile.md"
+    },
+    {
       "basename": "03_향료 선별, 문구 수정",
       "path": "ScentSmart/ScentSmart_KR_중기청_개선/03_향료 선별, 문구 수정.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "2025-08-29",
       "path": "Notes/Daily/2025/08/2025-08-29.md"
-    },
-    {
-      "basename": "ScentSmart_KR_중기청_개선",
-      "path": "ScentSmart/ScentSmart_KR_중기청_개선/ScentSmart_KR_중기청_개선.md"
     },
     {
       "basename": "2025-08-25",
@@ -121,10 +129,6 @@
       "path": "FrSmart/FrSmart_QR_Mobile/01_파라미터 추가, 변경, 삭제.md"
     },
     {
-      "basename": "FrSmart_QR_Mobile",
-      "path": "FrSmart/FrSmart_QR_Mobile/FrSmart_QR_Mobile.md"
-    },
-    {
       "basename": "2025-08-20",
       "path": "Notes/Daily/2025/08/2025-08-20.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "22_Multi Flow Control debug모드 로그",
       "path": "FrSmart/FsSmart_ControlPumpMFC/22_Multi Flow Control debug모드 로그.md"
-    },
-    {
-      "basename": "21_serialport_로그 확인",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/21_serialport_로그 확인.md"
     }
   ],
   "omittedPaths": [],
