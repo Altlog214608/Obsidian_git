@@ -56,9 +56,9 @@
     "//FrSmart",
     "//assets/assets/img",
     "//KnowledgeBase",
-    "//KnowledgeBase/KnowledgeBase/AI",
     "//FrSmart/FrSmart/FrSmart_QR_Mobile",
-    "//ScentSmart/ScentSmart/ScentSmart_KR_중기청_개선"
+    "//ScentSmart/ScentSmart/ScentSmart_KR_중기청_개선",
+    "//KnowledgeBase/KnowledgeBase/AI"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
