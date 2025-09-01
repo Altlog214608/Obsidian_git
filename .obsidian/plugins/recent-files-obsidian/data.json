@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-09-01",
+      "path": "Notes/Daily/2025/09/2025-09-01.md"
+    },
+    {
       "basename": "04_0829 GPT 답변 내용 반영예정",
       "path": "ScentSmart/ScentSmart_KR_중기청_개선/04_0829 GPT 답변 내용 반영예정.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "24_실제 기기 연결 포트 확인",
       "path": "FrSmart/FsSmart_ControlPumpMFC/24_실제 기기 연결 포트 확인.md"
-    },
-    {
-      "basename": "23_ConfigProVal.cfg",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/23_ConfigProVal.cfg.md"
     }
   ],
   "omittedPaths": [],
