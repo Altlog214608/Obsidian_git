@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "06_",
+      "path": "ScentSmart/ScentSmart_KR_중기청_개선/06_.md"
+    },
+    {
+      "basename": "05_0829 GPT 답변 내용 반영예정",
+      "path": "ScentSmart/ScentSmart_KR_중기청_개선/05_0829 GPT 답변 내용 반영예정.md"
+    },
+    {
+      "basename": "04_시나리오 예시",
+      "path": "ScentSmart/ScentSmart_KR_중기청_개선/04_시나리오 예시.md"
+    },
+    {
       "basename": "2025-09-01",
       "path": "Notes/Daily/2025/09/2025-09-01.md"
     },
@@ -27,14 +39,6 @@
     {
       "basename": "03_향료 선별, 문구 수정",
       "path": "ScentSmart/ScentSmart_KR_중기청_개선/03_향료 선별, 문구 수정.md"
-    },
-    {
-      "basename": "04_시나리오 예시",
-      "path": "ScentSmart/ScentSmart_KR_중기청_개선/04_시나리오 예시.md"
-    },
-    {
-      "basename": "04_0829 GPT 답변 내용 반영예정",
-      "path": "ScentSmart/ScentSmart_KR_중기청_개선/04_0829 GPT 답변 내용 반영예정.md"
     },
     {
       "basename": "02_dsTestID 수정",
@@ -195,10 +199,6 @@
     {
       "basename": "26_16진수 값 계산, 보정",
       "path": "FrSmart/FsSmart_ControlPumpMFC/26_16진수 값 계산, 보정.md"
-    },
-    {
-      "basename": "24_실제 기기 연결 포트 확인",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/24_실제 기기 연결 포트 확인.md"
     }
   ],
   "omittedPaths": [],
