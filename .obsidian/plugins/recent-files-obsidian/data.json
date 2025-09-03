@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-09-02",
+      "path": "Notes/Daily/2025/09/2025-09-02.md"
+    },
+    {
+      "basename": "2025-09-03",
+      "path": "Notes/Daily/2025/09/2025-09-03.md"
+    },
+    {
+      "basename": "2025-09-01",
+      "path": "Notes/Daily/2025/09/2025-09-01.md"
+    },
+    {
       "basename": "2025-08-26",
       "path": "Notes/Daily/2025/08/2025-08-26.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "2025-08-29",
       "path": "Notes/Daily/2025/08/2025-08-29.md"
-    },
-    {
-      "basename": "2025-09-01",
-      "path": "Notes/Daily/2025/09/2025-09-01.md"
     },
     {
       "basename": "03_향료 선별, 문구 수정",
@@ -191,14 +199,6 @@
     {
       "basename": "28_흐름 순서",
       "path": "FrSmart/FsSmart_ControlPumpMFC/28_흐름 순서.md"
-    },
-    {
-      "basename": "27_s_mfc 구조체",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/27_s_mfc 구조체.md"
-    },
-    {
-      "basename": "26_16진수 값 계산, 보정",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/26_16진수 값 계산, 보정.md"
     }
   ],
   "omittedPaths": [],
