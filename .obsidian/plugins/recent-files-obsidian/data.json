@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-09-10",
+      "path": "Notes/Daily/2025/09/2025-09-10.md"
+    },
+    {
       "basename": "2025-09-08",
       "path": "Notes/Daily/2025/09/2025-09-08.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "29_SW-HW 통신",
       "path": "FrSmart/FsSmart_ControlPumpMFC/29_SW-HW 통신.md"
-    },
-    {
-      "basename": "30_Decode",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/30_Decode.md"
     }
   ],
   "omittedPaths": [],
