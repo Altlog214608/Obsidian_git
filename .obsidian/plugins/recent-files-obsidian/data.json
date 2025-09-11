@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-08-26",
+      "path": "Notes/Daily/2025/08/2025-08-26.md"
+    },
+    {
+      "basename": "2025-08-25",
+      "path": "Notes/Daily/2025/08/2025-08-25.md"
+    },
+    {
+      "basename": "2025-09-12",
+      "path": "Notes/Daily/2025/09/2025-09-12.md"
+    },
+    {
       "basename": "2025-09-11",
       "path": "Notes/Daily/2025/09/2025-09-11.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "2025-08-27",
       "path": "Notes/Daily/2025/08/2025-08-27.md"
-    },
-    {
-      "basename": "2025-08-26",
-      "path": "Notes/Daily/2025/08/2025-08-26.md"
     },
     {
       "basename": "2025-09-01",
@@ -39,10 +47,6 @@
     {
       "basename": "2025-09-09",
       "path": "Notes/Daily/2025/09/2025-09-09.md"
-    },
-    {
-      "basename": "2025-08-25",
-      "path": "Notes/Daily/2025/08/2025-08-25.md"
     },
     {
       "basename": "2025-09-03",
@@ -195,10 +199,6 @@
     {
       "basename": "32_818",
       "path": "FrSmart/FsSmart_ControlPumpMFC/32_818.md"
-    },
-    {
-      "basename": "31_python에서 테스트",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/31_python에서 테스트.md"
     }
   ],
   "omittedPaths": [],
