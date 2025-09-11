@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-09-11",
+      "path": "Notes/Daily/2025/09/2025-09-11.md"
+    },
+    {
       "basename": "2025-08-29",
       "path": "Notes/Daily/2025/08/2025-08-29.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "31_python에서 테스트",
       "path": "FrSmart/FsSmart_ControlPumpMFC/31_python에서 테스트.md"
-    },
-    {
-      "basename": "25_매우중요_동시발향 테스트 로그 결과",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/25_매우중요_동시발향 테스트 로그 결과.md"
     }
   ],
   "omittedPaths": [],
