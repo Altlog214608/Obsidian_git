@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-09-15",
+      "path": "Notes/Daily/2025/09/2025-09-15.md"
+    },
+    {
       "basename": "2025-09-09",
       "path": "Notes/Daily/2025/09/2025-09-09.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "FsSmart_ControlPumpMFC",
       "path": "FrSmart/FsSmart_ControlPumpMFC/FsSmart_ControlPumpMFC.md"
-    },
-    {
-      "basename": "32_818",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/32_818.md"
     }
   ],
   "omittedPaths": [],
