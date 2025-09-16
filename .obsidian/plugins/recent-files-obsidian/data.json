@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-09-16",
+      "path": "Notes/Daily/2025/09/2025-09-16.md"
+    },
+    {
       "basename": "2025-09-15",
       "path": "Notes/Daily/2025/09/2025-09-15.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "11_QRCode",
       "path": "FrSmart/FrSmart_SW_분석/11_QRCode.md"
-    },
-    {
-      "basename": "FsSmart_ControlPumpMFC",
-      "path": "FrSmart/FsSmart_ControlPumpMFC/FsSmart_ControlPumpMFC.md"
     }
   ],
   "omittedPaths": [],
