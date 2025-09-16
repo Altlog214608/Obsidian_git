@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "14_동시발향 코드",
+      "path": "FrSmart/FrSmart_SW_분석/14_동시발향 코드.md"
+    },
+    {
       "basename": "2025-09-16",
       "path": "Notes/Daily/2025/09/2025-09-16.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "12_FrSmart_mobile_web_예시",
       "path": "FrSmart/FrSmart_SW_분석/12_FrSmart_mobile_web_예시.md"
-    },
-    {
-      "basename": "11_QRCode",
-      "path": "FrSmart/FrSmart_SW_분석/11_QRCode.md"
     }
   ],
   "omittedPaths": [],
