@@ -52,14 +52,13 @@
     "//FsSmart",
     "//FsSmart/FsSmart/FrSmart_SW_분석_계획",
     "//Tags",
-    "//ScentSmart",
-    "//FrSmart",
     "//assets/assets/img",
     "//KnowledgeBase",
     "//FrSmart/FrSmart/FrSmart_QR_Mobile",
     "//ScentSmart/ScentSmart/ScentSmart_KR_중기청_개선",
     "//KnowledgeBase/KnowledgeBase/AI",
-    "//FrSmart/FrSmart/FrSmart_SW_분석"
+    "//FrSmart/FrSmart/FrSmart_SW_분석",
+    "//FrSmart"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
