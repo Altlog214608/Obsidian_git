@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "02_모니터 후보",
-      "path": "FrSmart/FrSmart_Kiosk/02_모니터 후보.md"
+      "basename": "03_PC 사양 조사",
+      "path": "FrSmart/FrSmart_Kiosk/03_PC 사양 조사.md"
+    },
+    {
+      "basename": "FrSmart_Kiosk",
+      "path": "FrSmart/FrSmart_Kiosk/FrSmart_Kiosk.md"
     },
     {
       "basename": "01_작성초안",
       "path": "FrSmart/FrSmart_Kiosk/01_작성초안.md"
+    },
+    {
+      "basename": "02_모니터 후보",
+      "path": "FrSmart/FrSmart_Kiosk/02_모니터 후보.md"
     },
     {
       "basename": "2025-09-17",
@@ -191,14 +199,6 @@
     {
       "basename": "01_파라미터 추가, 변경, 삭제",
       "path": "FrSmart/FrSmart_QR_Mobile/01_파라미터 추가, 변경, 삭제.md"
-    },
-    {
-      "basename": "2025-08-20",
-      "path": "Notes/Daily/2025/08/2025-08-20.md"
-    },
-    {
-      "basename": "2025-08-21",
-      "path": "Notes/Daily/2025/08/2025-08-21.md"
     }
   ],
   "omittedPaths": [],
