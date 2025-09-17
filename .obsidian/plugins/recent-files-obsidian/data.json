@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-09-17",
+      "path": "Notes/Daily/2025/09/2025-09-17.md"
+    },
+    {
       "basename": "14_동시발향 코드",
       "path": "FrSmart/FrSmart_SW_분석/14_동시발향 코드.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "32_UI_관련_프로퍼티_위젯",
       "path": "ScentSmart/ScentSmart_SW_분석/32_UI_관련_프로퍼티_위젯.md"
-    },
-    {
-      "basename": "12_FrSmart_mobile_web_예시",
-      "path": "FrSmart/FrSmart_SW_분석/12_FrSmart_mobile_web_예시.md"
     }
   ],
   "omittedPaths": [],
