@@ -57,7 +57,11 @@
     "//ScentSmart/ScentSmart/ScentSmart_KR_중기청_개선",
     "//KnowledgeBase/KnowledgeBase/AI",
     "//FrSmart",
-    "//FrSmart/FrSmart/FrSmart_Kiosk"
+    "//ScentSmart",
+    "//ScentSmart/ScentSmart/ScentSmart_SW_분석",
+    "//KnowledgeBase/KnowledgeBase/Concepts",
+    "//KnowledgeBase/KnowledgeBase/Snippets",
+    "//KnowledgeBase/KnowledgeBase/Study"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

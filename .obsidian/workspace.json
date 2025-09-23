@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7dbe3b7051717629",
+        "id": "7aba49605e5cfa5c",
         "type": "tabs",
         "children": [
           {
-            "id": "05fc544875ea624a",
+            "id": "0ace61be2b16bd99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrSmart/FrSmart_Kiosk/03_PC 사양 조사.md",
+                "file": "KnowledgeBase/Study/데이터AI 공부 방향.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_PC 사양 조사"
+              "title": "데이터AI 공부 방향"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "e798666267120df5",
+            "id": "65e5b933bb7bb041",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -180,9 +180,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "935da392461e95d6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -202,16 +212,27 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "05fc544875ea624a",
+  "active": "0ace61be2b16bd99",
   "lastOpenFiles": [
+    "KnowledgeBase/Study/Study.md",
+    "KnowledgeBase/Study",
+    "KnowledgeBase/Study/데이터AI 공부 방향.md",
+    "KnowledgeBase/Snippets/Snippets.md",
+    "KnowledgeBase/Concepts/Concepts.md",
+    "ScentSmart/ScentSmart_SW_분석/43_DB.md",
+    "Notes/Daily/2025/09/2025-09-23.md",
+    "Notes/Daily/2025/09/2025-09-22.md",
+    "FrSmart/FrSmart_Kiosk/04_미니PC 스펙.md",
+    "FrSmart/FrSmart_Kiosk/FrSmart_Kiosk.md",
+    "FrSmart/FrSmart_Kiosk/02_모니터 후보.md",
+    "FrSmart/FrSmart_Kiosk/03_PC 사양 조사.md",
+    "FrSmart/FrSmart_Kiosk/01_작성초안.md",
+    "assets/img/a05d3d35-cc87-4a76-9aaf-bc6e35f72b33.webp",
+    "assets/img/HXkM_XicDcndEoFAGADQJ0pt2cKMMRXKz9aETLnTlgrtftklvZT38Tac2_P9VFKCmKhqweijB1nkiswYGpRCnmVNB5Q3qqg4QM3KWTv938QO8rFHI88n7dNKL3udM962fLRwiX9Prynv7VsXa_PEkOECXYar9RWQIcLzXosT-90ZceO52RJOAtwNJlkgtDUtTSmcSglZc8COjoC8_B22jvyG72Y0L",
     "assets/img/IPC2110A_Cross2-view_full.webp",
     "assets/img/Nuvo-3000_RightFront.jpg",
     "assets/img/Industrial Fanless Box PC I3 1.jpg",
     "assets/img/Industrial Fanless Box PC I3.jpg",
-    "FrSmart/FrSmart_Kiosk/03_PC 사양 조사.md",
-    "FrSmart/FrSmart_Kiosk/FrSmart_Kiosk.md",
-    "FrSmart/FrSmart_Kiosk/01_작성초안.md",
-    "FrSmart/FrSmart_Kiosk/02_모니터 후보.md",
     "Notes/Daily/2025/09/2025-09-17.md",
     "FrSmart/FrSmart_Kiosk",
     "FrSmart/FrSmart_SW_분석/14_동시발향 코드.md",
@@ -227,13 +248,6 @@
     "Notes/Daily/2025/09/2025-09-03.md",
     "Notes/Daily/2025/08/2025-08-29.md",
     "Notes/Daily/2025/08/2025-08-26.md",
-    "Notes/Daily/2025/08/2025-08-25.md",
-    "Notes/Daily/2025/08/2025-08-28.md",
-    "Notes/Daily/2025/08/2025-08-27.md",
-    "ScentSmart/ScentSmart_KR_중기청_개선/03_향료 선별, 문구 수정.md",
-    "ScentSmart/ScentSmart_KR_중기청_개선/06_.md",
-    "ScentSmart/ScentSmart_KR_중기청_개선/05_0829 GPT 답변 내용 반영예정.md",
-    "ScentSmart/ScentSmart_KR_중기청_개선/04_0829 GPT 답변 내용 반영예정.md",
     "Notes/Daily/2025/09",
     "무제 1.base",
     "무제.base",
@@ -241,15 +255,11 @@
     "무제 3.base",
     "무제 2.base",
     "ScentSmart/ScentSmart_KR_중기청_개선",
-    "FrSmart/FrSmart_QR_Mobile",
     "assets/img/generated-image 1.png",
     "assets/img/generated-image.png",
     "assets/img/ChatGPT Image 2025년 8월 13일 오후 01_44_44.png",
-    "FrSmart/FsSmart_제어_구동_프로그램 분석",
     "assets/img/tree1_expert.svg",
     "assets/img/Pasted image 20250806105724.png",
-    "assets/img/ChatGPT Image 2025년 8월 4일 오전 09_24_44.png",
-    "assets/img/UI_TEST.png",
     "무제.canvas"
   ]
 }

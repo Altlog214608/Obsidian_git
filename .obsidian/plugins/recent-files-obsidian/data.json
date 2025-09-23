@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "03_PC 사양 조사",
-      "path": "FrSmart/FrSmart_Kiosk/03_PC 사양 조사.md"
+      "basename": "데이터AI 공부 방향",
+      "path": "KnowledgeBase/Study/데이터AI 공부 방향.md"
+    },
+    {
+      "basename": "Snippets",
+      "path": "KnowledgeBase/Snippets/Snippets.md"
+    },
+    {
+      "basename": "Concepts",
+      "path": "KnowledgeBase/Concepts/Concepts.md"
+    },
+    {
+      "basename": "43_DB",
+      "path": "ScentSmart/ScentSmart_SW_분석/43_DB.md"
+    },
+    {
+      "basename": "2025-09-23",
+      "path": "Notes/Daily/2025/09/2025-09-23.md"
+    },
+    {
+      "basename": "2025-09-22",
+      "path": "Notes/Daily/2025/09/2025-09-22.md"
+    },
+    {
+      "basename": "04_미니PC 스펙",
+      "path": "FrSmart/FrSmart_Kiosk/04_미니PC 스펙.md"
     },
     {
       "basename": "FrSmart_Kiosk",
       "path": "FrSmart/FrSmart_Kiosk/FrSmart_Kiosk.md"
     },
     {
-      "basename": "01_작성초안",
-      "path": "FrSmart/FrSmart_Kiosk/01_작성초안.md"
-    },
-    {
       "basename": "02_모니터 후보",
       "path": "FrSmart/FrSmart_Kiosk/02_모니터 후보.md"
+    },
+    {
+      "basename": "03_PC 사양 조사",
+      "path": "FrSmart/FrSmart_Kiosk/03_PC 사양 조사.md"
+    },
+    {
+      "basename": "01_작성초안",
+      "path": "FrSmart/FrSmart_Kiosk/01_작성초안.md"
     },
     {
       "basename": "2025-09-17",
@@ -171,34 +199,6 @@
     {
       "basename": "2025-08-12",
       "path": "Notes/Daily/2025/08/2025-08-12.md"
-    },
-    {
-      "basename": "Snippets",
-      "path": "KnowledgeBase/Snippets/Snippets.md"
-    },
-    {
-      "basename": "13_배포 코드",
-      "path": "FrSmart/FrSmart_SW_분석/13_배포 코드.md"
-    },
-    {
-      "basename": "FrSmart_SW_분석",
-      "path": "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md"
-    },
-    {
-      "basename": "04_변경 함수 정리",
-      "path": "FrSmart/FrSmart_QR_Mobile/04_변경 함수 정리.md"
-    },
-    {
-      "basename": "03_내가 고친 코드들",
-      "path": "FrSmart/FrSmart_QR_Mobile/03_내가 고친 코드들.md"
-    },
-    {
-      "basename": "02_향수 모음",
-      "path": "FrSmart/FrSmart_QR_Mobile/02_향수 모음.md"
-    },
-    {
-      "basename": "01_파라미터 추가, 변경, 삭제",
-      "path": "FrSmart/FrSmart_QR_Mobile/01_파라미터 추가, 변경, 삭제.md"
     }
   ],
   "omittedPaths": [],
