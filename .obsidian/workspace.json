@@ -25,12 +25,14 @@
             "id": "24fff1f97b2d4dfe",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Notes/Daily/2025/10/2025-10-13.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.9.14"
+              "icon": "lucide-file",
+              "title": "2025-10-13"
             }
           }
         ],
@@ -227,6 +229,7 @@
   },
   "active": "24fff1f97b2d4dfe",
   "lastOpenFiles": [
+    "Notes/Daily/2025/10/2025-10-13.md",
     "Notes/Daily/2025/09/2025-09-25.md",
     "Notes/Daily/2025/10/2025-10-01.md",
     "Notes/Daily/2025/10",
@@ -261,7 +264,6 @@
     "Notes/Daily/2025/09/2025-09-08.md",
     "Notes/Daily/2025/09/2025-09-01.md",
     "Notes/Daily/2025/09/2025-09-02.md",
-    "Notes/Daily/2025/09/2025-09-03.md",
     "Notes/Daily/2025/09",
     "무제 1.base",
     "무제.base",
