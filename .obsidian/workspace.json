@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-10-01"
             }
+          },
+          {
+            "id": "24fff1f97b2d4dfe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             }
           },
           {
-            "id": "995803808ccb9496",
+            "id": "9f79376aa4e64d6c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -212,7 +225,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "92325207b2d7417e",
+  "active": "24fff1f97b2d4dfe",
   "lastOpenFiles": [
     "Notes/Daily/2025/09/2025-09-25.md",
     "Notes/Daily/2025/10/2025-10-01.md",
