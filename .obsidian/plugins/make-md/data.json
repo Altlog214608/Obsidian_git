@@ -53,15 +53,11 @@
     "//FsSmart/FsSmart/FrSmart_SW_분석_계획",
     "//Tags",
     "//assets/assets/img",
-    "//KnowledgeBase",
-    "//ScentSmart/ScentSmart/ScentSmart_KR_중기청_개선",
     "//KnowledgeBase/KnowledgeBase/AI",
-    "//FrSmart",
-    "//ScentSmart",
-    "//ScentSmart/ScentSmart/ScentSmart_SW_분석",
     "//KnowledgeBase/KnowledgeBase/Concepts",
     "//KnowledgeBase/KnowledgeBase/Snippets",
-    "//KnowledgeBase/KnowledgeBase/Study"
+    "//KnowledgeBase/KnowledgeBase/Study",
+    "//ds-kiosk"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

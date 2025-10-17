@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "01_기본 구성",
+      "path": "ds-kiosk/01_기본 구성.md"
+    },
+    {
       "basename": "2025-10-17",
       "path": "Notes/Daily/2025/10/2025-10-17.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-08-11",
       "path": "Notes/Daily/2025/08/2025-08-11.md"
-    },
-    {
-      "basename": "2025-08-19",
-      "path": "Notes/Daily/2025/08/2025-08-19.md"
     }
   ],
   "omittedPaths": [],
