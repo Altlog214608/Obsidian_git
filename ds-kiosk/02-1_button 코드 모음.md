@@ -184,6 +184,116 @@
   </div>
 </button>
 
+{/* === Navigation & Action Buttons === */}
+<button
+  onClick={() => navigate('/')}
+  className="flex-1 py-4 rounded-xl bg-black text-white font-bold text-2xl
+             border-2 border-black
+             hover:bg-gray-800 hover:scale-[1.02] 
+             active:scale-[0.98] active:bg-gray-900
+             transition-all duration-150 ease-out
+             shadow-[4px_4px_0px_rgba(0,0,0,0.3)]
+             hover:shadow-[6px_6px_0px_rgba(0,0,0,0.3)]
+             active:shadow-[2px_2px_0px_rgba(0,0,0,0.3)]"
+>
+  처음으로
+</button>
+
+<button
+  onClick={onStart}
+  className="flex-1 py-4 rounded-xl bg-[#61FF96] text-black font-bold text-2xl
+             border-2 border-black
+             hover:bg-[#4ee87d] hover:scale-[1.02]
+             active:scale-[0.98] active:bg-[#3dd66a]
+             transition-all duration-150 ease-out
+             shadow-[4px_4px_0px_rgba(0,0,0,0.3)]
+             hover:shadow-[6px_6px_0px_rgba(0,0,0,0.3)]
+             active:shadow-[2px_2px_0px_rgba(0,0,0,0.3)]"
+>
+  시작
+</button>
+
+{/* === Close / Icon Buttons === */}
+<button
+  onClick={() => navigate('/')}
+  className="w-10 h-10 flex items-center justify-center rounded-lg 
+             hover:bg-gray-200/50 transition-colors duration-150"
+  aria-label="닫기"
+>
+  <XIcon size={24} weight="regular" className="text-gray-600" />
+</button>
+
+{/* === Tab Buttons === */}
+<button
+  className={`text-md relative inline-block pb-3 ${
+    currentTab === 'personality'
+      ? 'font-bold text-black'
+      : 'font-medium text-gray-400'
+  }`}
+>
+  Personality
+  {currentTab === 'personality' && (
+    <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2">
+      <div className="w-0 h-0 border-l-[6px] border-r-[6px] border-t-[8px]
+                      border-l-transparent border-r-transparent border-t-black" />
+    </div>
+  )}
+</button>
+
+<button
+  className={`text-md relative inline-block pb-3 ${
+    currentTab === 'signature'
+      ? 'font-bold text-black'
+      : 'font-medium text-gray-400'
+  }`}
+>
+  Signature
+  {currentTab === 'signature' && (
+    <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2">
+      <div className="w-0 h-0 border-l-[6px] border-r-[6px] border-t-[8px]
+                      border-l-transparent border-r-transparent border-t-black" />
+    </div>
+  )}
+</button>
+
+<button
+  className={`text-md relative inline-block pb-3 ${
+    currentTab === 'type'
+      ? 'font-bold text-black'
+      : 'font-medium text-gray-400'
+  }`}
+>
+  Type
+  {currentTab === 'type' && (
+    <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2">
+      <div className="w-0 h-0 border-l-[6px] border-r-[6px] border-t-[8px]
+                      border-l-transparent border-r-transparent border-t-black" />
+    </div>
+  )}
+</button>
+
+{/* === Small Adjust Buttons (+ / -) === */}
+<button
+  onClick={() => adjustIntensity(note.id, -10)}
+  disabled={note.intensity === 0}
+  className="w-5 h-5 rounded-full bg-white border border-gray-300
+             hover:border-gray-400 hover:bg-gray-50
+             flex items-center justify-center transition-colors
+             disabled:opacity-40"
+>
+  <MinusIcon size={10} weight="bold" className="text-gray-700" />
+</button>
+
+<button
+  onClick={() => adjustIntensity(note.id, 10)}
+  disabled={note.intensity === 100}
+  className="w-5 h-5 rounded-full bg-white border border-gray-300
+             hover:border-gray-400 hover:bg-gray-50
+             flex items-center justify-center transition-colors
+             disabled:opacity-40"
+>
+  <PlusIcon size={10} weight="bold" className="text-gray-700" />
+</button>
 
 ```
 
