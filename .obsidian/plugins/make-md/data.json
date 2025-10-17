@@ -58,7 +58,8 @@
     "//KnowledgeBase/KnowledgeBase/Snippets",
     "//KnowledgeBase/KnowledgeBase/Study",
     "//ds-kiosk",
-    "//FrSmart"
+    "//FrSmart",
+    "//FrSmart/FrSmart/FrSmart_SW_분석"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
