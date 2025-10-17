@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "02_button element 화",
+      "path": "ds-kiosk/02_button element 화.md"
+    },
+    {
+      "basename": "ds-kiosk",
+      "path": "ds-kiosk/ds-kiosk.md"
+    },
+    {
       "basename": "01_기본 구성",
       "path": "ds-kiosk/01_기본 구성.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2025-08-04",
       "path": "Notes/Daily/2025/08/2025-08-04.md"
-    },
-    {
-      "basename": "2025-07-28",
-      "path": "Notes/Daily/2025/07/2025-07-28.md"
-    },
-    {
-      "basename": "2025-08-11",
-      "path": "Notes/Daily/2025/08/2025-08-11.md"
     }
   ],
   "omittedPaths": [],
