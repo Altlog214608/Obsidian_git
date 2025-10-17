@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ds-kiosk/02_button element 화.md",
+                "file": "ds-kiosk/02-1_button 코드 모음.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_button element 화"
+              "title": "02-1_button 코드 모음"
             }
           }
         ],
@@ -229,9 +229,10 @@
   },
   "active": "24fff1f97b2d4dfe",
   "lastOpenFiles": [
-    "ds-kiosk/02_button element 화.md",
-    "ds-kiosk/ds-kiosk.md",
     "ds-kiosk/01_기본 구성.md",
+    "ds-kiosk/02-1_button 코드 모음.md",
+    "ds-kiosk/02-2_button element 화 시키기.md",
+    "ds-kiosk/ds-kiosk.md",
     "Notes/Daily/2025/10/2025-10-17.md",
     "ds-kiosk",
     "Notes/Daily/2025/10/2025-10-14.md",
@@ -264,7 +265,6 @@
     "Notes/Daily/2025/09/2025-09-16.md",
     "Notes/Daily/2025/09/2025-09-15.md",
     "Notes/Daily/2025/09/2025-09-09.md",
-    "Notes/Daily/2025/09/2025-09-10.md",
     "Notes/Daily/2025/09",
     "무제 1.base",
     "무제.base",

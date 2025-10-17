@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "02_button element 화",
-      "path": "ds-kiosk/02_button element 화.md"
-    },
-    {
-      "basename": "ds-kiosk",
-      "path": "ds-kiosk/ds-kiosk.md"
+      "basename": "02-1_button 코드 모음",
+      "path": "ds-kiosk/02-1_button 코드 모음.md"
     },
     {
       "basename": "01_기본 구성",
       "path": "ds-kiosk/01_기본 구성.md"
+    },
+    {
+      "basename": "02-2_button element 화 시키기",
+      "path": "ds-kiosk/02-2_button element 화 시키기.md"
+    },
+    {
+      "basename": "ds-kiosk",
+      "path": "ds-kiosk/ds-kiosk.md"
     },
     {
       "basename": "2025-10-17",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-08-05",
       "path": "Notes/Daily/2025/08/2025-08-05.md"
-    },
-    {
-      "basename": "2025-08-04",
-      "path": "Notes/Daily/2025/08/2025-08-04.md"
     }
   ],
   "omittedPaths": [],
