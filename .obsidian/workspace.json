@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "2025-10-01"
             }
-          },
-          {
-            "id": "24fff1f97b2d4dfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ds-kiosk/02-1_button 코드 모음.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02-1_button 코드 모음"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,11 +213,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "24fff1f97b2d4dfe",
+  "active": "92325207b2d7417e",
   "lastOpenFiles": [
-    "ds-kiosk/01_기본 구성.md",
+    "FrSmart/FrSmart_SW_분석/00_개요.md",
+    "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md",
     "ds-kiosk/02-1_button 코드 모음.md",
     "ds-kiosk/02-2_button element 화 시키기.md",
+    "ds-kiosk/01_기본 구성.md",
     "ds-kiosk/ds-kiosk.md",
     "Notes/Daily/2025/10/2025-10-17.md",
     "ds-kiosk",
@@ -264,8 +251,6 @@
     "FrSmart/FrSmart_Kiosk",
     "FrSmart/FrSmart_SW_분석/14_동시발향 코드.md",
     "Notes/Daily/2025/09/2025-09-16.md",
-    "Notes/Daily/2025/09/2025-09-15.md",
-    "Notes/Daily/2025/09/2025-09-09.md",
     "Notes/Daily/2025/09",
     "무제 1.base",
     "무제.base",

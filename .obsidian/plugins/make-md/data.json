@@ -57,7 +57,8 @@
     "//KnowledgeBase/KnowledgeBase/Concepts",
     "//KnowledgeBase/KnowledgeBase/Snippets",
     "//KnowledgeBase/KnowledgeBase/Study",
-    "//ds-kiosk"
+    "//ds-kiosk",
+    "//FrSmart"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

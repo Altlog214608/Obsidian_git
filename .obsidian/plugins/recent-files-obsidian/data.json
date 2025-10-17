@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-10-01",
+      "path": "Notes/Daily/2025/10/2025-10-01.md"
+    },
+    {
+      "basename": "00_개요",
+      "path": "FrSmart/FrSmart_SW_분석/00_개요.md"
+    },
+    {
+      "basename": "FrSmart_SW_분석",
+      "path": "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md"
+    },
+    {
       "basename": "02-1_button 코드 모음",
       "path": "ds-kiosk/02-1_button 코드 모음.md"
     },
     {
-      "basename": "01_기본 구성",
-      "path": "ds-kiosk/01_기본 구성.md"
-    },
-    {
       "basename": "02-2_button element 화 시키기",
       "path": "ds-kiosk/02-2_button element 화 시키기.md"
+    },
+    {
+      "basename": "01_기본 구성",
+      "path": "ds-kiosk/01_기본 구성.md"
     },
     {
       "basename": "ds-kiosk",
@@ -27,10 +39,6 @@
     {
       "basename": "2025-10-13",
       "path": "Notes/Daily/2025/10/2025-10-13.md"
-    },
-    {
-      "basename": "2025-10-01",
-      "path": "Notes/Daily/2025/10/2025-10-01.md"
     },
     {
       "basename": "2025-09-25",
@@ -191,14 +199,6 @@
     {
       "basename": "2025-08-07",
       "path": "Notes/Daily/2025/08/2025-08-07.md"
-    },
-    {
-      "basename": "2025-08-06",
-      "path": "Notes/Daily/2025/08/2025-08-06.md"
-    },
-    {
-      "basename": "2025-08-05",
-      "path": "Notes/Daily/2025/08/2025-08-05.md"
     }
   ],
   "omittedPaths": [],
