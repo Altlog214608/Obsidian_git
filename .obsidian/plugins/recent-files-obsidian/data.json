@@ -5,6 +5,10 @@
       "path": "ds-kiosk/02-1_button 코드 모음.md"
     },
     {
+      "basename": "02-2_button element 화 시키기",
+      "path": "ds-kiosk/02-2_button element 화 시키기.md"
+    },
+    {
       "basename": "00_개요",
       "path": "FrSmart/FrSmart_SW_분석/00_개요.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "2025-10-01",
       "path": "Notes/Daily/2025/10/2025-10-01.md"
-    },
-    {
-      "basename": "02-2_button element 화 시키기",
-      "path": "ds-kiosk/02-2_button element 화 시키기.md"
     },
     {
       "basename": "01_기본 구성",
