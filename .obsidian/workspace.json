@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ds-kiosk/03_React Design Patterns.md",
+                "file": "ds-kiosk/03_2 React Design Patterns 번역.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_React Design Patterns"
+              "title": "03_2 React Design Patterns 번역"
             }
           }
         ]
@@ -214,8 +214,10 @@
   },
   "active": "62110a1a5a765d36",
   "lastOpenFiles": [
+    "ds-kiosk/03_2 React Design Patterns 번역.md",
+    "ds-kiosk/ds-kiosk.md",
+    "ds-kiosk/03_1 React Design Patterns 요약.md",
     "Notes/Daily/2025/10/2025-10-17.md",
-    "ds-kiosk/03_React Design Patterns.md",
     "Notes/Daily/2025/10/2025-10-27.md",
     "ds-kiosk/02-1_button 코드 모음.md",
     "ds-kiosk/02-2_button element 화 시키기.md",
@@ -223,7 +225,6 @@
     "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md",
     "Notes/Daily/2025/10/2025-10-01.md",
     "ds-kiosk/01_기본 구성.md",
-    "ds-kiosk/ds-kiosk.md",
     "ds-kiosk",
     "Notes/Daily/2025/10/2025-10-14.md",
     "Notes/Daily/2025/10/2025-10-13.md",
@@ -248,7 +249,6 @@
     "assets/img/Nuvo-3000_RightFront.jpg",
     "assets/img/Industrial Fanless Box PC I3 1.jpg",
     "assets/img/Industrial Fanless Box PC I3.jpg",
-    "Notes/Daily/2025/09/2025-09-17.md",
     "FrSmart/FrSmart_Kiosk",
     "Notes/Daily/2025/09",
     "무제 1.base",

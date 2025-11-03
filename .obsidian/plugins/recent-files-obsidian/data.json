@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "03_React Design Patterns",
-      "path": "ds-kiosk/03_React Design Patterns.md"
+      "basename": "03_2 React Design Patterns 번역",
+      "path": "ds-kiosk/03_2 React Design Patterns 번역.md"
+    },
+    {
+      "basename": "ds-kiosk",
+      "path": "ds-kiosk/ds-kiosk.md"
+    },
+    {
+      "basename": "03_1 React Design Patterns 요약",
+      "path": "ds-kiosk/03_1 React Design Patterns 요약.md"
     },
     {
       "basename": "2025-10-17",
@@ -35,10 +43,6 @@
     {
       "basename": "01_기본 구성",
       "path": "ds-kiosk/01_기본 구성.md"
-    },
-    {
-      "basename": "ds-kiosk",
-      "path": "ds-kiosk/ds-kiosk.md"
     },
     {
       "basename": "2025-10-14",
@@ -195,10 +199,6 @@
     {
       "basename": "FrSmart_QR_Mobile",
       "path": "FrSmart/FrSmart_QR_Mobile/FrSmart_QR_Mobile.md"
-    },
-    {
-      "basename": "2025-08-08",
-      "path": "Notes/Daily/2025/08/2025-08-08.md"
     }
   ],
   "omittedPaths": [],
