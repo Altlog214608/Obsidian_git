@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "04_kiosk 앱 요약 정리 1103",
-      "path": "ds-kiosk/04_kiosk 앱 요약 정리 1103.md"
+      "basename": "05_Electron",
+      "path": "ds-kiosk/05_Electron.md"
     },
     {
       "basename": "ds-kiosk",
       "path": "ds-kiosk/ds-kiosk.md"
+    },
+    {
+      "basename": "04_kiosk 앱 요약 정리 1103",
+      "path": "ds-kiosk/04_kiosk 앱 요약 정리 1103.md"
     },
     {
       "basename": "03_2 React Design Patterns 번역",
@@ -195,10 +199,6 @@
     {
       "basename": "01_전체 코드 리뷰",
       "path": "ScentSmart/ScentSmart_KR_중기청_개선/01_전체 코드 리뷰.md"
-    },
-    {
-      "basename": "ScentSmart_KR_중기청_개선",
-      "path": "ScentSmart/ScentSmart_KR_중기청_개선/ScentSmart_KR_중기청_개선.md"
     }
   ],
   "omittedPaths": [],
