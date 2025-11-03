@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "08_루트 주요 파일 설명",
+      "path": "ds-kiosk/08_루트 주요 파일 설명.md"
+    },
+    {
+      "basename": "ds-kiosk",
+      "path": "ds-kiosk/ds-kiosk.md"
+    },
+    {
       "basename": "04_kiosk 앱 요약 정리 1103",
       "path": "ds-kiosk/04_kiosk 앱 요약 정리 1103.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "07_공부 방향",
       "path": "ds-kiosk/07_공부 방향.md"
-    },
-    {
-      "basename": "ds-kiosk",
-      "path": "ds-kiosk/ds-kiosk.md"
     },
     {
       "basename": "2025-11-03",
@@ -195,10 +199,6 @@
     {
       "basename": "06_",
       "path": "ScentSmart/ScentSmart_KR_중기청_개선/06_.md"
-    },
-    {
-      "basename": "05_0829 GPT 답변 내용 반영예정",
-      "path": "ScentSmart/ScentSmart_KR_중기청_개선/05_0829 GPT 답변 내용 반영예정.md"
     }
   ],
   "omittedPaths": [],
