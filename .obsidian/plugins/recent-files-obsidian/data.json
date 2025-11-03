@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "무제",
-      "path": "ds-kiosk/무제.md"
+      "basename": "2025-11-03",
+      "path": "Notes/Daily/2025/11/2025-11-03.md"
+    },
+    {
+      "basename": "06_TypeScript",
+      "path": "ds-kiosk/06_TypeScript.md"
     },
     {
       "basename": "05_Electron",
@@ -195,10 +199,6 @@
     {
       "basename": "04_시나리오 예시",
       "path": "ScentSmart/ScentSmart_KR_중기청_개선/04_시나리오 예시.md"
-    },
-    {
-      "basename": "02_dsTestID 수정",
-      "path": "ScentSmart/ScentSmart_KR_중기청_개선/02_dsTestID 수정.md"
     }
   ],
   "omittedPaths": [],
