@@ -101,20 +101,20 @@
     ```
     
 
-#### 7️⃣ Prop Combination
+#### 7 Prop Combination
 
 - 관련 prop들을 하나의 객체로 묶어 전달  
     → 코드 간결화, 관리 용이
     
 
-#### 8️⃣ Controlled Inputs
+#### 8 Controlled Inputs
 
 - **상태 기반 input 관리**
     
 - `value`와 `onChange`로 상태 제어 (DOM 직접 접근 X)
     
 
-#### 9️⃣ Error Boundaries Pattern
+#### 9 Error Boundaries Pattern
 
 - 컴포넌트 오류 발생 시 전체 앱이 깨지지 않도록 보호
     
@@ -123,28 +123,28 @@
 - fallback UI 제공
     
 
-#### 🔟 ForwardRefs
+#### 10 ForwardRefs
 
 - **ref를 자식 컴포넌트로 전달**하여 DOM 접근 허용
     
 - 외부 라이브러리나 커스텀 input과 상호작용 시 유용
     
 
-#### 11️⃣ Lazy Loading Components
+#### 11 Lazy Loading Components
 
 - **필요 시점에만 컴포넌트 로드** (`React.lazy`, `Suspense`)
     
 - 초기 로딩 속도 개선 및 성능 최적화
     
 
-#### 12️⃣ Memoization Patterns
+#### 12 Memoization Patterns
 
 - `React.memo`, `useMemo`, `useCallback`으로 불필요한 재렌더 방지
     
 - 연산 비용 큰 컴포넌트에 최적
     
 
-#### 13️⃣ Data Fetching with React Server Components (RSC)
+#### 13 Data Fetching with React Server Components (RSC)
 
 - **서버에서 직접 데이터 가져와 렌더링**
     
