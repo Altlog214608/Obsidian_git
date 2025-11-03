@@ -39,7 +39,7 @@
 
 ### 🧩 **핵심 요약**
 
-#### 1️⃣ Container & Presentation Pattern
+#### 1 Container & Presentation Pattern
 
 - **비즈니스 로직과 UI 렌더링 분리**  
     → `Container`는 데이터 fetch / 로직 계산 담당  
@@ -48,7 +48,7 @@
 - 장점: 모듈화, 테스트 용이성, 유지보수성 향상
     
 
-#### 2️⃣ Component Composition with Hooks
+#### 2 Component Composition with Hooks
 
 - **Custom Hook**으로 상태 및 로직 분리
     
@@ -59,14 +59,14 @@
     ```
     
 
-#### 3️⃣ State Management with Reducers
+#### 3 State Management with Reducers
 
 - `useReducer`로 상태를 그룹화하고 action 기반으로 변경
     
 - 복잡한 상태 관리 간소화 (ex: 로그인/로그아웃)
     
 
-#### 4️⃣ Data Management with Providers
+#### 4 Data Management with Providers
 
 - **Context API** 기반 데이터 관리
     
@@ -75,7 +75,7 @@
 - `ThemeProvider`, `ThemeContext` 등으로 전역 데이터 전달
     
 
-#### 5️⃣ Higher-Order Components (HOC)
+#### 5 Higher-Order Components (HOC)
 
 - 컴포넌트에 **추가 기능 주입**
     
@@ -86,7 +86,7 @@
     ```
     
 
-#### 6️⃣ Compound Components
+#### 6 Compound Components
 
 - **부모-자식 컴포넌트 간 구조적 상호작용**
     
