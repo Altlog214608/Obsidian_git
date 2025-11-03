@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "10_index.ts",
+      "path": "ds-kiosk/10_index.ts.md"
+    },
+    {
+      "basename": "ds-kiosk",
+      "path": "ds-kiosk/ds-kiosk.md"
+    },
+    {
       "basename": "09_package.json, vite.config.ts, tsconfig.json",
       "path": "ds-kiosk/09_package.json, vite.config.ts, tsconfig.json.md"
     },
     {
       "basename": "08_루트 주요 파일 설명",
       "path": "ds-kiosk/08_루트 주요 파일 설명.md"
-    },
-    {
-      "basename": "ds-kiosk",
-      "path": "ds-kiosk/ds-kiosk.md"
     },
     {
       "basename": "04_kiosk 앱 요약 정리 1103",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-08-27",
       "path": "Notes/Daily/2025/08/2025-08-27.md"
-    },
-    {
-      "basename": "03_향료 선별, 문구 수정",
-      "path": "ScentSmart/ScentSmart_KR_중기청_개선/03_향료 선별, 문구 수정.md"
     }
   ],
   "omittedPaths": [],
