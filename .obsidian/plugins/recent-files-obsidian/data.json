@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "09_package.json, vite.config.ts, tsconfig.json",
+      "path": "ds-kiosk/09_package.json, vite.config.ts, tsconfig.json.md"
+    },
+    {
       "basename": "08_루트 주요 파일 설명",
       "path": "ds-kiosk/08_루트 주요 파일 설명.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "03_향료 선별, 문구 수정",
       "path": "ScentSmart/ScentSmart_KR_중기청_개선/03_향료 선별, 문구 수정.md"
-    },
-    {
-      "basename": "06_",
-      "path": "ScentSmart/ScentSmart_KR_중기청_개선/06_.md"
     }
   ],
   "omittedPaths": [],
