@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "07_공부 방향",
+      "path": "ds-kiosk/07_공부 방향.md"
+    },
+    {
+      "basename": "ds-kiosk",
+      "path": "ds-kiosk/ds-kiosk.md"
+    },
+    {
       "basename": "06_TypeScript",
       "path": "ds-kiosk/06_TypeScript.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "05_Electron",
       "path": "ds-kiosk/05_Electron.md"
-    },
-    {
-      "basename": "ds-kiosk",
-      "path": "ds-kiosk/ds-kiosk.md"
     },
     {
       "basename": "04_kiosk 앱 요약 정리 1103",
@@ -195,10 +199,6 @@
     {
       "basename": "05_0829 GPT 답변 내용 반영예정",
       "path": "ScentSmart/ScentSmart_KR_중기청_개선/05_0829 GPT 답변 내용 반영예정.md"
-    },
-    {
-      "basename": "04_시나리오 예시",
-      "path": "ScentSmart/ScentSmart_KR_중기청_개선/04_시나리오 예시.md"
     }
   ],
   "omittedPaths": [],
