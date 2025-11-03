@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "03_2 React Design Patterns 번역",
-      "path": "ds-kiosk/03_2 React Design Patterns 번역.md"
+      "basename": "04_kiosk 앱 요약 정리 1103",
+      "path": "ds-kiosk/04_kiosk 앱 요약 정리 1103.md"
     },
     {
       "basename": "ds-kiosk",
       "path": "ds-kiosk/ds-kiosk.md"
+    },
+    {
+      "basename": "03_2 React Design Patterns 번역",
+      "path": "ds-kiosk/03_2 React Design Patterns 번역.md"
     },
     {
       "basename": "03_1 React Design Patterns 요약",
@@ -195,10 +199,6 @@
     {
       "basename": "ScentSmart_KR_중기청_개선",
       "path": "ScentSmart/ScentSmart_KR_중기청_개선/ScentSmart_KR_중기청_개선.md"
-    },
-    {
-      "basename": "FrSmart_QR_Mobile",
-      "path": "FrSmart/FrSmart_QR_Mobile/FrSmart_QR_Mobile.md"
     }
   ],
   "omittedPaths": [],
