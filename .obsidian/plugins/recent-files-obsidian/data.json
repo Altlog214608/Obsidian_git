@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "03_React Design Patterns",
+      "path": "ds-kiosk/03_React Design Patterns.md"
+    },
+    {
       "basename": "2025-10-17",
       "path": "Notes/Daily/2025/10/2025-10-17.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-08-08",
       "path": "Notes/Daily/2025/08/2025-08-08.md"
-    },
-    {
-      "basename": "2025-08-01",
-      "path": "Notes/Daily/2025/08/2025-08-01.md"
     }
   ],
   "omittedPaths": [],

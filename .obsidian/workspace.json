@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily/2025/10/2025-10-17.md",
+                "file": "ds-kiosk/03_React Design Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-17"
+              "title": "03_React Design Patterns"
             }
           }
         ]
@@ -214,6 +214,8 @@
   },
   "active": "62110a1a5a765d36",
   "lastOpenFiles": [
+    "Notes/Daily/2025/10/2025-10-17.md",
+    "ds-kiosk/03_React Design Patterns.md",
     "Notes/Daily/2025/10/2025-10-27.md",
     "ds-kiosk/02-1_button 코드 모음.md",
     "ds-kiosk/02-2_button element 화 시키기.md",
@@ -222,7 +224,6 @@
     "Notes/Daily/2025/10/2025-10-01.md",
     "ds-kiosk/01_기본 구성.md",
     "ds-kiosk/ds-kiosk.md",
-    "Notes/Daily/2025/10/2025-10-17.md",
     "ds-kiosk",
     "Notes/Daily/2025/10/2025-10-14.md",
     "Notes/Daily/2025/10/2025-10-13.md",
@@ -249,7 +250,6 @@
     "assets/img/Industrial Fanless Box PC I3.jpg",
     "Notes/Daily/2025/09/2025-09-17.md",
     "FrSmart/FrSmart_Kiosk",
-    "FrSmart/FrSmart_SW_분석/14_동시발향 코드.md",
     "Notes/Daily/2025/09",
     "무제 1.base",
     "무제.base",
