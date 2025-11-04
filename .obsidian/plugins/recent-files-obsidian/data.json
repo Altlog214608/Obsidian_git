@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "12_라이브러리, 프레임워크 차이",
+      "path": "ds-kiosk/12_라이브러리, 프레임워크 차이.md"
+    },
+    {
+      "basename": "ds-kiosk",
+      "path": "ds-kiosk/ds-kiosk.md"
+    },
+    {
       "basename": "11_사용 프레임워크,라이브러리",
       "path": "ds-kiosk/11_사용 프레임워크,라이브러리.md"
     },
     {
       "basename": "05_Electron",
       "path": "ds-kiosk/05_Electron.md"
-    },
-    {
-      "basename": "ds-kiosk",
-      "path": "ds-kiosk/ds-kiosk.md"
     },
     {
       "basename": "06_TypeScript",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-08-26",
       "path": "Notes/Daily/2025/08/2025-08-26.md"
-    },
-    {
-      "basename": "2025-08-25",
-      "path": "Notes/Daily/2025/08/2025-08-25.md"
     }
   ],
   "omittedPaths": [],

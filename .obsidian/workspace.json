@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ds-kiosk/11_사용 프레임워크,라이브러리.md",
+                "file": "ds-kiosk/12_라이브러리, 프레임워크 차이.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11_사용 프레임워크,라이브러리"
+              "title": "12_라이브러리, 프레임워크 차이"
             }
           }
         ]
@@ -215,9 +215,10 @@
   },
   "active": "62110a1a5a765d36",
   "lastOpenFiles": [
-    "ds-kiosk/05_Electron.md",
-    "ds-kiosk/11_사용 프레임워크,라이브러리.md",
+    "ds-kiosk/12_라이브러리, 프레임워크 차이.md",
     "ds-kiosk/ds-kiosk.md",
+    "ds-kiosk/11_사용 프레임워크,라이브러리.md",
+    "ds-kiosk/05_Electron.md",
     "ds-kiosk/06_TypeScript.md",
     "ds-kiosk/10_1 index.ts.md",
     "ds-kiosk/10_index.ts.md",
@@ -243,7 +244,6 @@
     "Notes/Daily/2025/09/2025-09-25.md",
     "Notes/Daily/2025/10",
     "KnowledgeBase/Study/데이터AI 공부 방향.md",
-    "KnowledgeBase/Study/Study.md",
     "KnowledgeBase/Study",
     "assets/img/a05d3d35-cc87-4a76-9aaf-bc6e35f72b33.webp",
     "assets/img/HXkM_XicDcndEoFAGADQJ0pt2cKMMRXKz9aETLnTlgrtftklvZT38Tac2_P9VFKCmKhqweijB1nkiswYGpRCnmVNB5Q3qqg4QM3KWTv938QO8rFHI88n7dNKL3udM962fLRwiX9Prynv7VsXa_PEkOECXYar9RWQIcLzXosT-90ZceO52RJOAtwNJlkgtDUtTSmcSglZc8COjoC8_B22jvyG72Y0L",
