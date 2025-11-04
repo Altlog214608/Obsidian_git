@@ -402,3 +402,49 @@ ReactDom.render(<App/>, document.getElementById('root'));
 ![](https://blog.kakaocdn.net/dna/0i1ar/btrfDgOmD5x/AAAAAAAAAAAAAAAAAAAAANRcS9nuS1RhHEmhkl0FbFAOxFQbxEAd_koqvQl8e9N3/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=Y%2F%2B3NPxykvTf5M5OIGPRCYZzkQ0%3D)
 
 React Component 실행
+
+
+
+앱이 처음에 실행되지 않았던 주요 원인들과 해결 방법을 설명해드리겠습니다:
+
+1. **Electron Forge 설정 문제**
+   - 초기에는 Electron Forge가 제대로 설정되지 않았었습니다.
+   - `npx electron-forge import` 명령어로 프로젝트를 Electron Forge 형식으로 변환하여 해결했습니다.
+   - 이 과정에서 필요한 설정 파일들과 스크립트가 자동으로 추가되었습니다.
+
+2. **React 18 관련 문제**
+   - index.js에서 예전 방식의 React 렌더링 메소드를 사용하고 있었습니다:
+   ```javascript
+   // 이전 코드 (동작하지 않음)
+   ReactDOM.render(<h2>Hello, Electron!</h2>, document.getElementById("root"));
+   ```
+   - React 18의 새로운 방식으로 수정했습니다:
+   ```javascript
+   // 새로운 코드 (정상 동작)
+   import { createRoot } from "react-dom/client";
+   const root = createRoot(container);
+   root.render(<h2>Hello, Electron!</h2>);
+   ```
+
+3. **Electron의 보안 설정 문제**
+   - index.js에서 BrowserWindow의 웹 보안 설정이 React 앱 실행을 막고 있었습니다.
+   - `nodeIntegration`과 `contextIsolation` 설정을 추가하여 해결했습니다:
+   ```javascript
+   webPreferences: {
+     nodeIntegration: true,
+     contextIsolation: false,
+     preload: path.join(__dirname, 'preload.js')
+   }
+   ```
+
+4. **빌드 프로세스 순서**
+   - webpack과 Electron을 동시에 실행해야 했습니다.
+   - `npm run watch`로 webpack을 실행하여 app.js 파일을 생성
+   - 그 다음 `npm start`로 Electron 앱을 실행
+
+이러한 문제들은 주로 다음과 같은 상황에서 발생합니다:
+- Electron과 React를 함께 사용할 때의 보안 설정
+- React 18의 새로운 렌더링 API 적용
+- 빌드 도구(webpack)와 실행 도구(electron-forge)의 올바른 설정과 실행 순서
+
+앞으로 비슷한 프로젝트를 진행하실 때는 이러한 점들을 미리 고려하시면 도움이 될 것 같습니다.
