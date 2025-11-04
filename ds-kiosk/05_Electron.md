@@ -494,3 +494,62 @@ Webpack은 모던 JavaScript 애플리케이션을 위한 모듈 번들러입니
 이렇게 두 개의 프로세스를 실행해야 하는 이유입니다.
 
 webpack은 마치 통역사처럼 우리가 작성한 최신 JavaScript 코드를 브라우저가 이해할 수 있는 형태로 변환해주는 중요한 도구라고 생각하시면 됩니다.
+
+네, 최신 Electron과 React를 함께 사용하는 좋은 학습 자료들을 찾아보겠습니다: 
+
+Using "Fetch Web Page"
+
+Fetched 2 resources
+
+
+---
+
+
+최신 Electron과 React를 함께 사용하는 학습 자료를 몇 가지 추천해드리겠습니다:
+
+1. **공식 문서와 튜토리얼**
+   - [Electron 공식 문서](https://www.electronjs.org/docs/latest/) - 가장 최신의 정보를 제공
+   - [Electron Forge](https://www.electronforge.io/) - 최신 Electron 앱 개발을 위한 공식 도구
+
+2. **추천 강의 및 학습 경로**:
+
+   a. **Electron Forge로 시작하기** (권장)
+   ```bash
+   npm init electron-app@latest my-app
+   ```
+   이 방법은 최신 버전의 보일러플레이트를 자동으로 설정해줍니다.
+
+   b. **온라인 강의 플랫폼**:
+   - Udemy: "Electron for Desktop Apps: The Complete Developer's Guide" (2025 업데이트)
+   - egghead.io의 "Build a Desktop Application with Electron"
+   - YouTube: "Fireship" 채널의 Electron 튜토리얼
+
+3. **최신 Electron + React 프로젝트 구조**:
+   ```
+   my-electron-app/
+   ├── src/
+   │   ├── main/
+   │   │   └── index.ts          # 메인 프로세스
+   │   ├── preload/
+   │   │   └── index.ts          # 프리로드 스크립트
+   │   └── renderer/
+   │       ├── App.tsx           # React 컴포넌트
+   │       └── index.tsx         # 렌더러 프로세스
+   ├── index.html
+   ├── package.json
+   └── tsconfig.json
+   ```
+
+4. **모던 개발 스택**:
+   - TypeScript 사용 (타입 안정성)
+   - React 18+ (최신 기능 활용)
+   - Vite (빠른 개발 환경)
+   - Electron Forge (패키징과 배포)
+
+5. **좋은 GitHub 예제들**:
+   - [electron-vite-react](https://github.com/electron-vite/electron-vite-react)
+   - [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+
+이러한 최신 자료들을 참고하시면, 옛날 버전의 문제점들(React 18 이전의 렌더링 방식, 보안 설정 문제 등)을 피하고 현대적인 방식으로 개발하실 수 있습니다.
+
+특히, Electron Forge를 사용하면 프로젝트 설정, 빌드, 패키징 등이 자동화되어 있어 개발에만 집중하실 수 있습니다. 새로 시작하시는 경우 이 방법을 추천드립니다.
