@@ -189,8 +189,8 @@ root 폴더에 index.js를 만들고 다음과 같이 작성
 const { app, BrowserWindow } = require('electron') // include the Node.js 'path' module at the top of your file 
 const path = require('path')
 
- // modify your existing createWindow() 
-function function createWindow () { 
+ // modify your existing createWindow() function 
+function createWindow () { 
 	 const win = new BrowserWindow({ 
 	 width: 800, 
 	 height: 600, 
