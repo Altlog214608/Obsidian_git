@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ds-kiosk/05_Electron.md",
+                "file": "ds-kiosk/11_사용 프레임워크,라이브러리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05_Electron"
+              "title": "11_사용 프레임워크,라이브러리"
             }
           }
         ]
@@ -215,7 +215,8 @@
   },
   "active": "62110a1a5a765d36",
   "lastOpenFiles": [
-    "ds-kiosk/무제.md",
+    "ds-kiosk/05_Electron.md",
+    "ds-kiosk/11_사용 프레임워크,라이브러리.md",
     "ds-kiosk/ds-kiosk.md",
     "ds-kiosk/06_TypeScript.md",
     "ds-kiosk/10_1 index.ts.md",
@@ -223,7 +224,6 @@
     "ds-kiosk/09_package.json, vite.config.ts, tsconfig.json.md",
     "ds-kiosk/08_루트 주요 파일 설명.md",
     "ds-kiosk/04_kiosk 앱 요약 정리 1103.md",
-    "ds-kiosk/05_Electron.md",
     "ds-kiosk/01_기본 구성.md",
     "ds-kiosk/07_공부 방향.md",
     "Notes/Daily/2025/11/2025-11-03.md",
