@@ -447,4 +447,50 @@ React Component 실행
 - React 18의 새로운 렌더링 API 적용
 - 빌드 도구(webpack)와 실행 도구(electron-forge)의 올바른 설정과 실행 순서
 
-앞으로 비슷한 프로젝트를 진행하실 때는 이러한 점들을 미리 고려하시면 도움이 될 것 같습니다.
+
+
+Webpack은 모던 JavaScript 애플리케이션을 위한 모듈 번들러입니다. 좀 더 쉽게 설명하면:
+
+1. **Webpack의 역할:**
+   - 여러 파일들을 하나로 합쳐줍니다 (번들링)
+   - JSX, TypeScript, SASS 등을 브라우저가 이해할 수 있는 JavaScript와 CSS로 변환
+   - 코드를 최적화하고 압축
+   - 이미지나 폰트 같은 자원들도 관리
+
+2. **왜 필요한가?**
+   - 우리 프로젝트에서는:
+     ```javascript
+     import React from 'react';  // React 라이브러리 불러오기
+     import App from './App';    // App.js 파일 불러오기
+     ```
+   - 이런 import 문은 브라우저가 직접 이해할 수 없습니다
+   - Webpack이 이 파일들을 모두 모아서 브라우저가 이해할 수 있는 하나의 파일(app.js)로 만들어줍니다
+
+3. **`npm run watch`가 필요한 이유:**
+   - `watch` 모드는 파일 변경을 감지하고 자동으로 다시 빌드합니다
+   - 예를 들어:
+     1. `App.js`를 수정하면
+     2. webpack이 이를 감지하고
+     3. 즉시 새로운 app.js를 생성
+     4. Electron 앱이 이 새로운 파일을 로드
+
+4. **빌드 과정 예시:**
+   ```plaintext
+   [소스 파일들]
+   src/js/index.js ----→
+   src/js/App.js   ----→  Webpack  ----→ build/js/app.js
+   node_modules/   ----→
+   ```
+
+5. **만약 `npm run watch`를 실행하지 않으면:**
+   - 파일을 수정해도 app.js가 업데이트되지 않음
+   - Electron 앱은 여전히 이전 버전의 코드를 보여줌
+   - 변경사항이 화면에 반영되지 않음
+
+이것이 바로 우리가 개발할 때:
+1. 첫 번째 터미널에서 `npm run watch` (webpack이 파일 변경을 감시)
+2. 두 번째 터미널에서 `npm start` (Electron 앱 실행)
+
+이렇게 두 개의 프로세스를 실행해야 하는 이유입니다.
+
+webpack은 마치 통역사처럼 우리가 작성한 최신 JavaScript 코드를 브라우저가 이해할 수 있는 형태로 변환해주는 중요한 도구라고 생각하시면 됩니다.
