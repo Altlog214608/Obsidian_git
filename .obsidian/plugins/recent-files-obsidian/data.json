@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "06_TypeScript",
+      "path": "ds-kiosk/06_TypeScript.md"
+    },
+    {
       "basename": "10_1 index.ts",
       "path": "ds-kiosk/10_1 index.ts.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "05_Electron",
       "path": "ds-kiosk/05_Electron.md"
-    },
-    {
-      "basename": "06_TypeScript",
-      "path": "ds-kiosk/06_TypeScript.md"
     },
     {
       "basename": "01_기본 구성",
