@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "05_Electron",
+      "path": "ds-kiosk/05_Electron.md"
+    },
+    {
+      "basename": "무제",
+      "path": "ds-kiosk/무제.md"
+    },
+    {
+      "basename": "ds-kiosk",
+      "path": "ds-kiosk/ds-kiosk.md"
+    },
+    {
       "basename": "06_TypeScript",
       "path": "ds-kiosk/06_TypeScript.md"
     },
@@ -13,10 +25,6 @@
       "path": "ds-kiosk/10_index.ts.md"
     },
     {
-      "basename": "ds-kiosk",
-      "path": "ds-kiosk/ds-kiosk.md"
-    },
-    {
       "basename": "09_package.json, vite.config.ts, tsconfig.json",
       "path": "ds-kiosk/09_package.json, vite.config.ts, tsconfig.json.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "04_kiosk 앱 요약 정리 1103",
       "path": "ds-kiosk/04_kiosk 앱 요약 정리 1103.md"
-    },
-    {
-      "basename": "05_Electron",
-      "path": "ds-kiosk/05_Electron.md"
     },
     {
       "basename": "01_기본 구성",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-08-25",
       "path": "Notes/Daily/2025/08/2025-08-25.md"
-    },
-    {
-      "basename": "2025-08-28",
-      "path": "Notes/Daily/2025/08/2025-08-28.md"
     }
   ],
   "omittedPaths": [],
