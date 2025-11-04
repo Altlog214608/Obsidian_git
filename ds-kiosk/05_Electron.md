@@ -205,3 +205,56 @@ app.on('window-all-closed', function () {
 	if (process.platform !== 'darwin') app.quit() 
 })
 ```
+
+
+
+preload.js 생성
+
+- root 폴더에 preload.js를 생성 합니다.
+
+```javascript
+window.addEventListener('DOMContentLoaded', () => {
+  const replaceText = (selector, text) => {
+    const element = document.getElementById(selector)
+    if (element) element.innerText = text
+  }
+
+  for (const dependency of ['chrome', 'node', 'electron']) {
+    replaceText(`${dependency}-version`, process.versions[dependency])
+  }
+})
+```
+
+프로젝트 실행
+
+```
+npm start
+```
+
+실행 화면
+
+![](https://blog.kakaocdn.net/dna/bvFBKn/btrfo4ob8Wj/AAAAAAAAAAAAAAAAAAAAADzzWl876WsoDp7Fqba_6A58ViFEJ0eTZk0_pNX-Tgow/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=04N5x0GyD9XhNVa%2Bp0AO6bn6lPs%3D)
+
+Electron 실행
+
+패키징과 배포
+
+- 패키징과 배포를 위한 가장 빠른 방법은 Electron Forge를 사용하는 것입니다.
+- Electron Forge 패키지를 추가합니다.
+
+```
+npm install --save-dev @electron-forge/cli
+npx electron-forge import
+```
+
+- Forge의 "make"를 이용하여 빌드합니다.
+
+```
+npm run make
+```
+
+- 실행 파일의 위치는 다음과 같습니다.
+
+```
+\out\my-electron-app-win32-x64\my-electron-app.exe
+```
