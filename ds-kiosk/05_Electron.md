@@ -121,4 +121,14 @@ function App() {
 프론트엔트 크로미엄 Chromium 크롬 브라우저의 기반이 된 오픈소스
 (Web 기반 기술)
 
-electron 기바
+electron 기반 Atom, vscode, slack, discode
+
+Anguler , Vue, React 사용 가능
+
+장점
+
+1. 웹기술을 이용해 Desktop Application 개발이 가능
+2. 한개의 코드로 Cross platform에서 작동
+3. NPM을 이용해 node package들을 사용할 수 있음
+
+
