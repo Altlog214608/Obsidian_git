@@ -111,44 +111,41 @@ function App() {
 
 ---
 
-##유튜브 강의
+# 유튜브 강의
 
-일렉트론은 JS, HTML, CSS를 이용해서 데스크톱 애플리케이션을 만들 수 있는 프레임워크
+##### 일렉트론은 JS, HTML, CSS를 이용해서 데스크톱 애플리케이션을 만들 수 있는 프레임워크
 
-크로스플랫폼 지원 하나의 코드 -> 윈도우, 맥, 리눅스 구동 가능
+#### 크로스플랫폼 지원 하나의 코드 -> 윈도우, 맥, 리눅스 구동 가능
 
-백엔드 Node.js (OS native 기능)
-프론트엔트 크로미엄 Chromium 크롬 브라우저의 기반이 된 오픈소스
-(Web 기반 기술)
+#### 백엔드 Node.js (OS native 기능)
+#### 프론트엔트 크로미엄 Chromium 크롬 브라우저의 기반이 된 오픈소스(Web 기반 기술)
 
-electron 기반 Atom, vscode, slack, discode
+#### electron 기반 Atom, vscode, slack, discode
 
 Anguler , Vue, React 사용 가능
 
-장점
+#### 장점
 
 1. 웹기술을 이용해 Desktop Application 개발이 가능
 2. 한개의 코드로 Cross platform에서 작동
 3. NPM을 이용해 node package들을 사용할 수 있음
 
-
-
-일렉트론 퀵스타트
+#### 일렉트론 퀵스타트
 
 node.js 설치 필요
 
 cmd - node -v, npm -v 확인
 
-프로젝트 폴더 생성
+#### 프로젝트 폴더 생성
 
 mkdir my-electron-app
 cd my-electron-app
 
-프로젝트 생성
+#### 프로젝트 생성
 
 npm init
 
-Electron package 추가
+#### Electron package 추가
 
 npm install --save-dev electron
 
