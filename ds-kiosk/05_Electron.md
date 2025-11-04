@@ -148,10 +148,20 @@ cd my-electron-app
 
 npm init
 
-일렉트론 설치
+Electron package 추가
 
 npm install --save-dev electron
 
 development일때만 electron 사용
+
+Packge.json에 script 추가
+
+"start" : "electron ."
+
+npm start 로 스크립트를 실행 가능
+
+index.html 생성
+
+root 폴더에 index.html
 
 
