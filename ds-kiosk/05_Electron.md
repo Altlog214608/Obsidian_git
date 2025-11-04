@@ -258,3 +258,147 @@ npm run make
 ```
 \out\my-electron-app-win32-x64\my-electron-app.exe
 ```
+
+
+- 리액트 패키지를 추가
+
+```
+npm install --save react react-dom
+```
+
+- 리액트 소스 폴더 만들기
+
+```
+mkdir src/js
+```
+
+- index.html에 root id 생성
+
+```
+<div id="root"></div>
+```
+
+- src/js/index.js 파일 만들기
+
+```
+import React from 'react';
+import ReactDom from 'react-dom';
+
+ReactDom.render(<h1>Hello React App</h1>, document.getElementById('root'));
+```
+
+- 웹팩용 패키치 추가
+
+```
+npm install --save-dev @babel/core @babel/preset-env @babel/preset-react babel-loader css-loader style-loader sass-loader sass webpack webpack-cli
+```
+
+- webpack.common.js 추가 (root 폴더)
+
+```javascript
+const path = require('path');
+
+module.exports = {
+  mode: 'development',
+  entry: './src/js/index.js',
+  devtool: 'inline-source-map',
+  target: 'electron-renderer',
+  module: {
+    rules: [
+      {
+        test: /\.js$/,
+        exclude: /node_modules/,
+        use: {
+          loader: 'babel-loader',
+          options: {
+            presets: [[
+              '@babel/preset-env', {
+                targets: {
+                  esmodules: true
+                }
+              }],
+              '@babel/preset-react']
+          }
+        }
+      },
+      {
+        test: [/\.s[ac]ss$/i, /\.css$/i],
+        use: [
+          // Creates `style` nodes from JS strings
+          'style-loader',
+          // Translates CSS into CommonJS
+          'css-loader',
+          // Compiles Sass to CSS
+          'sass-loader',
+        ],
+      }
+    ]
+  },
+  resolve: {
+    extensions: ['.js'],
+  },
+  output: {
+    filename: 'app.js',
+    path: path.resolve(__dirname, 'build', 'js'),
+  },
+};
+```
+
+- package.json에 webpack 스크립트 추가
+
+```
+"watch": "webpack --config webpack.common.js --watch",
+```
+
+- 스크립트 실행  
+    - 스크립트가 실행되면 build/js/app.js가 생성됨.
+
+```
+npm run watch
+```
+
+- index.html에 app.js 추가
+
+```
+<div id="root"></div>
+<script src="./build/js/app.js"></script>
+```
+
+- 실행
+
+```
+npm start
+```
+
+![](https://blog.kakaocdn.net/dna/sR9eq/btrftnVy8xr/AAAAAAAAAAAAAAAAAAAAAOI8vwm-gYwG1jyXwKTJ-XxL3DMzwhuLhiixkczITBc2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=mkLMqQKnUdKDG%2BTnlYeHwqsesfM%3D)
+
+React App 실행 화면
+
+React Component 만들기
+
+- src/js/App.js 추가
+
+```
+import React from 'react';
+
+export default function App() {
+    return(
+        <h1>I am App Component</h1>
+    )
+}
+```
+
+- src/js/index.js 수정
+
+```
+import App from './App';
+
+ReactDom.render(<App/>, document.getElementById('root'));
+```
+
+- 저장(Ctrl+s)
+- 실행화면 창에서 Reload(Ctrl+r)
+
+![](https://blog.kakaocdn.net/dna/0i1ar/btrfDgOmD5x/AAAAAAAAAAAAAAAAAAAAANRcS9nuS1RhHEmhkl0FbFAOxFQbxEAd_koqvQl8e9N3/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=Y%2F%2B3NPxykvTf5M5OIGPRCYZzkQ0%3D)
+
+React Component 실행
