@@ -111,7 +111,7 @@ function App() {
 
 ---
 
-유튜브 강의
+##유튜브 강의
 
 일렉트론은 JS, HTML, CSS를 이용해서 데스크톱 애플리케이션을 만들 수 있는 프레임워크
 
@@ -164,7 +164,7 @@ index.html 생성
 
 root 폴더에 index.html을 만들고 다음과 같이 작성
 
-```
+```html
 <!DOCTYPE html> 
 <html> 
 	<head> 
@@ -172,7 +172,15 @@ root 폴더에 index.html을 만들고 다음과 같이 작성
 		<!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP --> 
 		<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'"> 
 		<meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'"> 
-		<title>Hello World!</title> </head> <body> <h1>Hello World!</h1> We are using Node.js <span id="node-version"></span>, Chromium <span id="chrome-version"></span>, and Electron <span id="electron-version"></span>. </body> </html>
+		<title>Hello World!</title> 
+	</head> 
+	<body>
+	 <h1>Hello World!</h1>
+	  We are using Node.js <span id="node-version"></span>, 
+	  Chromium <span id="chrome-version"></span>, 
+	  and Electron <span id="electron-version"></span>. 
+	  </body> 
+</html>
 ```
 
 
