@@ -132,3 +132,8 @@ Anguler , Vue, React 사용 가능
 3. NPM을 이용해 node package들을 사용할 수 있음
 
 
+
+일렉트론 퀵스타트
+
+node.js 설치 필요
+
