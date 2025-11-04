@@ -190,7 +190,7 @@ const { app, BrowserWindow } = require('electron') // include the Node.js 'path'
 const path = require('path')
 
  // modify your existing createWindow() 
- function function createWindow () { 
+function function createWindow () { 
 	 const win = new BrowserWindow({ 
 	 width: 800, 
 	 height: 600, 
@@ -198,8 +198,10 @@ const path = require('path')
 	 }) 
 	 win.loadFile('index.html') 
 } 
-app.whenReady().then(() => { createWindow() }) 
-app.on('window-all-closed', 
-function () { 
-	if (process.platform !== 'darwin') app.quit() })
+app.whenReady().then(() => { 
+	createWindow() 
+}) 
+app.on('window-all-closed', function () { 
+	if (process.platform !== 'darwin') app.quit() 
+})
 ```
