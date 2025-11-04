@@ -117,4 +117,8 @@ function App() {
 
 크로스플랫폼 지원 하나의 코드 -> 윈도우, 맥, 리눅스 구동 가능
 
-백엔드 Node.js
+백엔드 Node.js (OS native 기능)
+프론트엔트 크로미엄 Chromium 크롬 브라우저의 기반이 된 오픈소스
+(Web 기반 기술)
+
+electron 기바
