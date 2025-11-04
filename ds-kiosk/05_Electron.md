@@ -137,3 +137,16 @@ Anguler , Vue, React 사용 가능
 
 node.js 설치 필요
 
+cmd - node -v, npm -v 확인
+
+프로젝트 폴더 생성
+
+mkdir my-electron-app
+cd my-electron-app
+
+프로젝트 생성
+
+npm init
+
+
+
