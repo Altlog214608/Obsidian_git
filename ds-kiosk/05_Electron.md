@@ -148,5 +148,10 @@ cd my-electron-app
 
 npm init
 
+일렉트론 설치
+
+npm install --save-dev electron
+
+development일때만 electron 사용
 
 
