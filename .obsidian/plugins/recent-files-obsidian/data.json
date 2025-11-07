@@ -5,6 +5,10 @@
       "path": "ds-kiosk/12_라이브러리, 프레임워크 차이.md"
     },
     {
+      "basename": "14_동시발향 코드",
+      "path": "FrSmart/FrSmart_SW_분석/14_동시발향 코드.md"
+    },
+    {
       "basename": "ds-kiosk",
       "path": "ds-kiosk/ds-kiosk.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "2025-09-17",
       "path": "Notes/Daily/2025/09/2025-09-17.md"
-    },
-    {
-      "basename": "14_동시발향 코드",
-      "path": "FrSmart/FrSmart_SW_분석/14_동시발향 코드.md"
     },
     {
       "basename": "2025-09-16",
