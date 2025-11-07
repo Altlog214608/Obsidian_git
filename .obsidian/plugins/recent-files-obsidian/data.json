@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "06_TypeScript",
+      "path": "ds-kiosk/06_TypeScript.md"
+    },
+    {
+      "basename": "11_사용 프레임워크,라이브러리",
+      "path": "ds-kiosk/11_사용 프레임워크,라이브러리.md"
+    },
+    {
       "basename": "12_라이브러리, 프레임워크 차이",
       "path": "ds-kiosk/12_라이브러리, 프레임워크 차이.md"
     },
@@ -13,16 +21,8 @@
       "path": "ds-kiosk/ds-kiosk.md"
     },
     {
-      "basename": "11_사용 프레임워크,라이브러리",
-      "path": "ds-kiosk/11_사용 프레임워크,라이브러리.md"
-    },
-    {
       "basename": "05_Electron",
       "path": "ds-kiosk/05_Electron.md"
-    },
-    {
-      "basename": "06_TypeScript",
-      "path": "ds-kiosk/06_TypeScript.md"
     },
     {
       "basename": "10_1 index.ts",
