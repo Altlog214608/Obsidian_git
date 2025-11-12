@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "01_기본 구성",
+      "path": "ds-kiosk/01_기본 구성.md"
+    },
+    {
+      "basename": "02-1_button 코드 모음",
+      "path": "ds-kiosk/02-1_button 코드 모음.md"
+    },
+    {
+      "basename": "02-2_button element 화 시키기",
+      "path": "ds-kiosk/02-2_button element 화 시키기.md"
+    },
+    {
+      "basename": "05_Electron",
+      "path": "ds-kiosk/05_Electron.md"
+    },
+    {
       "basename": "07_공부 방향",
       "path": "ds-kiosk/07_공부 방향.md"
     },
@@ -25,10 +41,6 @@
       "path": "ds-kiosk/ds-kiosk.md"
     },
     {
-      "basename": "05_Electron",
-      "path": "ds-kiosk/05_Electron.md"
-    },
-    {
       "basename": "10_1 index.ts",
       "path": "ds-kiosk/10_1 index.ts.md"
     },
@@ -49,10 +61,6 @@
       "path": "ds-kiosk/04_kiosk 앱 요약 정리 1103.md"
     },
     {
-      "basename": "01_기본 구성",
-      "path": "ds-kiosk/01_기본 구성.md"
-    },
-    {
       "basename": "2025-11-03",
       "path": "Notes/Daily/2025/11/2025-11-03.md"
     },
@@ -71,14 +79,6 @@
     {
       "basename": "2025-10-27",
       "path": "Notes/Daily/2025/10/2025-10-27.md"
-    },
-    {
-      "basename": "02-1_button 코드 모음",
-      "path": "ds-kiosk/02-1_button 코드 모음.md"
-    },
-    {
-      "basename": "02-2_button element 화 시키기",
-      "path": "ds-kiosk/02-2_button element 화 시키기.md"
     },
     {
       "basename": "00_개요",
