@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "01_기본 구성"
             }
+          },
+          {
+            "id": "2da0b0f82a4b25a1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             }
           },
           {
-            "id": "671f218f776bc698",
+            "id": "5e05baf4e9730bf8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -213,7 +226,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "62110a1a5a765d36",
+  "active": "2da0b0f82a4b25a1",
   "lastOpenFiles": [
     "ds-kiosk/02-1_button 코드 모음.md",
     "ds-kiosk/02-2_button element 화 시키기.md",
