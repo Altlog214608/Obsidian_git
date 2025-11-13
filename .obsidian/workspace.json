@@ -25,12 +25,14 @@
             "id": "2da0b0f82a4b25a1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "ds-kiosk/01_기본 구성.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.10.3"
+              "icon": "lucide-file",
+              "title": "01_기본 구성"
             }
           }
         ],
