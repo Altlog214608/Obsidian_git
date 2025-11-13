@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ds-kiosk/01_기본 구성.md",
+                "file": "13_gesture_radial/01_기본 구성.md",
                 "mode": "source",
                 "source": false
               },
@@ -25,14 +25,12 @@
             "id": "2da0b0f82a4b25a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "ds-kiosk/01_기본 구성.md",
-                "mode": "source",
-                "source": false
+                "path": "13_gesture_radial"
               },
               "icon": "lucide-file",
-              "title": "01_기본 구성"
+              "title": "13_gesture_radial"
             }
           }
         ],
@@ -230,31 +228,31 @@
   },
   "active": "2da0b0f82a4b25a1",
   "lastOpenFiles": [
-    "ds-kiosk/02-1_button 코드 모음.md",
-    "ds-kiosk/02-2_button element 화 시키기.md",
-    "ds-kiosk/05_Electron.md",
-    "ds-kiosk/07_공부 방향.md",
-    "ds-kiosk/06_TypeScript.md",
-    "ds-kiosk/11_사용 프레임워크,라이브러리.md",
-    "ds-kiosk/12_라이브러리, 프레임워크 차이.md",
+    "13_gesture_radial/13_gesture_radial.md",
+    "13_gesture_radial/01_기본 구성.md",
+    "13_gesture_radial/02-1_button 코드 모음.md",
+    "13_gesture_radial/02-2_button element 화 시키기.md",
+    "13_gesture_radial/05_Electron.md",
+    "13_gesture_radial/07_공부 방향.md",
+    "13_gesture_radial/06_TypeScript.md",
+    "13_gesture_radial/11_사용 프레임워크,라이브러리.md",
+    "13_gesture_radial/12_라이브러리, 프레임워크 차이.md",
     "FrSmart/FrSmart_SW_분석/14_동시발향 코드.md",
-    "ds-kiosk/ds-kiosk.md",
-    "ds-kiosk/10_1 index.ts.md",
-    "ds-kiosk/10_index.ts.md",
-    "ds-kiosk/09_package.json, vite.config.ts, tsconfig.json.md",
-    "ds-kiosk/08_루트 주요 파일 설명.md",
-    "ds-kiosk/04_kiosk 앱 요약 정리 1103.md",
-    "ds-kiosk/01_기본 구성.md",
+    "13_gesture_radial/10_1 index.ts.md",
+    "13_gesture_radial/10_index.ts.md",
+    "13_gesture_radial/09_package.json, vite.config.ts, tsconfig.json.md",
+    "13_gesture_radial/08_루트 주요 파일 설명.md",
+    "13_gesture_radial/04_kiosk 앱 요약 정리 1103.md",
     "Notes/Daily/2025/11/2025-11-03.md",
     "Notes/Daily/2025/11",
-    "ds-kiosk/03_2 React Design Patterns 번역.md",
-    "ds-kiosk/03_1 React Design Patterns 요약.md",
+    "13_gesture_radial/03_2 React Design Patterns 번역.md",
+    "13_gesture_radial/03_1 React Design Patterns 요약.md",
     "Notes/Daily/2025/10/2025-10-17.md",
     "Notes/Daily/2025/10/2025-10-27.md",
     "FrSmart/FrSmart_SW_분석/00_개요.md",
     "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md",
     "Notes/Daily/2025/10/2025-10-01.md",
-    "ds-kiosk",
+    "13_gesture_radial",
     "Notes/Daily/2025/10/2025-10-14.md",
     "Notes/Daily/2025/10/2025-10-13.md",
     "Notes/Daily/2025/09/2025-09-25.md",

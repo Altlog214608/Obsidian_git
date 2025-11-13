@@ -1,64 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "13_gesture_radial",
+      "path": "13_gesture_radial/13_gesture_radial.md"
+    },
+    {
       "basename": "01_기본 구성",
-      "path": "ds-kiosk/01_기본 구성.md"
+      "path": "13_gesture_radial/01_기본 구성.md"
     },
     {
       "basename": "02-1_button 코드 모음",
-      "path": "ds-kiosk/02-1_button 코드 모음.md"
+      "path": "13_gesture_radial/02-1_button 코드 모음.md"
     },
     {
       "basename": "02-2_button element 화 시키기",
-      "path": "ds-kiosk/02-2_button element 화 시키기.md"
+      "path": "13_gesture_radial/02-2_button element 화 시키기.md"
     },
     {
       "basename": "05_Electron",
-      "path": "ds-kiosk/05_Electron.md"
+      "path": "13_gesture_radial/05_Electron.md"
     },
     {
       "basename": "07_공부 방향",
-      "path": "ds-kiosk/07_공부 방향.md"
+      "path": "13_gesture_radial/07_공부 방향.md"
     },
     {
       "basename": "06_TypeScript",
-      "path": "ds-kiosk/06_TypeScript.md"
+      "path": "13_gesture_radial/06_TypeScript.md"
     },
     {
       "basename": "11_사용 프레임워크,라이브러리",
-      "path": "ds-kiosk/11_사용 프레임워크,라이브러리.md"
+      "path": "13_gesture_radial/11_사용 프레임워크,라이브러리.md"
     },
     {
       "basename": "12_라이브러리, 프레임워크 차이",
-      "path": "ds-kiosk/12_라이브러리, 프레임워크 차이.md"
+      "path": "13_gesture_radial/12_라이브러리, 프레임워크 차이.md"
     },
     {
       "basename": "14_동시발향 코드",
       "path": "FrSmart/FrSmart_SW_분석/14_동시발향 코드.md"
     },
     {
-      "basename": "ds-kiosk",
-      "path": "ds-kiosk/ds-kiosk.md"
-    },
-    {
       "basename": "10_1 index.ts",
-      "path": "ds-kiosk/10_1 index.ts.md"
+      "path": "13_gesture_radial/10_1 index.ts.md"
     },
     {
       "basename": "10_index.ts",
-      "path": "ds-kiosk/10_index.ts.md"
+      "path": "13_gesture_radial/10_index.ts.md"
     },
     {
       "basename": "09_package.json, vite.config.ts, tsconfig.json",
-      "path": "ds-kiosk/09_package.json, vite.config.ts, tsconfig.json.md"
+      "path": "13_gesture_radial/09_package.json, vite.config.ts, tsconfig.json.md"
     },
     {
       "basename": "08_루트 주요 파일 설명",
-      "path": "ds-kiosk/08_루트 주요 파일 설명.md"
+      "path": "13_gesture_radial/08_루트 주요 파일 설명.md"
     },
     {
       "basename": "04_kiosk 앱 요약 정리 1103",
-      "path": "ds-kiosk/04_kiosk 앱 요약 정리 1103.md"
+      "path": "13_gesture_radial/04_kiosk 앱 요약 정리 1103.md"
     },
     {
       "basename": "2025-11-03",
@@ -66,11 +66,11 @@
     },
     {
       "basename": "03_2 React Design Patterns 번역",
-      "path": "ds-kiosk/03_2 React Design Patterns 번역.md"
+      "path": "13_gesture_radial/03_2 React Design Patterns 번역.md"
     },
     {
       "basename": "03_1 React Design Patterns 요약",
-      "path": "ds-kiosk/03_1 React Design Patterns 요약.md"
+      "path": "13_gesture_radial/03_1 React Design Patterns 요약.md"
     },
     {
       "basename": "2025-10-17",
