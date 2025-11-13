@@ -553,3 +553,66 @@ Fetched 2 resources
 이러한 최신 자료들을 참고하시면, 옛날 버전의 문제점들(React 18 이전의 렌더링 방식, 보안 설정 문제 등)을 피하고 현대적인 방식으로 개발하실 수 있습니다.
 
 특히, Electron Forge를 사용하면 프로젝트 설정, 빌드, 패키징 등이 자동화되어 있어 개발에만 집중하실 수 있습니다. 새로 시작하시는 경우 이 방법을 추천드립니다.
+
+GitHub Copilot
+
+간단 요약 — 이 프로젝트에서 Electron은 세 프로세스(메인, 프리로드, 렌더러)로 동작합니다. 각 역할과 흐름을 현재 코드(참고 파일명)를 중심으로 짧고 실무적으로 정리합니다.
+
+핵심 흐름 (한 문장)
+- 메인 프로세스(src/main/index.ts)가 앱을 시작하고 BrowserWindow를 만든 뒤 preload 스크립트(src/preload/index.ts)를 로드 → preload가 안전한 브리지(contextBridge)로 API를 노출 → 렌더러(src/renderer/...)에서 React 앱(App.tsx)을 구동하고 UI/트래킹/IPC를 사용.
+
+구성요소별 역할
+- Main process (메인)
+  - 파일: index.ts
+  - 책임: 앱 라이프사이클(app.whenReady, window-all-closed), BrowserWindow 생성(크기/보안 옵션), dev vs prod 로딩(loadURL ↔ loadFile), IPC 핸들러 등록, 네이티브 통합.
+  - 보안 설정 중요: webPreferences: { contextIsolation: true, nodeIntegration: false, preload: pathToPreload }.
+
+- Preload process (프리로드)
+  - 파일: index.ts (+ index.d.ts)
+  - 책임: 메인과 렌더러 사이의 안전한 브리지. contextBridge.exposeInMainWorld로 필요한 메서드(또는 외부 툴킷의 electronAPI)를 노출.
+  - 포인트: 최소한의 API만 노출하고, 직접 window에 노출하는 fallback은 피할 것.
+
+- Renderer process (렌더러)
+  - 파일: src/renderer/src/main.tsx, src/renderer/src/App.tsx, pages/*
+  - 책임: React로 UI 렌더링. preload에서 노출한 API(window.electron / window.api)를 통해 IPC 호출(invoke/send) 또는 트래킹 사용.
+  - App.tsx 특징: HashRouter 사용, VIEWPORT_CONFIG로 고정 해상도 스케일링, route '/' 진입 시 startNewSession() 호출(트래킹 세션 시작).
+
+중요 동작 포인트
+- Dev 모드: electron-vite dev가 Vite 개발 서버(http://localhost:5173)를 띄우고 메인 프로세스가 그 URL로 BrowserWindow를 연다. → 빠른 HMR/디버깅 가능.
+- Prod 빌드: electron-vite build / electron-builder로 renderer를 정적파일로 빌드하고, main은 빌드 산출물(예: out/main/index.js)을 참조해 실행.
+- IPC 패턴: invoke/handle (비동기 요청-응답) 권장, 채널 명은 고정(화이트리스트)하고 입력 검증 필요.
+- 보안 권장: contextIsolation: true, nodeIntegration: false, preload에서 필요한 API만 노출, 절대 사용자 입력을 통한 파일 경로 바로 노출 금지.
+
+참고 코드 (메인 창 생성 예시)
+````typescript
+// ...existing code...
+const win = new BrowserWindow({
+  width: Math.floor(width),
+  height: Math.floor(height),
+  webPreferences: {
+    contextIsolation: true,
+    nodeIntegration: false,
+    preload: path.join(__dirname, '../preload/index.js')
+  }
+})
+
+// dev: loadURL('http://localhost:5173')
+// prod: loadFile(path.join(__dirname, '../renderer/index.html'))
+// ...existing code...
+````
+
+실무 체크리스트 (빠르게 확인할 것)
+- BrowserWindow.webPreferences가 보안 권장값인지 확인
+- preload 경로가 빌드 산출물과 일치하는지 확인
+- preload에서 노출한 API 이름과 renderer 사용이 일치하는지 확인 (타입 선언 필요)
+- Dev: npm run dev → Vite URL 접속 및 Electron 창 열림 확인
+- Build: npm run build → out/dist 산출물 확인, package.json의 "main" 경로 일치 확인
+
+명령 (바로 실행)
+```bash
+npm run dev      # 개발: Vite + Electron
+npm run typecheck
+npm run build    # 전체 빌드 + 패키징 준비
+```
+
+원하면 지금 App.tsx와 preload/main 간의 노출 API 흐름(어떤 함수가 어디서 호출되는지)을 라인 단위로 추적해서 안전성/타입 문제를 정리해 드리겠습니다. 어느 쪽으로 진행할까요?

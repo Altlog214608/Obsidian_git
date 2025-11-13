@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "05_Electron",
+      "path": "kiosk_SW/05_Electron.md"
+    },
+    {
+      "basename": "04_kiosk 앱 요약 정리 1103",
+      "path": "kiosk_SW/04_kiosk 앱 요약 정리 1103.md"
+    },
+    {
+      "basename": "03_1 React Design Patterns 요약",
+      "path": "kiosk_SW/03_1 React Design Patterns 요약.md"
+    },
+    {
+      "basename": "02-1_button 코드 모음",
+      "path": "kiosk_SW/02-1_button 코드 모음.md"
+    },
+    {
       "basename": "무제",
       "path": "kiosk_SW/무제.md"
     },
@@ -17,16 +33,8 @@
       "path": "kiosk_SW/01_기본 구성.md"
     },
     {
-      "basename": "02-1_button 코드 모음",
-      "path": "kiosk_SW/02-1_button 코드 모음.md"
-    },
-    {
       "basename": "02-2_button element 화 시키기",
       "path": "kiosk_SW/02-2_button element 화 시키기.md"
-    },
-    {
-      "basename": "05_Electron",
-      "path": "kiosk_SW/05_Electron.md"
     },
     {
       "basename": "07_공부 방향",
@@ -65,20 +73,12 @@
       "path": "kiosk_SW/08_루트 주요 파일 설명.md"
     },
     {
-      "basename": "04_kiosk 앱 요약 정리 1103",
-      "path": "kiosk_SW/04_kiosk 앱 요약 정리 1103.md"
-    },
-    {
       "basename": "2025-11-03",
       "path": "Notes/Daily/2025/11/2025-11-03.md"
     },
     {
       "basename": "03_2 React Design Patterns 번역",
       "path": "kiosk_SW/03_2 React Design Patterns 번역.md"
-    },
-    {
-      "basename": "03_1 React Design Patterns 요약",
-      "path": "kiosk_SW/03_1 React Design Patterns 요약.md"
     },
     {
       "basename": "2025-10-17",
