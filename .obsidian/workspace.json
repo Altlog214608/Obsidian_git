@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kiosk_SW/05_Electron.md",
+                "file": "kiosk_SW/14_App.tsx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05_Electron"
+              "title": "14_App.tsx"
             }
           }
         ],
@@ -230,15 +230,16 @@
   },
   "active": "2da0b0f82a4b25a1",
   "lastOpenFiles": [
+    "kiosk_SW/무제 1.md",
+    "kiosk_SW/05_Electron.md",
     "kiosk_SW/04_kiosk 앱 요약 정리 1103.md",
     "kiosk_SW/03_1 React Design Patterns 요약.md",
     "kiosk_SW/02-1_button 코드 모음.md",
-    "kiosk_SW/무제.md",
+    "kiosk_SW/14_App.tsx.md",
     "kiosk_SW/13_gesture_radial.md",
     "kiosk_SW/kiosk_SW.md",
     "kiosk_SW/01_기본 구성.md",
     "kiosk_SW/02-2_button element 화 시키기.md",
-    "kiosk_SW/05_Electron.md",
     "kiosk_SW/07_공부 방향.md",
     "kiosk_SW/06_TypeScript.md",
     "kiosk_SW/11_사용 프레임워크,라이브러리.md",
@@ -257,7 +258,6 @@
     "FrSmart/FrSmart_SW_분석/FrSmart_SW_분석.md",
     "Notes/Daily/2025/10/2025-10-01.md",
     "kiosk_SW",
-    "Notes/Daily/2025/10/2025-10-14.md",
     "Notes/Daily/2025/10",
     "KnowledgeBase/Study",
     "assets/img/a05d3d35-cc87-4a76-9aaf-bc6e35f72b33.webp",
