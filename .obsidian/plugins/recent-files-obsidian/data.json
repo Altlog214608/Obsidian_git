@@ -2,39 +2,43 @@
   "recentFiles": [
     {
       "basename": "13_gesture_radial",
-      "path": "13_gesture_radial/13_gesture_radial.md"
+      "path": "kiosk_SW/13_gesture_radial.md"
+    },
+    {
+      "basename": "kiosk_SW",
+      "path": "kiosk_SW/kiosk_SW.md"
     },
     {
       "basename": "01_기본 구성",
-      "path": "13_gesture_radial/01_기본 구성.md"
+      "path": "kiosk_SW/01_기본 구성.md"
     },
     {
       "basename": "02-1_button 코드 모음",
-      "path": "13_gesture_radial/02-1_button 코드 모음.md"
+      "path": "kiosk_SW/02-1_button 코드 모음.md"
     },
     {
       "basename": "02-2_button element 화 시키기",
-      "path": "13_gesture_radial/02-2_button element 화 시키기.md"
+      "path": "kiosk_SW/02-2_button element 화 시키기.md"
     },
     {
       "basename": "05_Electron",
-      "path": "13_gesture_radial/05_Electron.md"
+      "path": "kiosk_SW/05_Electron.md"
     },
     {
       "basename": "07_공부 방향",
-      "path": "13_gesture_radial/07_공부 방향.md"
+      "path": "kiosk_SW/07_공부 방향.md"
     },
     {
       "basename": "06_TypeScript",
-      "path": "13_gesture_radial/06_TypeScript.md"
+      "path": "kiosk_SW/06_TypeScript.md"
     },
     {
       "basename": "11_사용 프레임워크,라이브러리",
-      "path": "13_gesture_radial/11_사용 프레임워크,라이브러리.md"
+      "path": "kiosk_SW/11_사용 프레임워크,라이브러리.md"
     },
     {
       "basename": "12_라이브러리, 프레임워크 차이",
-      "path": "13_gesture_radial/12_라이브러리, 프레임워크 차이.md"
+      "path": "kiosk_SW/12_라이브러리, 프레임워크 차이.md"
     },
     {
       "basename": "14_동시발향 코드",
@@ -42,23 +46,23 @@
     },
     {
       "basename": "10_1 index.ts",
-      "path": "13_gesture_radial/10_1 index.ts.md"
+      "path": "kiosk_SW/10_1 index.ts.md"
     },
     {
       "basename": "10_index.ts",
-      "path": "13_gesture_radial/10_index.ts.md"
+      "path": "kiosk_SW/10_index.ts.md"
     },
     {
       "basename": "09_package.json, vite.config.ts, tsconfig.json",
-      "path": "13_gesture_radial/09_package.json, vite.config.ts, tsconfig.json.md"
+      "path": "kiosk_SW/09_package.json, vite.config.ts, tsconfig.json.md"
     },
     {
       "basename": "08_루트 주요 파일 설명",
-      "path": "13_gesture_radial/08_루트 주요 파일 설명.md"
+      "path": "kiosk_SW/08_루트 주요 파일 설명.md"
     },
     {
       "basename": "04_kiosk 앱 요약 정리 1103",
-      "path": "13_gesture_radial/04_kiosk 앱 요약 정리 1103.md"
+      "path": "kiosk_SW/04_kiosk 앱 요약 정리 1103.md"
     },
     {
       "basename": "2025-11-03",
@@ -66,11 +70,11 @@
     },
     {
       "basename": "03_2 React Design Patterns 번역",
-      "path": "13_gesture_radial/03_2 React Design Patterns 번역.md"
+      "path": "kiosk_SW/03_2 React Design Patterns 번역.md"
     },
     {
       "basename": "03_1 React Design Patterns 요약",
-      "path": "13_gesture_radial/03_1 React Design Patterns 요약.md"
+      "path": "kiosk_SW/03_1 React Design Patterns 요약.md"
     },
     {
       "basename": "2025-10-17",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-08-29",
       "path": "Notes/Daily/2025/08/2025-08-29.md"
-    },
-    {
-      "basename": "2025-08-26",
-      "path": "Notes/Daily/2025/08/2025-08-26.md"
     }
   ],
   "omittedPaths": [],
