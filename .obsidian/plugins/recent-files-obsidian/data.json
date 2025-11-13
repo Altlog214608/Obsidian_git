@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "kiosk_SW/무제.md"
+    },
+    {
       "basename": "13_gesture_radial",
       "path": "kiosk_SW/13_gesture_radial.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-09-03",
       "path": "Notes/Daily/2025/09/2025-09-03.md"
-    },
-    {
-      "basename": "2025-08-29",
-      "path": "Notes/Daily/2025/08/2025-08-29.md"
     }
   ],
   "omittedPaths": [],
