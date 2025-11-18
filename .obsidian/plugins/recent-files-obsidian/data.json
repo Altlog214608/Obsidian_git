@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "14_App.tsx",
+      "path": "kiosk_SW/14_App.tsx.md"
+    },
+    {
+      "basename": "KnowledgeBase",
+      "path": "KnowledgeBase/KnowledgeBase.md"
+    },
+    {
       "basename": "무제 1",
       "path": "kiosk_SW/무제 1.md"
     },
     {
       "basename": "07_공부 방향",
       "path": "kiosk_SW/07_공부 방향.md"
-    },
-    {
-      "basename": "14_App.tsx",
-      "path": "kiosk_SW/14_App.tsx.md"
     },
     {
       "basename": "13_gesture_radial",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-09-01",
       "path": "Notes/Daily/2025/09/2025-09-01.md"
-    },
-    {
-      "basename": "2025-09-02",
-      "path": "Notes/Daily/2025/09/2025-09-02.md"
     }
   ],
   "omittedPaths": [],
