@@ -5,12 +5,20 @@
       "path": "kiosk_SW/14_App.tsx.md"
     },
     {
+      "basename": "무제 1",
+      "path": "kiosk_SW/무제 1.md"
+    },
+    {
+      "basename": "13_gesture_radial",
+      "path": "kiosk_SW/13_gesture_radial.md"
+    },
+    {
       "basename": "10_index.ts",
       "path": "kiosk_SW/10_index.ts.md"
     },
     {
-      "basename": "무제 1",
-      "path": "kiosk_SW/무제 1.md"
+      "basename": "10_1 index.ts",
+      "path": "kiosk_SW/10_1 index.ts.md"
     },
     {
       "basename": "05_Electron",
@@ -27,10 +35,6 @@
     {
       "basename": "02-1_button 코드 모음",
       "path": "kiosk_SW/02-1_button 코드 모음.md"
-    },
-    {
-      "basename": "13_gesture_radial",
-      "path": "kiosk_SW/13_gesture_radial.md"
     },
     {
       "basename": "kiosk_SW",
@@ -63,10 +67,6 @@
     {
       "basename": "14_동시발향 코드",
       "path": "FrSmart/FrSmart_SW_분석/14_동시발향 코드.md"
-    },
-    {
-      "basename": "10_1 index.ts",
-      "path": "kiosk_SW/10_1 index.ts.md"
     },
     {
       "basename": "09_package.json, vite.config.ts, tsconfig.json",
