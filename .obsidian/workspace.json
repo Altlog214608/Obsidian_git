@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kiosk_SW/14_App.tsx.md",
+                "file": "kiosk_SW/무제 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14_App.tsx"
+              "title": "무제 1"
             }
           }
         ],
@@ -230,6 +230,7 @@
   },
   "active": "2da0b0f82a4b25a1",
   "lastOpenFiles": [
+    "kiosk_SW/07_공부 방향.md",
     "kiosk_SW/무제 1.md",
     "kiosk_SW/14_App.tsx.md",
     "kiosk_SW/13_gesture_radial.md",
@@ -242,7 +243,6 @@
     "kiosk_SW/kiosk_SW.md",
     "kiosk_SW/01_기본 구성.md",
     "kiosk_SW/02-2_button element 화 시키기.md",
-    "kiosk_SW/07_공부 방향.md",
     "kiosk_SW/06_TypeScript.md",
     "kiosk_SW/11_사용 프레임워크,라이브러리.md",
     "kiosk_SW/12_라이브러리, 프레임워크 차이.md",

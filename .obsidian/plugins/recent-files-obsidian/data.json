@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "14_App.tsx",
-      "path": "kiosk_SW/14_App.tsx.md"
-    },
-    {
       "basename": "무제 1",
       "path": "kiosk_SW/무제 1.md"
+    },
+    {
+      "basename": "07_공부 방향",
+      "path": "kiosk_SW/07_공부 방향.md"
+    },
+    {
+      "basename": "14_App.tsx",
+      "path": "kiosk_SW/14_App.tsx.md"
     },
     {
       "basename": "13_gesture_radial",
@@ -47,10 +51,6 @@
     {
       "basename": "02-2_button element 화 시키기",
       "path": "kiosk_SW/02-2_button element 화 시키기.md"
-    },
-    {
-      "basename": "07_공부 방향",
-      "path": "kiosk_SW/07_공부 방향.md"
     },
     {
       "basename": "06_TypeScript",
