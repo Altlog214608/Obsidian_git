@@ -5,6 +5,10 @@
       "path": "kiosk_SW/14_App.tsx.md"
     },
     {
+      "basename": "10_index.ts",
+      "path": "kiosk_SW/10_index.ts.md"
+    },
+    {
       "basename": "무제 1",
       "path": "kiosk_SW/무제 1.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "10_1 index.ts",
       "path": "kiosk_SW/10_1 index.ts.md"
-    },
-    {
-      "basename": "10_index.ts",
-      "path": "kiosk_SW/10_index.ts.md"
     },
     {
       "basename": "09_package.json, vite.config.ts, tsconfig.json",
