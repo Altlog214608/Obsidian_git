@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 1",
-      "path": "kiosk_SW/무제 1.md"
+      "basename": "15_Home.tsx",
+      "path": "kiosk_SW/15_Home.tsx.md"
+    },
+    {
+      "basename": "01_기본 구성",
+      "path": "kiosk_SW/01_기본 구성.md"
     },
     {
       "basename": "14_App.tsx",
@@ -47,10 +51,6 @@
     {
       "basename": "kiosk_SW",
       "path": "kiosk_SW/kiosk_SW.md"
-    },
-    {
-      "basename": "01_기본 구성",
-      "path": "kiosk_SW/01_기본 구성.md"
     },
     {
       "basename": "02-2_button element 화 시키기",
