@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "16_CustomExperience.tsx",
+      "path": "kiosk_SW/16_CustomExperience.tsx.md"
+    },
+    {
+      "basename": "kiosk_SW",
+      "path": "kiosk_SW/kiosk_SW.md"
+    },
+    {
       "basename": "15_Home.tsx",
       "path": "kiosk_SW/15_Home.tsx.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "02-1_button 코드 모음",
       "path": "kiosk_SW/02-1_button 코드 모음.md"
-    },
-    {
-      "basename": "kiosk_SW",
-      "path": "kiosk_SW/kiosk_SW.md"
     },
     {
       "basename": "02-2_button element 화 시키기",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-09-08",
       "path": "Notes/Daily/2025/09/2025-09-08.md"
-    },
-    {
-      "basename": "2025-09-01",
-      "path": "Notes/Daily/2025/09/2025-09-01.md"
     }
   ],
   "omittedPaths": [],
