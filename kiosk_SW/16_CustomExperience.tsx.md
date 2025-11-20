@@ -4,7 +4,10 @@ GitHub Copilot
 
 파일 상단 — import
 - React 훅과 라우터 훅: `useState`, `useEffect`, `useNavigate`  
+  - \
   - 페이지 간 네비게이션과 상태·사이드 이펙트 관리에 사용.
+
+
 - 여러 UI/단계 컴포넌트 임포트:
   - `StepContainer`, `GenderAgeSelector`, `FashionStyleGallery`, `ColorWheelPicker`, `SeasonSelector`, `NavigationButtons`, `FanCardGallery`, `LoadingScreen`
   - 각 단계별 UI를 분리한 컴포넌트들.
