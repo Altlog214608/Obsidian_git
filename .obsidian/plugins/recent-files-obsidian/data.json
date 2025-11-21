@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "17_",
+      "path": "kiosk_SW/17_.md"
+    },
+    {
       "basename": "16_CustomExperience.tsx",
       "path": "kiosk_SW/16_CustomExperience.tsx.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-09-12",
       "path": "Notes/Daily/2025/09/2025-09-12.md"
-    },
-    {
-      "basename": "2025-09-08",
-      "path": "Notes/Daily/2025/09/2025-09-08.md"
     }
   ],
   "omittedPaths": [],
