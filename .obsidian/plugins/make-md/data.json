@@ -59,7 +59,8 @@
     "//KnowledgeBase/KnowledgeBase/Study",
     "//ds-kiosk",
     "//FrSmart/FrSmart/FrSmart_SW_분석",
-    "//13_gesture_radial"
+    "//13_gesture_radial",
+    "//이직준비"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
