@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "이직준비/0_현재 상태.md",
+                "file": "Notes/Daily/2025/11/2025-11-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0_현재 상태"
+              "title": "2025-11-26"
             }
           }
         ],
@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +229,9 @@
   },
   "active": "2da0b0f82a4b25a1",
   "lastOpenFiles": [
-    "kiosk_SW/19_TrendExperience.tsx.md",
     "이직준비/0_현재 상태.md",
+    "Notes/Daily/2025/11/2025-11-26.md",
+    "kiosk_SW/19_TrendExperience.tsx.md",
     "이직준비/이직준비.md",
     "이직준비",
     "kiosk_SW/18_Top3Results.tsx.md",
@@ -256,7 +256,6 @@
     "kiosk_SW/12_라이브러리, 프레임워크 차이.md",
     "FrSmart/FrSmart_SW_분석/14_동시발향 코드.md",
     "kiosk_SW/09_package.json, vite.config.ts, tsconfig.json.md",
-    "kiosk_SW/08_루트 주요 파일 설명.md",
     "Notes/Daily/2025/11",
     "kiosk_SW",
     "Notes/Daily/2025/10",
