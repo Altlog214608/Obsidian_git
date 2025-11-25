@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-11-26",
-      "path": "Notes/Daily/2025/11/2025-11-26.md"
-    },
-    {
       "basename": "0_현재 상태",
       "path": "이직준비/0_현재 상태.md"
+    },
+    {
+      "basename": "14_App.tsx",
+      "path": "kiosk_SW/14_App.tsx.md"
+    },
+    {
+      "basename": "2025-11-26",
+      "path": "Notes/Daily/2025/11/2025-11-26.md"
     },
     {
       "basename": "19_TrendExperience.tsx",
@@ -35,10 +39,6 @@
     {
       "basename": "01_기본 구성",
       "path": "kiosk_SW/01_기본 구성.md"
-    },
-    {
-      "basename": "14_App.tsx",
-      "path": "kiosk_SW/14_App.tsx.md"
     },
     {
       "basename": "KnowledgeBase",
