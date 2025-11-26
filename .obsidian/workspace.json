@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "이직준비/0_현재 상태.md",
+                "file": "이직준비/01_자격증 목표.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0_현재 상태"
+              "title": "01_자격증 목표"
             }
           }
         ],
@@ -229,9 +229,10 @@
   },
   "active": "2da0b0f82a4b25a1",
   "lastOpenFiles": [
+    "이직준비/0_현재 상태.md",
+    "이직준비/01_자격증 목표.md",
     "kiosk_SW/14_App.tsx.md",
     "Notes/Daily/2025/11/2025-11-26.md",
-    "이직준비/0_현재 상태.md",
     "kiosk_SW/19_TrendExperience.tsx.md",
     "이직준비/이직준비.md",
     "이직준비",
@@ -255,7 +256,6 @@
     "kiosk_SW/11_사용 프레임워크,라이브러리.md",
     "kiosk_SW/12_라이브러리, 프레임워크 차이.md",
     "FrSmart/FrSmart_SW_분석/14_동시발향 코드.md",
-    "kiosk_SW/09_package.json, vite.config.ts, tsconfig.json.md",
     "Notes/Daily/2025/11",
     "kiosk_SW",
     "Notes/Daily/2025/10",
