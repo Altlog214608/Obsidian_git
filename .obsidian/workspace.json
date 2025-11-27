@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "19_TrendExperience.tsx"
             }
+          },
+          {
+            "id": "5f2ce81ad75e300f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             }
           },
           {
-            "id": "394901a8d56330c6",
+            "id": "5167d0d2cd48b263",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -227,7 +239,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2da0b0f82a4b25a1",
+  "active": "5f2ce81ad75e300f",
   "lastOpenFiles": [
     "kiosk_SW/18_Top3Results.tsx.md",
     "이직준비/01_자격증 목표.md",
