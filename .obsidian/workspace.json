@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "19_TrendExperience.tsx"
             }
-          },
-          {
-            "id": "5f2ce81ad75e300f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.10.6"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,7 +227,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "5f2ce81ad75e300f",
+  "active": "2da0b0f82a4b25a1",
   "lastOpenFiles": [
     "kiosk_SW/18_Top3Results.tsx.md",
     "이직준비/01_자격증 목표.md",
