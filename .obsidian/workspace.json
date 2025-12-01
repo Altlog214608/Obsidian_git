@@ -25,12 +25,14 @@
             "id": "2da0b0f82a4b25a1",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "ScentSmart"
+                "file": "kiosk_SW/20_custom-experience.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "ScentSmart"
+              "title": "20_custom-experience"
             }
           }
         ],
@@ -227,7 +229,7 @@
   },
   "active": "2da0b0f82a4b25a1",
   "lastOpenFiles": [
-    "kiosk_SW/20_.md",
+    "kiosk_SW/20_custom-experience.md",
     "kiosk_SW/19_TrendExperience.tsx.md",
     "kiosk_SW/18_Top3Results.tsx.md",
     "이직준비/01_자격증 목표.md",
