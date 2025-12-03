@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-12-03",
+      "path": "Notes/Daily/2025/12/2025-12-03.md"
+    },
+    {
       "basename": "21_TS + React 기본 문법",
       "path": "kiosk_SW/21_TS + React 기본 문법.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "03_PC 사양 조사",
       "path": "FrSmart/FrSmart_Kiosk/03_PC 사양 조사.md"
-    },
-    {
-      "basename": "01_작성초안",
-      "path": "FrSmart/FrSmart_Kiosk/01_작성초안.md"
     }
   ],
   "omittedPaths": [],
