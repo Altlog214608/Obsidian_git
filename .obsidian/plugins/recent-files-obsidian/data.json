@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "kiosk_SW/무제.md"
+    },
+    {
       "basename": "2025-12-03",
       "path": "Notes/Daily/2025/12/2025-12-03.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "02_모니터 후보",
       "path": "FrSmart/FrSmart_Kiosk/02_모니터 후보.md"
-    },
-    {
-      "basename": "03_PC 사양 조사",
-      "path": "FrSmart/FrSmart_Kiosk/03_PC 사양 조사.md"
     }
   ],
   "omittedPaths": [],
