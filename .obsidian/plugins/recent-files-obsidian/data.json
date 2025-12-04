@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "KC 인증/무제.md"
+    },
+    {
       "basename": "KC 인증이 뭔지",
       "path": "KC 인증/KC 인증이 뭔지.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-09-22",
       "path": "Notes/Daily/2025/09/2025-09-22.md"
-    },
-    {
-      "basename": "04_미니PC 스펙",
-      "path": "FrSmart/FrSmart_Kiosk/04_미니PC 스펙.md"
     }
   ],
   "omittedPaths": [],
