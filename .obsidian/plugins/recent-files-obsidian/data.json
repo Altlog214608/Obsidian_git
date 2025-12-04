@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "KC 인증이 뭔지",
+      "path": "KC 인증/KC 인증이 뭔지.md"
+    },
+    {
+      "basename": "KC 인증",
+      "path": "KC 인증/KC 인증.md"
+    },
+    {
       "basename": "무제",
       "path": "kiosk_SW/무제.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "04_미니PC 스펙",
       "path": "FrSmart/FrSmart_Kiosk/04_미니PC 스펙.md"
-    },
-    {
-      "basename": "FrSmart_Kiosk",
-      "path": "FrSmart/FrSmart_Kiosk/FrSmart_Kiosk.md"
-    },
-    {
-      "basename": "02_모니터 후보",
-      "path": "FrSmart/FrSmart_Kiosk/02_모니터 후보.md"
     }
   ],
   "omittedPaths": [],
