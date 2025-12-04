@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "KC 인증 해야할 것들",
-      "path": "KC 인증/KC 인증 해야할 것들.md"
+      "basename": "무제",
+      "path": "KC 인증/무제.md"
+    },
+    {
+      "basename": "kiosk_SW",
+      "path": "kiosk_SW/kiosk_SW.md"
     },
     {
       "basename": "KC 인증이 뭔지",
       "path": "KC 인증/KC 인증이 뭔지.md"
+    },
+    {
+      "basename": "KC 인증 해야할 것들",
+      "path": "KC 인증/KC 인증 해야할 것들.md"
+    },
+    {
+      "basename": "0_현재 상태",
+      "path": "이직준비/0_현재 상태.md"
+    },
+    {
+      "basename": "01_자격증 목표",
+      "path": "이직준비/01_자격증 목표.md"
     },
     {
       "basename": "KC 인증",
@@ -37,14 +53,6 @@
       "path": "kiosk_SW/18_Top3Results.tsx.md"
     },
     {
-      "basename": "01_자격증 목표",
-      "path": "이직준비/01_자격증 목표.md"
-    },
-    {
-      "basename": "0_현재 상태",
-      "path": "이직준비/0_현재 상태.md"
-    },
-    {
       "basename": "14_App.tsx",
       "path": "kiosk_SW/14_App.tsx.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "16_CustomExperience.tsx",
       "path": "kiosk_SW/16_CustomExperience.tsx.md"
-    },
-    {
-      "basename": "kiosk_SW",
-      "path": "kiosk_SW/kiosk_SW.md"
     },
     {
       "basename": "15_Home.tsx",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-09-23",
       "path": "Notes/Daily/2025/09/2025-09-23.md"
-    },
-    {
-      "basename": "2025-09-22",
-      "path": "Notes/Daily/2025/09/2025-09-22.md"
     }
   ],
   "omittedPaths": [],

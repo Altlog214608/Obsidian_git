@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KC 인증/KC 인증 해야할 것들.md",
+                "file": "KC 인증/무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KC 인증 해야할 것들"
+              "title": "무제"
             }
           }
         ],
@@ -228,10 +228,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "98864f4e38b05c22",
+  "active": "2da0b0f82a4b25a1",
   "lastOpenFiles": [
+    "KC 인증/무제.md",
+    "kiosk_SW/kiosk_SW.md",
     "KC 인증/KC 인증이 뭔지.md",
     "KC 인증/KC 인증 해야할 것들.md",
+    "이직준비/0_현재 상태.md",
+    "이직준비/01_자격증 목표.md",
     "KC 인증/KC 인증.md",
     "kiosk_SW/무제.md",
     "KC 인증",
@@ -241,15 +245,12 @@
     "kiosk_SW/20_custom-experience.md",
     "kiosk_SW/19_TrendExperience.tsx.md",
     "kiosk_SW/18_Top3Results.tsx.md",
-    "이직준비/01_자격증 목표.md",
-    "이직준비/0_현재 상태.md",
     "kiosk_SW/14_App.tsx.md",
     "Notes/Daily/2025/11/2025-11-26.md",
     "이직준비/이직준비.md",
     "이직준비",
     "kiosk_SW/17_CustomResults.tsx.md",
     "kiosk_SW/16_CustomExperience.tsx.md",
-    "kiosk_SW/kiosk_SW.md",
     "kiosk_SW/15_Home.tsx.md",
     "kiosk_SW/01_기본 구성.md",
     "KnowledgeBase/KnowledgeBase.md",
@@ -258,7 +259,6 @@
     "kiosk_SW/10_index.ts.md",
     "kiosk_SW/10_1 index.ts.md",
     "kiosk_SW/05_Electron.md",
-    "kiosk_SW/04_kiosk 앱 요약 정리 1103.md",
     "Notes/Daily/2025/11",
     "kiosk_SW",
     "Notes/Daily/2025/10",
