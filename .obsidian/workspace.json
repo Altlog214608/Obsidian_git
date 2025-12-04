@@ -114,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 200
   },
   "right": {
     "id": "adc43d850fe1ab1b",
@@ -211,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,7 +228,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2da0b0f82a4b25a1",
+  "active": "98864f4e38b05c22",
   "lastOpenFiles": [
     "KC 인증/KC 인증이 뭔지.md",
     "KC 인증/KC 인증 해야할 것들.md",
