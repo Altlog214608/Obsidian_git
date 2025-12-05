@@ -5,6 +5,10 @@
       "path": "KC 인증/키오스크 파우치, 호스 재질 후보.md"
     },
     {
+      "basename": "01_기본 구성",
+      "path": "kiosk_SW/01_기본 구성.md"
+    },
+    {
       "basename": "kiosk_SW",
       "path": "kiosk_SW/kiosk_SW.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "15_Home.tsx",
       "path": "kiosk_SW/15_Home.tsx.md"
-    },
-    {
-      "basename": "01_기본 구성",
-      "path": "kiosk_SW/01_기본 구성.md"
     },
     {
       "basename": "KnowledgeBase",

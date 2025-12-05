@@ -230,6 +230,7 @@
   },
   "active": "2da0b0f82a4b25a1",
   "lastOpenFiles": [
+    "kiosk_SW/01_기본 구성.md",
     "KC 인증/키오스크 파우치, 호스 재질 후보.md",
     "kiosk_SW/kiosk_SW.md",
     "KC 인증/KC 인증이 뭔지.md",
@@ -252,7 +253,6 @@
     "kiosk_SW/17_CustomResults.tsx.md",
     "kiosk_SW/16_CustomExperience.tsx.md",
     "kiosk_SW/15_Home.tsx.md",
-    "kiosk_SW/01_기본 구성.md",
     "KnowledgeBase/KnowledgeBase.md",
     "kiosk_SW/07_공부 방향.md",
     "kiosk_SW/13_gesture_radial.md",
