@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-12-10",
+      "path": "Notes/Daily/2025/12/2025-12-10.md"
+    },
+    {
+      "basename": "2025-12-03",
+      "path": "Notes/Daily/2025/12/2025-12-03.md"
+    },
+    {
       "basename": "키오스크 파우치, 호스 재질 후보",
       "path": "KC 인증/키오스크 파우치, 호스 재질 후보.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "무제",
       "path": "kiosk_SW/무제.md"
-    },
-    {
-      "basename": "2025-12-03",
-      "path": "Notes/Daily/2025/12/2025-12-03.md"
     },
     {
       "basename": "21_TS + React 기본 문법",
@@ -195,10 +199,6 @@
     {
       "basename": "43_DB",
       "path": "ScentSmart/ScentSmart_SW_분석/43_DB.md"
-    },
-    {
-      "basename": "2025-09-23",
-      "path": "Notes/Daily/2025/09/2025-09-23.md"
     }
   ],
   "omittedPaths": [],
