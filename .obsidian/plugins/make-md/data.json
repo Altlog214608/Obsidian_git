@@ -60,8 +60,7 @@
     "//ds-kiosk",
     "//FrSmart/FrSmart/FrSmart_SW_분석",
     "//13_gesture_radial",
-    "//KC 인증",
-    "//kiosk_SW"
+    "//KC 인증"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

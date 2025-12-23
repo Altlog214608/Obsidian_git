@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "KC 인증/무제.md"
+    },
+    {
+      "basename": "KC 인증",
+      "path": "KC 인증/KC 인증.md"
+    },
+    {
+      "basename": "KC 인증 해야할 것들",
+      "path": "KC 인증/KC 인증 해야할 것들.md"
+    },
+    {
+      "basename": "KC 인증이 뭔지",
+      "path": "KC 인증/KC 인증이 뭔지.md"
+    },
+    {
+      "basename": "키오스크 파우치, 호스 재질 후보",
+      "path": "KC 인증/키오스크 파우치, 호스 재질 후보.md"
+    },
+    {
       "basename": "2025-12-23",
       "path": "Notes/Daily/2025/12/2025-12-23.md"
     },
@@ -25,10 +45,6 @@
       "path": "kiosk_SW/무제.md"
     },
     {
-      "basename": "키오스크 파우치, 호스 재질 후보",
-      "path": "KC 인증/키오스크 파우치, 호스 재질 후보.md"
-    },
-    {
       "basename": "2025-12-10",
       "path": "Notes/Daily/2025/12/2025-12-10.md"
     },
@@ -41,24 +57,12 @@
       "path": "kiosk_SW/kiosk_SW.md"
     },
     {
-      "basename": "KC 인증이 뭔지",
-      "path": "KC 인증/KC 인증이 뭔지.md"
-    },
-    {
-      "basename": "KC 인증 해야할 것들",
-      "path": "KC 인증/KC 인증 해야할 것들.md"
-    },
-    {
       "basename": "0_현재 상태",
       "path": "이직준비/0_현재 상태.md"
     },
     {
       "basename": "01_자격증 목표",
       "path": "이직준비/01_자격증 목표.md"
-    },
-    {
-      "basename": "KC 인증",
-      "path": "KC 인증/KC 인증.md"
     },
     {
       "basename": "20_custom-experience",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-09-25",
       "path": "Notes/Daily/2025/09/2025-09-25.md"
-    },
-    {
-      "basename": "데이터AI 공부 방향",
-      "path": "KnowledgeBase/Study/데이터AI 공부 방향.md"
     }
   ],
   "omittedPaths": [],
