@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily/2025/12/2025-12-23.md",
+                "file": "이직준비/02_다이어트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-23"
+              "title": "02_다이어트"
             }
           }
         ]
@@ -214,12 +214,14 @@
   },
   "active": "42bc2ab1bf9d7756",
   "lastOpenFiles": [
+    "이직준비/02_다이어트.md",
+    "이직준비/이직준비.md",
+    "Notes/Daily/2025/12/2025-12-23.md",
     "KC 인증/무제.md",
     "KC 인증/KC 인증.md",
     "KC 인증/KC 인증 해야할 것들.md",
     "KC 인증/KC 인증이 뭔지.md",
     "KC 인증/키오스크 파우치, 호스 재질 후보.md",
-    "Notes/Daily/2025/12/2025-12-23.md",
     "Notes/Daily/2025/12/2025-12-17.md",
     "Notes/Daily/2025/12/2025-12-16.md",
     "kiosk_SW/01_기본 구성.md",
@@ -237,12 +239,10 @@
     "kiosk_SW/18_Top3Results.tsx.md",
     "kiosk_SW/14_App.tsx.md",
     "Notes/Daily/2025/11/2025-11-26.md",
-    "이직준비/이직준비.md",
     "이직준비",
     "kiosk_SW/17_CustomResults.tsx.md",
     "kiosk_SW/16_CustomExperience.tsx.md",
     "kiosk_SW/15_Home.tsx.md",
-    "KnowledgeBase/KnowledgeBase.md",
     "Notes/Daily/2025/11",
     "kiosk_SW",
     "Notes/Daily/2025/10",

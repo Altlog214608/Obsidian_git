@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "02_다이어트",
+      "path": "이직준비/02_다이어트.md"
+    },
+    {
+      "basename": "이직준비",
+      "path": "이직준비/이직준비.md"
+    },
+    {
       "basename": "2025-12-23",
       "path": "Notes/Daily/2025/12/2025-12-23.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2025-10-14",
       "path": "Notes/Daily/2025/10/2025-10-14.md"
-    },
-    {
-      "basename": "2025-10-13",
-      "path": "Notes/Daily/2025/10/2025-10-13.md"
-    },
-    {
-      "basename": "2025-09-25",
-      "path": "Notes/Daily/2025/09/2025-09-25.md"
     }
   ],
   "omittedPaths": [],
