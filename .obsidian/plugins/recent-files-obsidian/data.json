@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "KC 인증 체크리스트",
-      "path": "KC 인증/KC 인증 체크리스트.md"
+      "basename": "치매기기 최종성적서와 비교",
+      "path": "KC 인증/치매기기 최종성적서와 비교.md"
     },
     {
-      "basename": "무제",
-      "path": "KC 인증/무제.md"
+      "basename": "프롬프트",
+      "path": "KC 인증/프롬프트.md"
+    },
+    {
+      "basename": "KC 인증 체크리스트",
+      "path": "KC 인증/KC 인증 체크리스트.md"
     },
     {
       "basename": "2025-12-23",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-10-17",
       "path": "Notes/Daily/2025/10/2025-10-17.md"
-    },
-    {
-      "basename": "2025-10-27",
-      "path": "Notes/Daily/2025/10/2025-10-27.md"
     }
   ],
   "omittedPaths": [],
