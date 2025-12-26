@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "KC 인증 체크리스트",
+      "path": "KC 인증/KC 인증 체크리스트.md"
+    },
+    {
       "basename": "무제",
       "path": "KC 인증/무제.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-10-27",
       "path": "Notes/Daily/2025/10/2025-10-27.md"
-    },
-    {
-      "basename": "00_개요",
-      "path": "FrSmart/FrSmart_SW_분석/00_개요.md"
     }
   ],
   "omittedPaths": [],
