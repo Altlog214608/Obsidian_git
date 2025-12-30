@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "KTC 사전상담 채팅 준비",
-      "path": "KC 인증/KTC 사전상담 채팅 준비.md"
+      "basename": "KC 준비물 체크리스트",
+      "path": "KC 인증/KC 준비물 체크리스트.md"
     },
     {
       "basename": "2025-12-23",
       "path": "Notes/Daily/2025/12/2025-12-23.md"
+    },
+    {
+      "basename": "KTC 사전상담 채팅 준비",
+      "path": "KC 인증/KTC 사전상담 채팅 준비.md"
     },
     {
       "basename": "KC 인증이 뭔지",
@@ -195,10 +199,6 @@
     {
       "basename": "08_루트 주요 파일 설명",
       "path": "kiosk_SW/08_루트 주요 파일 설명.md"
-    },
-    {
-      "basename": "2025-11-03",
-      "path": "Notes/Daily/2025/11/2025-11-03.md"
     }
   ],
   "omittedPaths": [],
