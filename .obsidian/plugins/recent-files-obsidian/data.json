@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-12-31",
+      "path": "Notes/Daily/2025/12/2025-12-31.md"
+    },
+    {
       "basename": "KC 준비물 체크리스트",
       "path": "KC 인증/KC 준비물 체크리스트.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "09_package.json, vite.config.ts, tsconfig.json",
       "path": "kiosk_SW/09_package.json, vite.config.ts, tsconfig.json.md"
-    },
-    {
-      "basename": "08_루트 주요 파일 설명",
-      "path": "kiosk_SW/08_루트 주요 파일 설명.md"
     }
   ],
   "omittedPaths": [],
