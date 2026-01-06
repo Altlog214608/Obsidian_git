@@ -161,4 +161,4 @@ KC 인증 제품 라벨은 기본적으로 “KC마크 + 인증번호(또는 적
 17. [http://www.ktc.re.kr/web_united/task/task.asp?pagen=1677](http://www.ktc.re.kr/web_united/task/task.asp?pagen=1677)
 18. [https://www.kats.go.kr/content.do?cmsid=49](https://www.kats.go.kr/content.do?cmsid=49)
 19. [https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000239476&chrClsCd=010201](https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000239476&chrClsCd=010201)
-20. [https://www.kats.go.kr/content.do?cmsid=51](https://www.kats.go.kr/content.do?cmsid=51)
+20. [https://www.kats.go.kr/content.do?cmsid=51](https://www.kats.go.kr/content.do?cmsid=51)![[전기용품 표시사항 작성 가이드북_284.png]]
