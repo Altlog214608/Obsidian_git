@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "KC 인증 제품 표시사항(라벨)",
+      "path": "KC 인증/KC 인증 제품 표시사항(라벨).md"
+    },
+    {
+      "basename": "KnowledgeBase",
+      "path": "KnowledgeBase/KnowledgeBase.md"
+    },
+    {
       "basename": "KC 안전확인 신규 신청 제출 서류 목록",
       "path": "KC 인증/KC 안전확인 신규 신청 제출 서류 목록.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "KC인증 신문고",
       "path": "KC 인증/KC인증 신문고.md"
-    },
-    {
-      "basename": "KC 인증 제품 표시사항(라벨)",
-      "path": "KC 인증/KC 인증 제품 표시사항(라벨).md"
     },
     {
       "basename": "정리",
@@ -159,10 +163,6 @@
     {
       "basename": "15_Home.tsx",
       "path": "kiosk_SW/15_Home.tsx.md"
-    },
-    {
-      "basename": "KnowledgeBase",
-      "path": "KnowledgeBase/KnowledgeBase.md"
     },
     {
       "basename": "07_공부 방향",
