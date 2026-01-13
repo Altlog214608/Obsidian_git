@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-13",
+      "path": "Notes/Daily/2026/01/2026-01-13.md"
+    },
+    {
       "basename": "KC 인증 제품 표시사항(라벨)",
       "path": "KC 인증/KC 인증 제품 표시사항(라벨).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "02-1_button 코드 모음",
       "path": "kiosk_SW/02-1_button 코드 모음.md"
-    },
-    {
-      "basename": "02-2_button element 화 시키기",
-      "path": "kiosk_SW/02-2_button element 화 시키기.md"
     }
   ],
   "omittedPaths": [],
