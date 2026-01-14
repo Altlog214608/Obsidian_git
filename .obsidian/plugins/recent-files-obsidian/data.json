@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 1",
+      "path": "KC 인증/무제 1.md"
+    },
+    {
       "basename": "KC 안전확인 신규 신청 제출 서류 목록",
       "path": "KC 인증/KC 안전확인 신규 신청 제출 서류 목록.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "03_1 React Design Patterns 요약",
       "path": "kiosk_SW/03_1 React Design Patterns 요약.md"
-    },
-    {
-      "basename": "02-1_button 코드 모음",
-      "path": "kiosk_SW/02-1_button 코드 모음.md"
     }
   ],
   "omittedPaths": [],
