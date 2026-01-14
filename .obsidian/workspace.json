@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "2026-01-13"
             }
+          },
+          {
+            "id": "19173adfd862f0c6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.11.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             }
           },
           {
-            "id": "144ded18252e7099",
+            "id": "d5e23293cb747863",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -227,7 +239,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c795812937170415",
+  "active": "19173adfd862f0c6",
   "lastOpenFiles": [
     "KC 인증/KC 인증 제품 표시사항(라벨).md",
     "Notes/Daily/2026/01/2026-01-13.md",
