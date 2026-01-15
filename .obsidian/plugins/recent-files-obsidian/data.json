@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-15",
+      "path": "Notes/Daily/2026/01/2026-01-15.md"
+    },
+    {
       "basename": "제품설명서(사용설명서)",
       "path": "KC 인증/제품설명서(사용설명서).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "04_kiosk 앱 요약 정리 1103",
       "path": "kiosk_SW/04_kiosk 앱 요약 정리 1103.md"
-    },
-    {
-      "basename": "03_1 React Design Patterns 요약",
-      "path": "kiosk_SW/03_1 React Design Patterns 요약.md"
     }
   ],
   "omittedPaths": [],
