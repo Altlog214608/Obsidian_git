@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-19",
+      "path": "Notes/Daily/2026/01/2026-01-19.md"
+    },
+    {
       "basename": "2026-01-15",
       "path": "Notes/Daily/2026/01/2026-01-15.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "05_Electron",
       "path": "kiosk_SW/05_Electron.md"
-    },
-    {
-      "basename": "04_kiosk 앱 요약 정리 1103",
-      "path": "kiosk_SW/04_kiosk 앱 요약 정리 1103.md"
     }
   ],
   "omittedPaths": [],
