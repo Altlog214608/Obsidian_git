@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily/2026/01/2026-01-19.md",
+                "file": "Notes/Daily/2026/01/2026-01-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-19"
+              "title": "2026-01-15"
             }
           }
         ],
@@ -229,9 +229,10 @@
   },
   "active": "c795812937170415",
   "lastOpenFiles": [
-    "Notes/Daily/2026/01/2026-01-15.md",
-    "Notes/Daily/2026/01/2026-01-19.md",
+    "Notes/Daily/2026/01/2026-01-06.md",
     "Notes/Daily/2026/01/2026-01-13.md",
+    "Notes/Daily/2026/01/2026-01-19.md",
+    "Notes/Daily/2026/01/2026-01-15.md",
     "KC 인증/제품설명서(사용설명서).md",
     "KC 인증/KC 안전확인 신규 신청 제출 서류 목록.md",
     "KC 인증/AI 기반 고객 체험형 디지털 향수 가전제품.md",
@@ -239,7 +240,6 @@
     "KC 인증/정리.md",
     "KC 인증/KC 인증이 뭔지.md",
     "KC 인증/KC 준비물 체크리스트.md",
-    "Notes/Daily/2026/01/2026-01-06.md",
     "KC 인증/KC 인증 제품 표시사항(라벨).md",
     "KnowledgeBase/KnowledgeBase.md",
     "KC 인증/프롬프트.md",
