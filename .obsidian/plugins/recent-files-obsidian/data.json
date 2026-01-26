@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-26",
+      "path": "Notes/Daily/2026/01/2026-01-26.md"
+    },
+    {
       "basename": "KC 안전확인 신규 신청 제출 서류 목록",
       "path": "KC 인증/KC 안전확인 신규 신청 제출 서류 목록.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10_1 index.ts",
       "path": "kiosk_SW/10_1 index.ts.md"
-    },
-    {
-      "basename": "05_Electron",
-      "path": "kiosk_SW/05_Electron.md"
     }
   ],
   "omittedPaths": [],
