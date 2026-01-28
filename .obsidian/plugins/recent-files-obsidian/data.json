@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-28",
+      "path": "Notes/Daily/2026/01/2026-01-28.md"
+    },
+    {
       "basename": "2026-01-26",
       "path": "Notes/Daily/2026/01/2026-01-26.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10_index.ts",
       "path": "kiosk_SW/10_index.ts.md"
-    },
-    {
-      "basename": "10_1 index.ts",
-      "path": "kiosk_SW/10_1 index.ts.md"
     }
   ],
   "omittedPaths": [],
