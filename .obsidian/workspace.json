@@ -106,12 +106,12 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           },
           {
-            "id": "a19374c4ee79c084",
+            "id": "f3e441bbcb349373",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -203,8 +203,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -213,8 +213,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -226,20 +226,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:새 베이스 생성하기": false,
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "custom-sort:Toggle custom sorting": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "42bc2ab1bf9d7756",
   "lastOpenFiles": [
+    "Tags",
     "Notes/Daily/2026/01/2026-01-28.md",
     "Notes/Daily/2026/01/2026-01-26.md",
     "KC 인증/KC 안전확인 신규 신청 제출 서류 목록.md",
@@ -268,7 +267,6 @@
     "Notes/Daily/2026/01",
     "Notes/Daily/2026",
     "Notes/Daily/2025/12/2025-12-31.md",
-    "Notes/Daily/2025/12/2025-12-23.md",
     "KC 인증",
     "Notes/Daily/2025/12",
     "이직준비",
