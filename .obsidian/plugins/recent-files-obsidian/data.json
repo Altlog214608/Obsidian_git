@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-10-17",
+      "path": "Notes/Daily/2025/10/2025-10-17.md"
+    },
+    {
+      "basename": "2025-10-27",
+      "path": "Notes/Daily/2025/10/2025-10-27.md"
+    },
+    {
+      "basename": "2025-10-13",
+      "path": "Notes/Daily/2025/10/2025-10-13.md"
+    },
+    {
+      "basename": "2025-10-14",
+      "path": "Notes/Daily/2025/10/2025-10-14.md"
+    },
+    {
+      "basename": "2025-10-01",
+      "path": "Notes/Daily/2025/10/2025-10-01.md"
+    },
+    {
+      "basename": "2025-11-26",
+      "path": "Notes/Daily/2025/11/2025-11-26.md"
+    },
+    {
+      "basename": "2025-11-03",
+      "path": "Notes/Daily/2025/11/2025-11-03.md"
+    },
+    {
+      "basename": "2025-12-16",
+      "path": "Notes/Daily/2025/12/2025-12-16.md"
+    },
+    {
+      "basename": "2025-12-03",
+      "path": "Notes/Daily/2025/12/2025-12-03.md"
+    },
+    {
+      "basename": "2025-12-10",
+      "path": "Notes/Daily/2025/12/2025-12-10.md"
+    },
+    {
       "basename": "2026-02-02",
       "path": "Notes/Daily/2026/02/2026-02-02.md"
     },
@@ -125,10 +165,6 @@
       "path": "Notes/Daily/2025/12/2025-12-17.md"
     },
     {
-      "basename": "2025-12-16",
-      "path": "Notes/Daily/2025/12/2025-12-16.md"
-    },
-    {
       "basename": "01_기본 구성",
       "path": "kiosk_SW/01_기본 구성.md"
     },
@@ -139,14 +175,6 @@
     {
       "basename": "무제",
       "path": "kiosk_SW/무제.md"
-    },
-    {
-      "basename": "2025-12-10",
-      "path": "Notes/Daily/2025/12/2025-12-10.md"
-    },
-    {
-      "basename": "2025-12-03",
-      "path": "Notes/Daily/2025/12/2025-12-03.md"
     },
     {
       "basename": "kiosk_SW",
@@ -171,34 +199,6 @@
     {
       "basename": "18_Top3Results.tsx",
       "path": "kiosk_SW/18_Top3Results.tsx.md"
-    },
-    {
-      "basename": "14_App.tsx",
-      "path": "kiosk_SW/14_App.tsx.md"
-    },
-    {
-      "basename": "2025-11-26",
-      "path": "Notes/Daily/2025/11/2025-11-26.md"
-    },
-    {
-      "basename": "17_CustomResults.tsx",
-      "path": "kiosk_SW/17_CustomResults.tsx.md"
-    },
-    {
-      "basename": "16_CustomExperience.tsx",
-      "path": "kiosk_SW/16_CustomExperience.tsx.md"
-    },
-    {
-      "basename": "15_Home.tsx",
-      "path": "kiosk_SW/15_Home.tsx.md"
-    },
-    {
-      "basename": "07_공부 방향",
-      "path": "kiosk_SW/07_공부 방향.md"
-    },
-    {
-      "basename": "13_gesture_radial",
-      "path": "kiosk_SW/13_gesture_radial.md"
     }
   ],
   "omittedPaths": [],
