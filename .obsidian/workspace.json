@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2026-02-06"
             }
+          },
+          {
+            "id": "ce6d9119eb9d4268",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             }
           },
           {
-            "id": "1177842152fdc7e4",
+            "id": "d37e567a200370c7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -212,7 +225,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "1ec44eb429b06286",
+  "active": "ce6d9119eb9d4268",
   "lastOpenFiles": [
     "Notes/Daily/2025/10/2025-10-17.md",
     "Notes/Daily/2026/02/2026-02-06.md",
