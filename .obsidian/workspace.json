@@ -183,8 +183,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -208,7 +208,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "fbc3f16d304dac3f",
+  "active": "98a3a0a2d81ba333",
   "lastOpenFiles": [
     "new kiosk/hardware-spec.pdf",
     "new kiosk/new kiosk.md",
