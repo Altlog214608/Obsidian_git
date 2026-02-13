@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-13",
+      "path": "Notes/Daily/2026/02/2026-02-13.md"
+    },
+    {
+      "basename": "향수 키오스크 정리 - 판교 현대 백화점 버전",
+      "path": "new kiosk/향수 키오스크 정리 - 판교 현대 백화점 버전.md"
+    },
+    {
+      "basename": "c_0210_정리",
+      "path": "kiosk_SW/c_0210_정리.md"
+    },
+    {
+      "basename": "new kiosk",
+      "path": "new kiosk/new kiosk.md"
+    },
+    {
+      "basename": "01_자격증 목표",
+      "path": "이직준비/01_자격증 목표.md"
+    },
+    {
+      "basename": "02_다이어트",
+      "path": "이직준비/02_다이어트.md"
+    },
+    {
+      "basename": "0_현재 상태",
+      "path": "이직준비/0_현재 상태.md"
+    },
+    {
       "basename": "kiosk_SW",
       "path": "kiosk_SW/kiosk_SW.md"
     },
     {
       "basename": "KnowledgeBase",
       "path": "KnowledgeBase/KnowledgeBase.md"
-    },
-    {
-      "basename": "c_0210_정리",
-      "path": "kiosk_SW/c_0210_정리.md"
     },
     {
       "basename": "2026-02-10",
@@ -169,32 +193,12 @@
       "path": "KC 인증/KC 인증.md"
     },
     {
-      "basename": "02_다이어트",
-      "path": "이직준비/02_다이어트.md"
-    },
-    {
       "basename": "이직준비",
       "path": "이직준비/이직준비.md"
     },
     {
       "basename": "2025-12-17",
       "path": "Notes/Daily/2025/12/2025-12-17.md"
-    },
-    {
-      "basename": "01_기본 구성",
-      "path": "kiosk_SW/01_기본 구성.md"
-    },
-    {
-      "basename": "21_TS + React 기본 문법",
-      "path": "kiosk_SW/21_TS + React 기본 문법.md"
-    },
-    {
-      "basename": "0_현재 상태",
-      "path": "이직준비/0_현재 상태.md"
-    },
-    {
-      "basename": "01_자격증 목표",
-      "path": "이직준비/01_자격증 목표.md"
     }
   ],
   "omittedPaths": [],

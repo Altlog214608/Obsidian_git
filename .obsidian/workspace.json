@@ -11,10 +11,14 @@
             "id": "fbc3f16d304dac3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Daily/2026/02/2026-02-13.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-02-13"
             }
           }
         ]
@@ -81,7 +85,7 @@
             }
           },
           {
-            "id": "6f7d30bcdcb0b097",
+            "id": "ad389947db03b268",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -208,14 +212,19 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "6f7d30bcdcb0b097",
+  "active": "fbc3f16d304dac3f",
   "lastOpenFiles": [
+    "new kiosk/향수 키오스크 정리 - 판교 현대 백화점 버전.md",
+    "kiosk_SW/c_0210_정리.md",
     "new kiosk/new kiosk.md",
+    "이직준비/01_자격증 목표.md",
+    "이직준비/02_다이어트.md",
+    "이직준비/0_현재 상태.md",
+    "Notes/Daily/2026/02/2026-02-13.md",
     "new kiosk",
     "Untitled.md",
     "kiosk_SW/kiosk_SW.md",
     "KnowledgeBase/KnowledgeBase.md",
-    "kiosk_SW/c_0210_정리.md",
     "Notes/Daily/2026/02/2026-02-10.md",
     "Tags",
     "Notes/Daily/2026/02/2026-02-06.md",
@@ -234,11 +243,6 @@
     "Notes/Daily/2026/02",
     "Notes/Daily/2026/01/2026-01-28.md",
     "Notes/Daily/2026/01/2026-01-26.md",
-    "KC 인증/KC 안전확인 신규 신청 제출 서류 목록.md",
-    "KC 인증/치매기기 최종성적서와 비교.md",
-    "KC 인증/제품설명서(사용설명서).md",
-    "KC 인증/향료원액과 수액팩.md",
-    "KC 인증/키오스크 파우치, 호스 재질 후보.md",
     "assets/img/전기용품 표시사항 작성 가이드북_284.png",
     "Notes/Daily/2026/01",
     "Notes/Daily/2026",
