@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "da7ffb0c6b272793",
+        "id": "327ce448dfaef59e",
         "type": "tabs",
         "children": [
           {
-            "id": "fbc3f16d304dac3f",
+            "id": "58800eb70525106b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "new kiosk/hardware-spec.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "hardware-spec"
             }
           }
         ]
@@ -208,13 +210,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "98a3a0a2d81ba333",
+  "active": "58800eb70525106b",
   "lastOpenFiles": [
-    "new kiosk/hardware-spec.pdf",
-    "new kiosk/new kiosk.md",
     "new kiosk/DDP용 조향기능 탑재 예정 하드웨어.md",
-    "Notes/Daily/2026/02/2026-02-13.md",
+    "new kiosk/hardware-spec.pdf",
     "new kiosk/향수 키오스크 정리 - 판교 현대 백화점 버전.md",
+    "new kiosk/new kiosk.md",
+    "Notes/Daily/2026/02/2026-02-13.md",
     "kiosk_SW/c_0210_정리.md",
     "이직준비/01_자격증 목표.md",
     "이직준비/02_다이어트.md",
@@ -246,7 +248,6 @@
     "Notes/Daily/2025/12",
     "이직준비",
     "Notes/Daily/2025/11",
-    "kiosk_SW",
     "assets/img/a05d3d35-cc87-4a76-9aaf-bc6e35f72b33.webp",
     "assets/img/IPC2110A_Cross2-view_full.webp",
     "assets/img/Nuvo-3000_RightFront.jpg",
