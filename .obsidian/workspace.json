@@ -11,14 +11,12 @@
             "id": "fbc3f16d304dac3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "new kiosk/DDP용 조향기능 탑재 예정 하드웨어.md",
-                "mode": "source",
-                "source": false
+                "file": "new kiosk/hardware-spec.pdf"
               },
-              "icon": "lucide-file",
-              "title": "DDP용 조향기능 탑재 예정 하드웨어"
+              "icon": "lucide-file-text",
+              "title": "hardware-spec"
             }
           }
         ]
@@ -214,11 +212,12 @@
   },
   "active": "fbc3f16d304dac3f",
   "lastOpenFiles": [
-    "Notes/Daily/2026/02/2026-02-13.md",
+    "new kiosk/hardware-spec.pdf",
+    "new kiosk/new kiosk.md",
     "new kiosk/DDP용 조향기능 탑재 예정 하드웨어.md",
+    "Notes/Daily/2026/02/2026-02-13.md",
     "new kiosk/향수 키오스크 정리 - 판교 현대 백화점 버전.md",
     "kiosk_SW/c_0210_정리.md",
-    "new kiosk/new kiosk.md",
     "이직준비/01_자격증 목표.md",
     "이직준비/02_다이어트.md",
     "이직준비/0_현재 상태.md",
@@ -242,7 +241,6 @@
     "Notes/Daily/2026/02/2026-02-02.md",
     "KC 인증/KTC 사전상담 채팅 준비.md",
     "Notes/Daily/2026/02",
-    "Notes/Daily/2026/01/2026-01-28.md",
     "assets/img/전기용품 표시사항 작성 가이드북_284.png",
     "Notes/Daily/2026/01",
     "Notes/Daily/2026",

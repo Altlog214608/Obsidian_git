@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "hardware-spec",
+      "path": "new kiosk/hardware-spec.pdf"
+    },
+    {
+      "basename": "new kiosk",
+      "path": "new kiosk/new kiosk.md"
+    },
+    {
       "basename": "DDP용 조향기능 탑재 예정 하드웨어",
       "path": "new kiosk/DDP용 조향기능 탑재 예정 하드웨어.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "c_0210_정리",
       "path": "kiosk_SW/c_0210_정리.md"
-    },
-    {
-      "basename": "new kiosk",
-      "path": "new kiosk/new kiosk.md"
     },
     {
       "basename": "01_자격증 목표",
@@ -195,10 +199,6 @@
     {
       "basename": "KC 인증",
       "path": "KC 인증/KC 인증.md"
-    },
-    {
-      "basename": "이직준비",
-      "path": "이직준비/이직준비.md"
     }
   ],
   "omittedPaths": [],
