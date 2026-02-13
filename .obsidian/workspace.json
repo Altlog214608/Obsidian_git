@@ -11,12 +11,10 @@
             "id": "fbc3f16d304dac3f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "new kiosk/hardware-spec.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "hardware-spec"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
